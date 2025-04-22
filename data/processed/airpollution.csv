@@ -1,0 +1,2905 @@
+COUNTRY_NAME,COUNTRY_CODE,YEAR,PERCENTAGE_OF_PEOPLE_EXPOSED_TO_AIR_POLLUTION
+Africa Eastern and Southern,AFE,1990,100.0
+Afghanistan,AFG,1990,100.0
+Africa Western and Central,AFW,1990,100.0
+Angola,AGO,1990,100.0
+Albania,ALB,1990,100.0
+Andorra,AND,1990,100.0
+Arab World,ARB,1990,100.0
+United Arab Emirates,ARE,1990,100.0
+Argentina,ARG,1990,99.60669969
+Armenia,ARM,1990,100.0
+American Samoa,ASM,1990,100.0
+Antigua and Barbuda,ATG,1990,100.0
+Australia,AUS,1990,31.88340426
+Austria,AUT,1990,99.65557002
+Azerbaijan,AZE,1990,100.0
+Burundi,BDI,1990,100.0
+Belgium,BEL,1990,99.8690949
+Benin,BEN,1990,100.0
+Burkina Faso,BFA,1990,100.0
+Bangladesh,BGD,1990,100.0
+Bulgaria,BGR,1990,99.95466196
+Bahrain,BHR,1990,100.0
+"Bahamas, The",BHS,1990,100.0
+Bosnia and Herzegovina,BIH,1990,100.0
+Belarus,BLR,1990,100.0
+Belize,BLZ,1990,100.0
+Bermuda,BMU,1990,100.0
+Bolivia,BOL,1990,100.0
+Brazil,BRA,1990,88.9953306
+Barbados,BRB,1990,100.0
+Brunei Darussalam,BRN,1990,0.0
+Bhutan,BTN,1990,100.0
+Botswana,BWA,1990,100.0
+Central African Republic,CAF,1990,100.0
+Canada,CAN,1990,16.21291608
+Central Europe and the Baltics,CEB,1990,98.94583265
+Switzerland,CHE,1990,96.42866549
+Chile,CHL,1990,99.35020241
+China,CHN,1990,100.0
+Cote d'Ivoire,CIV,1990,100.0
+Cameroon,CMR,1990,100.0
+"Congo, Dem. Rep.",COD,1990,100.0
+"Congo, Rep.",COG,1990,100.0
+Colombia,COL,1990,99.69689066
+Comoros,COM,1990,100.0
+Cabo Verde,CPV,1990,100.0
+Costa Rica,CRI,1990,100.0
+Caribbean small states,CSS,1990,100.0
+Cuba,CUB,1990,100.0
+Cyprus,CYP,1990,100.0
+Czech Republic,CZE,1990,99.9816846
+Germany,DEU,1990,99.75579068
+Djibouti,DJI,1990,100.0
+Dominica,DMA,1990,100.0
+Denmark,DNK,1990,99.96173726
+Dominican Republic,DOM,1990,100.0
+Algeria,DZA,1990,100.0
+East Asia & Pacific (excluding high income),EAP,1990,99.67387611
+Early-demographic dividend,EAR,1990,99.77823238
+East Asia & Pacific,EAS,1990,98.38199204
+Europe & Central Asia (excluding high income),ECA,1990,98.56155025
+Europe & Central Asia,ECS,1990,94.81195905
+Ecuador,ECU,1990,99.98107065
+"Egypt, Arab Rep.",EGY,1990,100.0
+Euro area,EMU,1990,93.0091796
+Eritrea,ERI,1990,100.0
+Spain,ESP,1990,77.57638671
+Estonia,EST,1990,26.15621105
+Ethiopia,ETH,1990,100.0
+European Union,EUU,1990,92.93490079
+Fragile and conflict affected situations,FCS,1990,100.0
+Finland,FIN,1990,1.627373859
+Fiji,FJI,1990,100.0
+France,FRA,1990,99.7744511
+"Micronesia, Fed. Sts.",FSM,1990,100.0
+Gabon,GAB,1990,100.0
+United Kingdom,GBR,1990,91.13908475
+Georgia,GEO,1990,100.0
+Ghana,GHA,1990,100.0
+Guinea,GIN,1990,100.0
+"Gambia, The",GMB,1990,100.0
+Guinea-Bissau,GNB,1990,100.0
+Equatorial Guinea,GNQ,1990,100.0
+Greece,GRC,1990,100.0
+Grenada,GRD,1990,100.0
+Greenland,GRL,1990,100.0
+Guatemala,GTM,1990,100.0
+Guam,GUM,1990,100.0
+Guyana,GUY,1990,100.0
+High income,HIC,1990,77.94657715
+Honduras,HND,1990,100.0
+Heavily indebted poor countries (HIPC),HPC,1990,99.99996699
+Croatia,HRV,1990,100.0
+Haiti,HTI,1990,100.0
+Hungary,HUN,1990,100.0
+IBRD only,IBD,1990,99.19123385
+IDA & IBRD total,IBT,1990,99.34746917
+IDA total,IDA,1990,99.99998595
+IDA blend,IDB,1990,100.0
+Indonesia,IDN,1990,97.65695787
+IDA only,IDX,1990,99.99997887
+India,IND,1990,100.0
+Ireland,IRL,1990,60.3008592
+"Iran, Islamic Rep.",IRN,1990,100.0
+Iraq,IRQ,1990,100.0
+Iceland,ISL,1990,22.82265445
+Israel,ISR,1990,100.0
+Italy,ITA,1990,98.8103869
+Jamaica,JAM,1990,100.0
+Jordan,JOR,1990,100.0
+Japan,JPN,1990,92.52874907
+Kazakhstan,KAZ,1990,97.97481027
+Kenya,KEN,1990,100.0
+Kyrgyz Republic,KGZ,1990,100.0
+Cambodia,KHM,1990,100.0
+Kiribati,KIR,1990,100.0
+"Korea, Rep.",KOR,1990,100.0
+Kuwait,KWT,1990,100.0
+Latin America & Caribbean (excluding high income),LAC,1990,95.81367977
+Lao PDR,LAO,1990,100.0
+Lebanon,LBN,1990,100.0
+Liberia,LBR,1990,100.0
+Libya,LBY,1990,100.0
+St. Lucia,LCA,1990,100.0
+Latin America & Caribbean,LCN,1990,95.27216036
+Least developed countries: UN classification,LDC,1990,100.0
+Low income,LIC,1990,100.0
+Sri Lanka,LKA,1990,100.0
+Lower middle income,LMC,1990,99.78508089
+Low & middle income,LMY,1990,99.35436045
+Lesotho,LSO,1990,100.0
+Late-demographic dividend,LTE,1990,98.37036972
+Lithuania,LTU,1990,99.93809914
+Luxembourg,LUX,1990,100.0
+Latvia,LVA,1990,99.97949523
+Morocco,MAR,1990,100.0
+Moldova,MDA,1990,100.0
+Madagascar,MDG,1990,100.0
+Maldives,MDV,1990,99.99999839
+Middle East & North Africa,MEA,1990,100.0
+Mexico,MEX,1990,99.96149786
+Marshall Islands,MHL,1990,100.0
+Middle income,MIC,1990,99.30697409
+North Macedonia,MKD,1990,100.0
+Mali,MLI,1990,100.0
+Malta,MLT,1990,100.0
+Myanmar,MMR,1990,100.0
+Middle East & North Africa (excluding high income),MNA,1990,100.0
+Montenegro,MNE,1990,100.0
+Mongolia,MNG,1990,96.56512735
+Northern Mariana Islands,MNP,1990,100.0
+Mozambique,MOZ,1990,100.0
+Mauritania,MRT,1990,100.0
+Mauritius,MUS,1990,100.0
+Malawi,MWI,1990,100.0
+Malaysia,MYS,1990,94.95693047
+North America,NAC,1990,44.83567256
+Namibia,NAM,1990,100.0
+Niger,NER,1990,100.0
+Nigeria,NGA,1990,100.0
+Nicaragua,NIC,1990,99.99719986
+Netherlands,NLD,1990,100.0
+Norway,NOR,1990,33.31155134
+Nepal,NPL,1990,100.0
+New Zealand,NZL,1990,8.860266351
+OECD members,OED,1990,80.56756069
+Oman,OMN,1990,100.0
+Other small states,OSS,1990,90.7270011
+Pakistan,PAK,1990,100.0
+Panama,PAN,1990,96.50353782
+Peru,PER,1990,100.0
+Philippines,PHL,1990,100.0
+Papua New Guinea,PNG,1990,100.0
+Poland,POL,1990,100.0
+Pre-demographic dividend,PRE,1990,100.0
+Puerto Rico,PRI,1990,1.834862385
+"Korea, Dem. People's Rep.",PRK,1990,100.0
+Portugal,PRT,1990,54.49449582
+Paraguay,PRY,1990,100.0
+West Bank and Gaza,PSE,1990,100.0
+Pacific island small states,PSS,1990,100.0
+Post-demographic dividend,PST,1990,77.85369973
+Qatar,QAT,1990,100.0
+Romania,ROU,1990,100.0
+Russian Federation,RUS,1990,96.50772374
+Rwanda,RWA,1990,100.0
+South Asia,SAS,1990,100.0
+Saudi Arabia,SAU,1990,100.0
+Sudan,SDN,1990,100.0
+Senegal,SEN,1990,100.0
+Singapore,SGP,1990,100.0
+Solomon Islands,SLB,1990,100.0
+Sierra Leone,SLE,1990,100.0
+El Salvador,SLV,1990,100.0
+Somalia,SOM,1990,100.0
+Serbia,SRB,1990,100.0
+Sub-Saharan Africa (excluding high income),SSA,1990,100.0
+South Sudan,SSD,1990,100.0
+Sub-Saharan Africa,SSF,1990,100.0
+Small states,SST,1990,93.55293762
+Sao Tome and Principe,STP,1990,100.0
+Suriname,SUR,1990,100.0
+Slovak Republic,SVK,1990,100.0
+Slovenia,SVN,1990,100.0
+Sweden,SWE,1990,7.235441292
+Eswatini,SWZ,1990,100.0
+Seychelles,SYC,1990,100.0
+Syrian Arab Republic,SYR,1990,100.0
+Chad,TCD,1990,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,1990,99.66969052
+Europe & Central Asia (IDA & IBRD countries),TEC,1990,98.70656558
+Togo,TGO,1990,100.0
+Thailand,THA,1990,100.0
+Tajikistan,TJK,1990,100.0
+Turkmenistan,TKM,1990,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,95.93450752
+Timor-Leste,TLS,1990,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,1990,100.0
+Tonga,TON,1990,99.99999999
+South Asia (IDA & IBRD),TSA,1990,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1990,100.0
+Trinidad and Tobago,TTO,1990,100.0
+Tunisia,TUN,1990,100.0
+Turkey,TUR,1990,100.0
+Tanzania,TZA,1990,100.0
+Uganda,UGA,1990,100.0
+Ukraine,UKR,1990,100.0
+Upper middle income,UMC,1990,98.81426816
+Uruguay,URY,1990,83.40555755
+United States,USA,1990,47.99773704
+Uzbekistan,UZB,1990,100.0
+St. Vincent and the Grenadines,VCT,1990,100.0
+"Venezuela, RB",VEN,1990,100.0
+Virgin Islands (U.S.),VIR,1990,50.0
+Vietnam,VNM,1990,100.0
+Vanuatu,VUT,1990,100.0
+World,WLD,1990,95.31768291
+Samoa,WSM,1990,100.0
+"Yemen, Rep.",YEM,1990,100.0
+South Africa,ZAF,1990,100.0
+Zambia,ZMB,1990,100.0
+Zimbabwe,ZWE,1990,100.0
+Africa Eastern and Southern,AFE,1995,100.0
+Afghanistan,AFG,1995,100.0
+Africa Western and Central,AFW,1995,100.0
+Angola,AGO,1995,100.0
+Albania,ALB,1995,100.0
+Andorra,AND,1995,99.98421098
+Arab World,ARB,1995,100.0
+United Arab Emirates,ARE,1995,100.0
+Argentina,ARG,1995,99.58096493
+Armenia,ARM,1995,100.0
+American Samoa,ASM,1995,100.0
+Antigua and Barbuda,ATG,1995,100.0
+Australia,AUS,1995,31.61015799
+Austria,AUT,1995,99.23245662
+Azerbaijan,AZE,1995,100.0
+Burundi,BDI,1995,100.0
+Belgium,BEL,1995,99.63689199
+Benin,BEN,1995,100.0
+Burkina Faso,BFA,1995,100.0
+Bangladesh,BGD,1995,100.0
+Bulgaria,BGR,1995,99.95382521
+Bahrain,BHR,1995,100.0
+"Bahamas, The",BHS,1995,100.0
+Bosnia and Herzegovina,BIH,1995,100.0
+Belarus,BLR,1995,100.0
+Belize,BLZ,1995,100.0
+Bermuda,BMU,1995,100.0
+Bolivia,BOL,1995,100.0
+Brazil,BRA,1995,89.49137668
+Barbados,BRB,1995,100.0
+Brunei Darussalam,BRN,1995,0.0
+Bhutan,BTN,1995,100.0
+Botswana,BWA,1995,100.0
+Central African Republic,CAF,1995,100.0
+Canada,CAN,1995,12.91223135
+Central Europe and the Baltics,CEB,1995,98.76618326
+Switzerland,CHE,1995,95.10024899
+Chile,CHL,1995,99.3737591
+China,CHN,1995,100.0
+Cote d'Ivoire,CIV,1995,100.0
+Cameroon,CMR,1995,100.0
+"Congo, Dem. Rep.",COD,1995,100.0
+"Congo, Rep.",COG,1995,100.0
+Colombia,COL,1995,99.75641164
+Comoros,COM,1995,100.0
+Cabo Verde,CPV,1995,100.0
+Costa Rica,CRI,1995,100.0
+Caribbean small states,CSS,1995,100.0
+Cuba,CUB,1995,100.0
+Cyprus,CYP,1995,100.0
+Czech Republic,CZE,1995,99.98157212
+Germany,DEU,1995,99.64660636
+Djibouti,DJI,1995,100.0
+Dominica,DMA,1995,100.0
+Denmark,DNK,1995,99.54927924
+Dominican Republic,DOM,1995,100.0
+Algeria,DZA,1995,100.0
+East Asia & Pacific (excluding high income),EAP,1995,99.66932682
+Early-demographic dividend,EAR,1995,99.78268323
+East Asia & Pacific,EAS,1995,98.39351548
+Europe & Central Asia (excluding high income),ECA,1995,98.10340178
+Europe & Central Asia,ECS,1995,94.22175569
+Ecuador,ECU,1995,99.98928585
+"Egypt, Arab Rep.",EGY,1995,100.0
+Euro area,EMU,1995,92.47222462
+Eritrea,ERI,1995,100.0
+Spain,ESP,1995,76.35216271
+Estonia,EST,1995,6.887299394
+Ethiopia,ETH,1995,100.0
+European Union,EUU,1995,92.43108498
+Fragile and conflict affected situations,FCS,1995,100.0
+Finland,FIN,1995,0.673758399
+Fiji,FJI,1995,100.0
+France,FRA,1995,99.62535381
+"Micronesia, Fed. Sts.",FSM,1995,100.0
+Gabon,GAB,1995,100.0
+United Kingdom,GBR,1995,89.58045889
+Georgia,GEO,1995,100.0
+Ghana,GHA,1995,100.0
+Guinea,GIN,1995,100.0
+"Gambia, The",GMB,1995,100.0
+Guinea-Bissau,GNB,1995,100.0
+Equatorial Guinea,GNQ,1995,100.0
+Greece,GRC,1995,100.0
+Grenada,GRD,1995,100.0
+Greenland,GRL,1995,100.0
+Guatemala,GTM,1995,100.0
+Guam,GUM,1995,100.0
+Guyana,GUY,1995,100.0
+High income,HIC,1995,76.34140558
+Honduras,HND,1995,100.0
+Heavily indebted poor countries (HIPC),HPC,1995,99.99996662
+Croatia,HRV,1995,100.0
+Haiti,HTI,1995,100.0
+Hungary,HUN,1995,100.0
+IBRD only,IBD,1995,99.17043097
+IDA & IBRD total,IBT,1995,99.33829443
+IDA total,IDA,1995,99.99915108
+IDA blend,IDB,1995,100.0
+Indonesia,IDN,1995,97.66009417
+IDA only,IDX,1995,99.99872483
+India,IND,1995,100.0
+Ireland,IRL,1995,54.96168023
+"Iran, Islamic Rep.",IRN,1995,100.0
+Iraq,IRQ,1995,100.0
+Iceland,ISL,1995,21.21259897
+Israel,ISR,1995,100.0
+Italy,ITA,1995,98.77068354
+Jamaica,JAM,1995,100.0
+Jordan,JOR,1995,100.0
+Japan,JPN,1995,92.506271
+Kazakhstan,KAZ,1995,97.47356781
+Kenya,KEN,1995,100.0
+Kyrgyz Republic,KGZ,1995,99.82613248
+Cambodia,KHM,1995,100.0
+Kiribati,KIR,1995,100.0
+"Korea, Rep.",KOR,1995,100.0
+Kuwait,KWT,1995,100.0
+Latin America & Caribbean (excluding high income),LAC,1995,96.0143177
+Lao PDR,LAO,1995,100.0
+Lebanon,LBN,1995,100.0
+Liberia,LBR,1995,100.0
+Libya,LBY,1995,100.0
+St. Lucia,LCA,1995,100.0
+Latin America & Caribbean,LCN,1995,95.50313062
+Least developed countries: UN classification,LDC,1995,100.0
+Low income,LIC,1995,100.0
+Sri Lanka,LKA,1995,100.0
+Lower middle income,LMC,1995,99.78920004
+Low & middle income,LMY,1995,99.34412754
+Lesotho,LSO,1995,100.0
+Late-demographic dividend,LTE,1995,98.29715565
+Lithuania,LTU,1995,99.93632686
+Luxembourg,LUX,1995,100.0
+Latvia,LVA,1995,99.60808112
+Morocco,MAR,1995,100.0
+Moldova,MDA,1995,100.0
+Madagascar,MDG,1995,100.0
+Maldives,MDV,1995,99.99999863
+Middle East & North Africa,MEA,1995,100.0
+Mexico,MEX,1995,99.95966067
+Marshall Islands,MHL,1995,100.0
+Middle income,MIC,1995,99.29274238
+North Macedonia,MKD,1995,100.0
+Mali,MLI,1995,100.0
+Malta,MLT,1995,100.0
+Myanmar,MMR,1995,100.0
+Middle East & North Africa (excluding high income),MNA,1995,100.0
+Montenegro,MNE,1995,100.0
+Mongolia,MNG,1995,96.36190814
+Northern Mariana Islands,MNP,1995,100.0
+Mozambique,MOZ,1995,100.0
+Mauritania,MRT,1995,100.0
+Mauritius,MUS,1995,100.0
+Malawi,MWI,1995,100.0
+Malaysia,MYS,1995,95.17303681
+North America,NAC,1995,41.55554118
+Namibia,NAM,1995,100.0
+Niger,NER,1995,100.0
+Nigeria,NGA,1995,100.0
+Nicaragua,NIC,1995,99.99704911
+Netherlands,NLD,1995,100.0
+Norway,NOR,1995,29.61784285
+Nepal,NPL,1995,100.0
+New Zealand,NZL,1995,8.710659189
+OECD members,OED,1995,79.25103822
+Oman,OMN,1995,100.0
+Other small states,OSS,1995,90.33708108
+Pakistan,PAK,1995,100.0
+Panama,PAN,1995,96.45012156
+Peru,PER,1995,100.0
+Philippines,PHL,1995,100.0
+Papua New Guinea,PNG,1995,100.0
+Poland,POL,1995,100.0
+Pre-demographic dividend,PRE,1995,100.0
+Puerto Rico,PRI,1995,1.834862385
+"Korea, Dem. People's Rep.",PRK,1995,100.0
+Portugal,PRT,1995,48.87356647
+Paraguay,PRY,1995,100.0
+West Bank and Gaza,PSE,1995,100.0
+Pacific island small states,PSS,1995,100.0
+Post-demographic dividend,PST,1995,76.06668497
+Qatar,QAT,1995,100.0
+Romania,ROU,1995,100.0
+Russian Federation,RUS,1995,95.31075763
+Rwanda,RWA,1995,100.0
+South Asia,SAS,1995,100.0
+Saudi Arabia,SAU,1995,100.0
+Sudan,SDN,1995,100.0
+Senegal,SEN,1995,100.0
+Singapore,SGP,1995,100.0
+Solomon Islands,SLB,1995,100.0
+Sierra Leone,SLE,1995,100.0
+El Salvador,SLV,1995,100.0
+Somalia,SOM,1995,100.0
+Serbia,SRB,1995,100.0
+Sub-Saharan Africa (excluding high income),SSA,1995,100.0
+South Sudan,SSD,1995,100.0
+Sub-Saharan Africa,SSF,1995,100.0
+Small states,SST,1995,93.200666
+Sao Tome and Principe,STP,1995,100.0
+Suriname,SUR,1995,100.0
+Slovak Republic,SVK,1995,100.0
+Slovenia,SVN,1995,100.0
+Sweden,SWE,1995,5.370486576
+Eswatini,SWZ,1995,100.0
+Seychelles,SYC,1995,100.0
+Syrian Arab Republic,SYR,1995,100.0
+Chad,TCD,1995,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,1995,99.66505386
+Europe & Central Asia (IDA & IBRD countries),TEC,1995,98.29323396
+Togo,TGO,1995,100.0
+Thailand,THA,1995,100.0
+Tajikistan,TJK,1995,100.0
+Turkmenistan,TKM,1995,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1995,96.14303358
+Timor-Leste,TLS,1995,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,1995,100.0
+Tonga,TON,1995,99.99999999
+South Asia (IDA & IBRD),TSA,1995,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1995,100.0
+Trinidad and Tobago,TTO,1995,100.0
+Tunisia,TUN,1995,100.0
+Turkey,TUR,1995,100.0
+Tanzania,TZA,1995,100.0
+Uganda,UGA,1995,100.0
+Ukraine,UKR,1995,100.0
+Upper middle income,UMC,1995,98.75940563
+Uruguay,URY,1995,84.36546617
+United States,USA,1995,44.69445371
+Uzbekistan,UZB,1995,100.0
+St. Vincent and the Grenadines,VCT,1995,100.0
+"Venezuela, RB",VEN,1995,100.0
+Virgin Islands (U.S.),VIR,1995,50.0
+Vietnam,VNM,1995,100.0
+Vanuatu,VUT,1995,100.0
+World,WLD,1995,95.17582363
+Samoa,WSM,1995,100.0
+"Yemen, Rep.",YEM,1995,100.0
+South Africa,ZAF,1995,100.0
+Zambia,ZMB,1995,100.0
+Zimbabwe,ZWE,1995,100.0
+Africa Eastern and Southern,AFE,2000,100.0
+Afghanistan,AFG,2000,100.0
+Africa Western and Central,AFW,2000,100.0
+Angola,AGO,2000,100.0
+Albania,ALB,2000,100.0
+Andorra,AND,2000,99.95743197
+Arab World,ARB,2000,100.0
+United Arab Emirates,ARE,2000,100.0
+Argentina,ARG,2000,99.54997114
+Armenia,ARM,2000,100.0
+American Samoa,ASM,2000,100.0
+Antigua and Barbuda,ATG,2000,100.0
+Australia,AUS,2000,33.8320688
+Austria,AUT,2000,98.67842588
+Azerbaijan,AZE,2000,100.0
+Burundi,BDI,2000,100.0
+Belgium,BEL,2000,99.27541557
+Benin,BEN,2000,100.0
+Burkina Faso,BFA,2000,100.0
+Bangladesh,BGD,2000,100.0
+Bulgaria,BGR,2000,99.96193354
+Bahrain,BHR,2000,100.0
+"Bahamas, The",BHS,2000,100.0
+Bosnia and Herzegovina,BIH,2000,100.0
+Belarus,BLR,2000,100.0
+Belize,BLZ,2000,100.0
+Bermuda,BMU,2000,100.0
+Bolivia,BOL,2000,100.0
+Brazil,BRA,2000,90.79140477
+Barbados,BRB,2000,100.0
+Brunei Darussalam,BRN,2000,0.0
+Bhutan,BTN,2000,100.0
+Botswana,BWA,2000,100.0
+Central African Republic,CAF,2000,100.0
+Canada,CAN,2000,11.02131749
+Central Europe and the Baltics,CEB,2000,98.7547789
+Switzerland,CHE,2000,92.73058028
+Chile,CHL,2000,99.24496998
+China,CHN,2000,99.99999612
+Cote d'Ivoire,CIV,2000,100.0
+Cameroon,CMR,2000,100.0
+"Congo, Dem. Rep.",COD,2000,100.0
+"Congo, Rep.",COG,2000,100.0
+Colombia,COL,2000,99.71683355
+Comoros,COM,2000,100.0
+Cabo Verde,CPV,2000,100.0
+Costa Rica,CRI,2000,100.0
+Caribbean small states,CSS,2000,100.0
+Cuba,CUB,2000,100.0
+Cyprus,CYP,2000,100.0
+Czech Republic,CZE,2000,99.96735159
+Germany,DEU,2000,99.40718619
+Djibouti,DJI,2000,100.0
+Dominica,DMA,2000,100.0
+Denmark,DNK,2000,97.96609489
+Dominican Republic,DOM,2000,100.0
+Algeria,DZA,2000,100.0
+East Asia & Pacific (excluding high income),EAP,2000,99.60176907
+Early-demographic dividend,EAR,2000,99.73990091
+East Asia & Pacific,EAS,2000,98.3259836
+Europe & Central Asia (excluding high income),ECA,2000,98.31738788
+Europe & Central Asia,ECS,2000,93.97627176
+Ecuador,ECU,2000,99.98581012
+"Egypt, Arab Rep.",EGY,2000,100.0
+Euro area,EMU,2000,92.03672348
+Eritrea,ERI,2000,100.0
+Spain,ESP,2000,75.03080043
+Estonia,EST,2000,5.025807538
+Ethiopia,ETH,2000,100.0
+European Union,EUU,2000,92.04998867
+Fragile and conflict affected situations,FCS,2000,100.0
+Finland,FIN,2000,0.0
+Fiji,FJI,2000,100.0
+France,FRA,2000,99.37341424
+"Micronesia, Fed. Sts.",FSM,2000,100.0
+Gabon,GAB,2000,100.0
+United Kingdom,GBR,2000,88.24742638
+Georgia,GEO,2000,100.0
+Ghana,GHA,2000,100.0
+Guinea,GIN,2000,100.0
+"Gambia, The",GMB,2000,100.0
+Guinea-Bissau,GNB,2000,100.0
+Equatorial Guinea,GNQ,2000,100.0
+Greece,GRC,2000,100.0
+Grenada,GRD,2000,100.0
+Greenland,GRL,2000,100.0
+Guatemala,GTM,2000,100.0
+Guam,GUM,2000,100.0
+Guyana,GUY,2000,100.0
+High income,HIC,2000,75.44434378
+Honduras,HND,2000,100.0
+Heavily indebted poor countries (HIPC),HPC,2000,99.99929042
+Croatia,HRV,2000,100.0
+Haiti,HTI,2000,100.0
+Hungary,HUN,2000,100.0
+IBRD only,IBD,2000,99.22856993
+IDA & IBRD total,IBT,2000,99.39236451
+IDA total,IDA,2000,99.99904545
+IDA blend,IDB,2000,100.0
+Indonesia,IDN,2000,97.10847229
+IDA only,IDX,2000,99.99856548
+India,IND,2000,100.0
+Ireland,IRL,2000,50.33809979
+"Iran, Islamic Rep.",IRN,2000,100.0
+Iraq,IRQ,2000,100.0
+Iceland,ISL,2000,18.15976237
+Israel,ISR,2000,100.0
+Italy,ITA,2000,98.53143399
+Jamaica,JAM,2000,100.0
+Jordan,JOR,2000,100.0
+Japan,JPN,2000,91.74729438
+Kazakhstan,KAZ,2000,96.82196491
+Kenya,KEN,2000,100.0
+Kyrgyz Republic,KGZ,2000,99.85855865
+Cambodia,KHM,2000,100.0
+Kiribati,KIR,2000,100.0
+"Korea, Rep.",KOR,2000,100.0
+Kuwait,KWT,2000,100.0
+Latin America & Caribbean (excluding high income),LAC,2000,96.49847886
+Lao PDR,LAO,2000,100.0
+Lebanon,LBN,2000,100.0
+Liberia,LBR,2000,100.0
+Libya,LBY,2000,100.0
+St. Lucia,LCA,2000,100.0
+Latin America & Caribbean,LCN,2000,96.47013791
+Least developed countries: UN classification,LDC,2000,100.0
+Low income,LIC,2000,100.0
+Sri Lanka,LKA,2000,100.0
+Lower middle income,LMC,2000,99.74683654
+Low & middle income,LMY,2000,99.39536148
+Lesotho,LSO,2000,100.0
+Late-demographic dividend,LTE,2000,98.555859
+Lithuania,LTU,2000,99.9443701
+Luxembourg,LUX,2000,99.66423051
+Latvia,LVA,2000,99.35650907
+Morocco,MAR,2000,100.0
+Moldova,MDA,2000,100.0
+Madagascar,MDG,2000,100.0
+Maldives,MDV,2000,99.99999784
+Middle East & North Africa,MEA,2000,100.0
+Mexico,MEX,2000,99.93952763
+Marshall Islands,MHL,2000,100.0
+Middle income,MIC,2000,99.344773
+North Macedonia,MKD,2000,100.0
+Mali,MLI,2000,100.0
+Malta,MLT,2000,100.0
+Myanmar,MMR,2000,100.0
+Middle East & North Africa (excluding high income),MNA,2000,100.0
+Montenegro,MNE,2000,100.0
+Mongolia,MNG,2000,97.48152104
+Northern Mariana Islands,MNP,2000,100.0
+Mozambique,MOZ,2000,100.0
+Mauritania,MRT,2000,100.0
+Mauritius,MUS,2000,100.0
+Malawi,MWI,2000,100.0
+Malaysia,MYS,2000,95.45669023
+North America,NAC,2000,39.9486041
+Namibia,NAM,2000,100.0
+Niger,NER,2000,100.0
+Nigeria,NGA,2000,100.0
+Nicaragua,NIC,2000,99.93397652
+Netherlands,NLD,2000,100.0
+Norway,NOR,2000,24.47496462
+Nepal,NPL,2000,100.0
+New Zealand,NZL,2000,10.75232632
+OECD members,OED,2000,78.35068569
+Oman,OMN,2000,100.0
+Other small states,OSS,2000,90.95206103
+Pakistan,PAK,2000,100.0
+Panama,PAN,2000,97.30895047
+Peru,PER,2000,100.0
+Philippines,PHL,2000,99.99556805
+Papua New Guinea,PNG,2000,100.0
+Poland,POL,2000,100.0
+Pre-demographic dividend,PRE,2000,100.0
+Puerto Rico,PRI,2000,63.30275229
+"Korea, Dem. People's Rep.",PRK,2000,100.0
+Portugal,PRT,2000,49.84767952
+Paraguay,PRY,2000,100.0
+West Bank and Gaza,PSE,2000,100.0
+Pacific island small states,PSS,2000,100.0
+Post-demographic dividend,PST,2000,74.71648271
+Qatar,QAT,2000,100.0
+Romania,ROU,2000,100.0
+Russian Federation,RUS,2000,95.85455547
+Rwanda,RWA,2000,100.0
+South Asia,SAS,2000,100.0
+Saudi Arabia,SAU,2000,100.0
+Sudan,SDN,2000,100.0
+Senegal,SEN,2000,100.0
+Singapore,SGP,2000,100.0
+Solomon Islands,SLB,2000,100.0
+Sierra Leone,SLE,2000,100.0
+El Salvador,SLV,2000,100.0
+Somalia,SOM,2000,100.0
+Serbia,SRB,2000,100.0
+Sub-Saharan Africa (excluding high income),SSA,2000,100.0
+South Sudan,SSD,2000,100.0
+Sub-Saharan Africa,SSF,2000,100.0
+Small states,SST,2000,93.54539114
+Sao Tome and Principe,STP,2000,100.0
+Suriname,SUR,2000,100.0
+Slovak Republic,SVK,2000,100.0
+Slovenia,SVN,2000,100.0
+Sweden,SWE,2000,4.985989813
+Eswatini,SWZ,2000,100.0
+Seychelles,SYC,2000,100.0
+Syrian Arab Republic,SYR,2000,100.0
+Chad,TCD,2000,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2000,99.59666491
+Europe & Central Asia (IDA & IBRD countries),TEC,2000,98.48357374
+Togo,TGO,2000,100.0
+Thailand,THA,2000,100.0
+Tajikistan,TJK,2000,100.0
+Turkmenistan,TKM,2000,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,96.63793935
+Timor-Leste,TLS,2000,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2000,100.0
+Tonga,TON,2000,100.0
+South Asia (IDA & IBRD),TSA,2000,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,100.0
+Trinidad and Tobago,TTO,2000,100.0
+Tunisia,TUN,2000,100.0
+Turkey,TUR,2000,100.0
+Tanzania,TZA,2000,100.0
+Uganda,UGA,2000,100.0
+Ukraine,UKR,2000,100.0
+Upper middle income,UMC,2000,98.89411006
+Uruguay,URY,2000,89.81683012
+United States,USA,2000,43.08134508
+Uzbekistan,UZB,2000,100.0
+St. Vincent and the Grenadines,VCT,2000,100.0
+"Venezuela, RB",VEN,2000,100.0
+Virgin Islands (U.S.),VIR,2000,100.0
+Vietnam,VNM,2000,100.0
+Vanuatu,VUT,2000,100.0
+World,WLD,2000,95.2134084
+Samoa,WSM,2000,100.0
+"Yemen, Rep.",YEM,2000,100.0
+South Africa,ZAF,2000,100.0
+Zambia,ZMB,2000,100.0
+Zimbabwe,ZWE,2000,100.0
+Africa Eastern and Southern,AFE,2005,100.0
+Afghanistan,AFG,2005,100.0
+Africa Western and Central,AFW,2005,100.0
+Angola,AGO,2005,100.0
+Albania,ALB,2005,100.0
+Andorra,AND,2005,100.0
+Arab World,ARB,2005,100.0
+United Arab Emirates,ARE,2005,100.0
+Argentina,ARG,2005,99.41150392
+Armenia,ARM,2005,100.0
+American Samoa,ASM,2005,100.0
+Antigua and Barbuda,ATG,2005,100.0
+Australia,AUS,2005,33.4924204
+Austria,AUT,2005,99.14829843
+Azerbaijan,AZE,2005,100.0
+Burundi,BDI,2005,100.0
+Belgium,BEL,2005,98.99788227
+Benin,BEN,2005,100.0
+Burkina Faso,BFA,2005,100.0
+Bangladesh,BGD,2005,100.0
+Bulgaria,BGR,2005,99.96311162
+Bahrain,BHR,2005,100.0
+"Bahamas, The",BHS,2005,100.0
+Bosnia and Herzegovina,BIH,2005,100.0
+Belarus,BLR,2005,100.0
+Belize,BLZ,2005,100.0
+Bermuda,BMU,2005,100.0
+Bolivia,BOL,2005,100.0
+Brazil,BRA,2005,89.78408308
+Barbados,BRB,2005,100.0
+Brunei Darussalam,BRN,2005,1.76213857
+Bhutan,BTN,2005,100.0
+Botswana,BWA,2005,100.0
+Central African Republic,CAF,2005,100.0
+Canada,CAN,2005,19.60268225
+Central Europe and the Baltics,CEB,2005,98.77892563
+Switzerland,CHE,2005,93.57506134
+Chile,CHL,2005,99.27259617
+China,CHN,2005,99.99999686
+Cote d'Ivoire,CIV,2005,100.0
+Cameroon,CMR,2005,100.0
+"Congo, Dem. Rep.",COD,2005,100.0
+"Congo, Rep.",COG,2005,100.0
+Colombia,COL,2005,99.8770855
+Comoros,COM,2005,100.0
+Cabo Verde,CPV,2005,100.0
+Costa Rica,CRI,2005,100.0
+Caribbean small states,CSS,2005,100.0
+Cuba,CUB,2005,100.0
+Cyprus,CYP,2005,100.0
+Czech Republic,CZE,2005,99.96775735
+Germany,DEU,2005,99.18486098
+Djibouti,DJI,2005,100.0
+Dominica,DMA,2005,100.0
+Denmark,DNK,2005,97.13967547
+Dominican Republic,DOM,2005,100.0
+Algeria,DZA,2005,100.0
+East Asia & Pacific (excluding high income),EAP,2005,99.84895078
+Early-demographic dividend,EAR,2005,99.90108002
+East Asia & Pacific,EAS,2005,98.55880825
+Europe & Central Asia (excluding high income),ECA,2005,98.33449093
+Europe & Central Asia,ECS,2005,93.85003144
+Ecuador,ECU,2005,99.99901924
+"Egypt, Arab Rep.",EGY,2005,100.0
+Euro area,EMU,2005,91.98509366
+Eritrea,ERI,2005,100.0
+Spain,ESP,2005,74.1582474
+Estonia,EST,2005,5.821428321
+Ethiopia,ETH,2005,100.0
+European Union,EUU,2005,91.91210048
+Fragile and conflict affected situations,FCS,2005,100.0
+Finland,FIN,2005,0.724678786
+Fiji,FJI,2005,100.0
+France,FRA,2005,99.60444501
+"Micronesia, Fed. Sts.",FSM,2005,100.0
+Gabon,GAB,2005,100.0
+United Kingdom,GBR,2005,88.65418636
+Georgia,GEO,2005,100.0
+Ghana,GHA,2005,100.0
+Guinea,GIN,2005,100.0
+"Gambia, The",GMB,2005,100.0
+Guinea-Bissau,GNB,2005,100.0
+Equatorial Guinea,GNQ,2005,100.0
+Greece,GRC,2005,100.0
+Grenada,GRD,2005,100.0
+Greenland,GRL,2005,100.0
+Guatemala,GTM,2005,100.0
+Guam,GUM,2005,100.0
+Guyana,GUY,2005,100.0
+High income,HIC,2005,75.71824371
+Honduras,HND,2005,100.0
+Heavily indebted poor countries (HIPC),HPC,2005,99.99936067
+Croatia,HRV,2005,100.0
+Haiti,HTI,2005,100.0
+Hungary,HUN,2005,100.0
+IBRD only,IBD,2005,99.29499568
+IDA & IBRD total,IBT,2005,99.45251111
+IDA total,IDA,2005,99.99911952
+IDA blend,IDB,2005,100.0
+Indonesia,IDN,2005,99.00021131
+IDA only,IDX,2005,99.99867896
+India,IND,2005,100.0
+Ireland,IRL,2005,46.53983811
+"Iran, Islamic Rep.",IRN,2005,100.0
+Iraq,IRQ,2005,100.0
+Iceland,ISL,2005,14.71667416
+Israel,ISR,2005,100.0
+Italy,ITA,2005,98.41560076
+Jamaica,JAM,2005,100.0
+Jordan,JOR,2005,100.0
+Japan,JPN,2005,92.09008334
+Kazakhstan,KAZ,2005,96.80261789
+Kenya,KEN,2005,100.0
+Kyrgyz Republic,KGZ,2005,99.86039273
+Cambodia,KHM,2005,100.0
+Kiribati,KIR,2005,100.0
+"Korea, Rep.",KOR,2005,100.0
+Kuwait,KWT,2005,100.0
+Latin America & Caribbean (excluding high income),LAC,2005,96.1394078
+Lao PDR,LAO,2005,100.0
+Lebanon,LBN,2005,100.0
+Liberia,LBR,2005,100.0
+Libya,LBY,2005,100.0
+St. Lucia,LCA,2005,100.0
+Latin America & Caribbean,LCN,2005,96.08519156
+Least developed countries: UN classification,LDC,2005,100.0
+Low income,LIC,2005,100.0
+Sri Lanka,LKA,2005,100.0
+Lower middle income,LMC,2005,99.91243778
+Low & middle income,LMY,2005,99.46339358
+Lesotho,LSO,2005,100.0
+Late-demographic dividend,LTE,2005,98.45818728
+Lithuania,LTU,2005,99.94080044
+Luxembourg,LUX,2005,96.44054417
+Latvia,LVA,2005,99.51499479
+Morocco,MAR,2005,100.0
+Moldova,MDA,2005,100.0
+Madagascar,MDG,2005,100.0
+Maldives,MDV,2005,99.99999814
+Middle East & North Africa,MEA,2005,100.0
+Mexico,MEX,2005,99.94016516
+Marshall Islands,MHL,2005,100.0
+Middle income,MIC,2005,99.41472817
+North Macedonia,MKD,2005,100.0
+Mali,MLI,2005,100.0
+Malta,MLT,2005,100.0
+Myanmar,MMR,2005,100.0
+Middle East & North Africa (excluding high income),MNA,2005,100.0
+Montenegro,MNE,2005,100.0
+Mongolia,MNG,2005,97.79649035
+Northern Mariana Islands,MNP,2005,100.0
+Mozambique,MOZ,2005,100.0
+Mauritania,MRT,2005,100.0
+Mauritius,MUS,2005,100.0
+Malawi,MWI,2005,100.0
+Malaysia,MYS,2005,97.87994072
+North America,NAC,2005,41.81014296
+Namibia,NAM,2005,100.0
+Niger,NER,2005,100.0
+Nigeria,NGA,2005,100.0
+Nicaragua,NIC,2005,99.93610384
+Netherlands,NLD,2005,100.0
+Norway,NOR,2005,10.17240142
+Nepal,NPL,2005,100.0
+New Zealand,NZL,2005,10.2826206
+OECD members,OED,2005,78.70181541
+Oman,OMN,2005,100.0
+Other small states,OSS,2005,91.75689251
+Pakistan,PAK,2005,100.0
+Panama,PAN,2005,96.92503385
+Peru,PER,2005,100.0
+Philippines,PHL,2005,100.0
+Papua New Guinea,PNG,2005,100.0
+Poland,POL,2005,100.0
+Pre-demographic dividend,PRE,2005,100.0
+Puerto Rico,PRI,2005,62.3853211
+"Korea, Dem. People's Rep.",PRK,2005,100.0
+Portugal,PRT,2005,58.43390699
+Paraguay,PRY,2005,100.0
+West Bank and Gaza,PSE,2005,100.0
+Pacific island small states,PSS,2005,100.0
+Post-demographic dividend,PST,2005,74.8484029
+Qatar,QAT,2005,100.0
+Romania,ROU,2005,100.0
+Russian Federation,RUS,2005,95.81597809
+Rwanda,RWA,2005,100.0
+South Asia,SAS,2005,100.0
+Saudi Arabia,SAU,2005,100.0
+Sudan,SDN,2005,100.0
+Senegal,SEN,2005,100.0
+Singapore,SGP,2005,100.0
+Solomon Islands,SLB,2005,100.0
+Sierra Leone,SLE,2005,100.0
+El Salvador,SLV,2005,100.0
+Somalia,SOM,2005,100.0
+Serbia,SRB,2005,100.0
+Sub-Saharan Africa (excluding high income),SSA,2005,100.0
+South Sudan,SSD,2005,100.0
+Sub-Saharan Africa,SSF,2005,100.0
+Small states,SST,2005,94.03221941
+Sao Tome and Principe,STP,2005,100.0
+Suriname,SUR,2005,100.0
+Slovak Republic,SVK,2005,100.0
+Slovenia,SVN,2005,100.0
+Sweden,SWE,2005,3.995810186
+Eswatini,SWZ,2005,100.0
+Seychelles,SYC,2005,100.0
+Syrian Arab Republic,SYR,2005,100.0
+Chad,TCD,2005,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2005,99.84701645
+Europe & Central Asia (IDA & IBRD countries),TEC,2005,98.4979846
+Togo,TGO,2005,100.0
+Thailand,THA,2005,100.0
+Tajikistan,TJK,2005,100.0
+Turkmenistan,TKM,2005,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,96.23681213
+Timor-Leste,TLS,2005,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2005,100.0
+Tonga,TON,2005,100.0
+South Asia (IDA & IBRD),TSA,2005,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2005,100.0
+Trinidad and Tobago,TTO,2005,100.0
+Tunisia,TUN,2005,100.0
+Turkey,TUR,2005,100.0
+Tanzania,TZA,2005,100.0
+Uganda,UGA,2005,100.0
+Ukraine,UKR,2005,100.0
+Upper middle income,UMC,2005,98.83055026
+Uruguay,URY,2005,77.48441659
+United States,USA,2005,44.22056176
+Uzbekistan,UZB,2005,100.0
+St. Vincent and the Grenadines,VCT,2005,100.0
+"Venezuela, RB",VEN,2005,100.0
+Virgin Islands (U.S.),VIR,2005,100.0
+Vietnam,VNM,2005,100.0
+Vanuatu,VUT,2005,100.0
+World,WLD,2005,95.43796689
+Samoa,WSM,2005,100.0
+"Yemen, Rep.",YEM,2005,100.0
+South Africa,ZAF,2005,100.0
+Zambia,ZMB,2005,100.0
+Zimbabwe,ZWE,2005,100.0
+Africa Eastern and Southern,AFE,2010,100.0
+Afghanistan,AFG,2010,100.0
+Africa Western and Central,AFW,2010,100.0
+Angola,AGO,2010,100.0
+Albania,ALB,2010,100.0
+Andorra,AND,2010,99.95663582
+Arab World,ARB,2010,100.0
+United Arab Emirates,ARE,2010,100.0
+Argentina,ARG,2010,99.44764132
+Armenia,ARM,2010,100.0
+American Samoa,ASM,2010,100.0
+Antigua and Barbuda,ATG,2010,100.0
+Australia,AUS,2010,32.97097298
+Austria,AUT,2010,98.45154185
+Azerbaijan,AZE,2010,100.0
+Burundi,BDI,2010,100.0
+Belgium,BEL,2010,99.49558887
+Benin,BEN,2010,100.0
+Burkina Faso,BFA,2010,100.0
+Bangladesh,BGD,2010,100.0
+Bulgaria,BGR,2010,99.96438954
+Bahrain,BHR,2010,100.0
+"Bahamas, The",BHS,2010,100.0
+Bosnia and Herzegovina,BIH,2010,100.0
+Belarus,BLR,2010,100.0
+Belize,BLZ,2010,100.0
+Bermuda,BMU,2010,100.0
+Bolivia,BOL,2010,100.0
+Brazil,BRA,2010,90.93812329
+Barbados,BRB,2010,100.0
+Brunei Darussalam,BRN,2010,1.767244424
+Bhutan,BTN,2010,100.0
+Botswana,BWA,2010,100.0
+Central African Republic,CAF,2010,100.0
+Canada,CAN,2010,13.66721763
+Central Europe and the Baltics,CEB,2010,98.79088116
+Switzerland,CHE,2010,93.00070455
+Chile,CHL,2010,99.28649823
+China,CHN,2010,99.99999743
+Cote d'Ivoire,CIV,2010,100.0
+Cameroon,CMR,2010,100.0
+"Congo, Dem. Rep.",COD,2010,100.0
+"Congo, Rep.",COG,2010,100.0
+Colombia,COL,2010,99.87603724
+Comoros,COM,2010,100.0
+Cabo Verde,CPV,2010,100.0
+Costa Rica,CRI,2010,100.0
+Caribbean small states,CSS,2010,100.0
+Cuba,CUB,2010,100.0
+Cyprus,CYP,2010,100.0
+Czech Republic,CZE,2010,99.96840965
+Germany,DEU,2010,99.59944007
+Djibouti,DJI,2010,100.0
+Dominica,DMA,2010,100.0
+Denmark,DNK,2010,96.09901417
+Dominican Republic,DOM,2010,100.0
+Algeria,DZA,2010,100.0
+East Asia & Pacific (excluding high income),EAP,2010,99.51433288
+Early-demographic dividend,EAR,2010,99.68739122
+East Asia & Pacific,EAS,2010,98.26664982
+Europe & Central Asia (excluding high income),ECA,2010,98.54712125
+Europe & Central Asia,ECS,2010,93.59659251
+Ecuador,ECU,2010,99.99971749
+"Egypt, Arab Rep.",EGY,2010,100.0
+Euro area,EMU,2010,91.43220803
+Eritrea,ERI,2010,100.0
+Spain,ESP,2010,72.15110766
+Estonia,EST,2010,6.476011614
+Ethiopia,ETH,2010,100.0
+European Union,EUU,2010,91.39462329
+Fragile and conflict affected situations,FCS,2010,100.0
+Finland,FIN,2010,0.73514962
+Fiji,FJI,2010,100.0
+France,FRA,2010,99.47900777
+"Micronesia, Fed. Sts.",FSM,2010,100.0
+Gabon,GAB,2010,100.0
+United Kingdom,GBR,2010,87.50243472
+Georgia,GEO,2010,100.0
+Ghana,GHA,2010,100.0
+Guinea,GIN,2010,100.0
+"Gambia, The",GMB,2010,100.0
+Guinea-Bissau,GNB,2010,100.0
+Equatorial Guinea,GNQ,2010,100.0
+Greece,GRC,2010,100.0
+Grenada,GRD,2010,100.0
+Greenland,GRL,2010,100.0
+Guatemala,GTM,2010,100.0
+Guam,GUM,2010,100.0
+Guyana,GUY,2010,100.0
+High income,HIC,2010,73.62724609
+Honduras,HND,2010,100.0
+Heavily indebted poor countries (HIPC),HPC,2010,99.99942247
+Croatia,HRV,2010,100.0
+Haiti,HTI,2010,100.0
+Hungary,HUN,2010,100.0
+IBRD only,IBD,2010,99.2287347
+IDA & IBRD total,IBT,2010,99.41029107
+IDA total,IDA,2010,99.99973561
+IDA blend,IDB,2010,100.0
+Indonesia,IDN,2010,96.42305878
+IDA only,IDX,2010,99.99960275
+India,IND,2010,100.0
+Ireland,IRL,2010,49.33923499
+"Iran, Islamic Rep.",IRN,2010,100.0
+Iraq,IRQ,2010,100.0
+Iceland,ISL,2010,16.81281434
+Israel,ISR,2010,100.0
+Italy,ITA,2010,98.11216648
+Jamaica,JAM,2010,100.0
+Jordan,JOR,2010,100.0
+Japan,JPN,2010,92.58883122
+Kazakhstan,KAZ,2010,97.2109484
+Kenya,KEN,2010,100.0
+Kyrgyz Republic,KGZ,2010,100.0
+Cambodia,KHM,2010,100.0
+Kiribati,KIR,2010,100.0
+"Korea, Rep.",KOR,2010,100.0
+Kuwait,KWT,2010,100.0
+Latin America & Caribbean (excluding high income),LAC,2010,96.5903236
+Lao PDR,LAO,2010,100.0
+Lebanon,LBN,2010,100.0
+Liberia,LBR,2010,100.0
+Libya,LBY,2010,100.0
+St. Lucia,LCA,2010,100.0
+Latin America & Caribbean,LCN,2010,96.56598739
+Least developed countries: UN classification,LDC,2010,100.0
+Low income,LIC,2010,100.0
+Sri Lanka,LKA,2010,100.0
+Lower middle income,LMC,2010,99.69764187
+Low & middle income,LMY,2010,99.41547041
+Lesotho,LSO,2010,100.0
+Late-demographic dividend,LTE,2010,98.59346244
+Lithuania,LTU,2010,99.93703877
+Luxembourg,LUX,2010,99.87426795
+Latvia,LVA,2010,99.55003468
+Morocco,MAR,2010,100.0
+Moldova,MDA,2010,100.0
+Madagascar,MDG,2010,100.0
+Maldives,MDV,2010,99.99999846
+Middle East & North Africa,MEA,2010,100.0
+Mexico,MEX,2010,99.93565185
+Marshall Islands,MHL,2010,100.0
+Middle income,MIC,2010,99.35797775
+North Macedonia,MKD,2010,100.0
+Mali,MLI,2010,100.0
+Malta,MLT,2010,100.0
+Myanmar,MMR,2010,100.0
+Middle East & North Africa (excluding high income),MNA,2010,100.0
+Montenegro,MNE,2010,100.0
+Mongolia,MNG,2010,98.13814086
+Northern Mariana Islands,MNP,2010,100.0
+Mozambique,MOZ,2010,100.0
+Mauritania,MRT,2010,100.0
+Mauritius,MUS,2010,100.0
+Malawi,MWI,2010,100.0
+Malaysia,MYS,2010,96.99731116
+North America,NAC,2010,35.79410175
+Namibia,NAM,2010,100.0
+Niger,NER,2010,100.0
+Nigeria,NGA,2010,100.0
+Nicaragua,NIC,2010,99.93810046
+Netherlands,NLD,2010,100.0
+Norway,NOR,2010,11.88874562
+Nepal,NPL,2010,100.0
+New Zealand,NZL,2010,9.81955069
+OECD members,OED,2010,76.79204444
+Oman,OMN,2010,100.0
+Other small states,OSS,2010,92.73018831
+Pakistan,PAK,2010,100.0
+Panama,PAN,2010,96.21783
+Peru,PER,2010,100.0
+Philippines,PHL,2010,100.0
+Papua New Guinea,PNG,2010,100.0
+Poland,POL,2010,100.0
+Pre-demographic dividend,PRE,2010,100.0
+Puerto Rico,PRI,2010,62.3853211
+"Korea, Dem. People's Rep.",PRK,2010,100.0
+Portugal,PRT,2010,53.00973616
+Paraguay,PRY,2010,100.0
+West Bank and Gaza,PSE,2010,100.0
+Pacific island small states,PSS,2010,100.0
+Post-demographic dividend,PST,2010,72.28576448
+Qatar,QAT,2010,100.0
+Romania,ROU,2010,100.0
+Russian Federation,RUS,2010,96.2900289
+Rwanda,RWA,2010,100.0
+South Asia,SAS,2010,100.0
+Saudi Arabia,SAU,2010,100.0
+Sudan,SDN,2010,100.0
+Senegal,SEN,2010,100.0
+Singapore,SGP,2010,100.0
+Solomon Islands,SLB,2010,100.0
+Sierra Leone,SLE,2010,100.0
+El Salvador,SLV,2010,100.0
+Somalia,SOM,2010,100.0
+Serbia,SRB,2010,100.0
+Sub-Saharan Africa (excluding high income),SSA,2010,100.0
+South Sudan,SSD,2010,100.0
+Sub-Saharan Africa,SSF,2010,100.0
+Small states,SST,2010,94.61392838
+Sao Tome and Principe,STP,2010,100.0
+Suriname,SUR,2010,100.0
+Slovak Republic,SVK,2010,100.0
+Slovenia,SVN,2010,100.0
+Sweden,SWE,2010,4.326183371
+Eswatini,SWZ,2010,100.0
+Seychelles,SYC,2010,100.0
+Syrian Arab Republic,SYR,2010,100.0
+Chad,TCD,2010,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2010,99.50817744
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,98.68736092
+Togo,TGO,2010,100.0
+Thailand,THA,2010,100.0
+Tajikistan,TJK,2010,100.0
+Turkmenistan,TKM,2010,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,96.71604319
+Timor-Leste,TLS,2010,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2010,100.0
+Tonga,TON,2010,100.0
+South Asia (IDA & IBRD),TSA,2010,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,100.0
+Trinidad and Tobago,TTO,2010,100.0
+Tunisia,TUN,2010,100.0
+Turkey,TUR,2010,100.0
+Tanzania,TZA,2010,100.0
+Uganda,UGA,2010,100.0
+Ukraine,UKR,2010,100.0
+Upper middle income,UMC,2010,98.94094389
+Uruguay,URY,2010,85.45845617
+United States,USA,2010,38.21303236
+Uzbekistan,UZB,2010,100.0
+St. Vincent and the Grenadines,VCT,2010,100.0
+"Venezuela, RB",VEN,2010,100.0
+Virgin Islands (U.S.),VIR,2010,100.0
+Vietnam,VNM,2010,100.0
+Vanuatu,VUT,2010,100.0
+World,WLD,2010,95.14472645
+Samoa,WSM,2010,100.0
+"Yemen, Rep.",YEM,2010,100.0
+South Africa,ZAF,2010,100.0
+Zambia,ZMB,2010,100.0
+Zimbabwe,ZWE,2010,100.0
+Africa Eastern and Southern,AFE,2011,100.0
+Afghanistan,AFG,2011,100.0
+Africa Western and Central,AFW,2011,100.0
+Angola,AGO,2011,100.0
+Albania,ALB,2011,100.0
+Andorra,AND,2011,100.0
+Arab World,ARB,2011,100.0
+United Arab Emirates,ARE,2011,100.0
+Argentina,ARG,2011,99.53041309
+Armenia,ARM,2011,100.0
+American Samoa,ASM,2011,100.0
+Antigua and Barbuda,ATG,2011,100.0
+Australia,AUS,2011,36.32342315
+Austria,AUT,2011,99.25717078
+Azerbaijan,AZE,2011,100.0
+Burundi,BDI,2011,100.0
+Belgium,BEL,2011,99.35474206
+Benin,BEN,2011,100.0
+Burkina Faso,BFA,2011,100.0
+Bangladesh,BGD,2011,100.0
+Bulgaria,BGR,2011,99.96465041
+Bahrain,BHR,2011,100.0
+"Bahamas, The",BHS,2011,100.0
+Bosnia and Herzegovina,BIH,2011,100.0
+Belarus,BLR,2011,100.0
+Belize,BLZ,2011,100.0
+Bermuda,BMU,2011,100.0
+Bolivia,BOL,2011,100.0
+Brazil,BRA,2011,91.92837459
+Barbados,BRB,2011,100.0
+Brunei Darussalam,BRN,2011,1.767920142
+Bhutan,BTN,2011,100.0
+Botswana,BWA,2011,100.0
+Central African Republic,CAF,2011,100.0
+Canada,CAN,2011,18.72081855
+Central Europe and the Baltics,CEB,2011,98.78222425
+Switzerland,CHE,2011,94.78523508
+Chile,CHL,2011,99.31976119
+China,CHN,2011,99.99999754
+Cote d'Ivoire,CIV,2011,100.0
+Cameroon,CMR,2011,100.0
+"Congo, Dem. Rep.",COD,2011,100.0
+"Congo, Rep.",COG,2011,100.0
+Colombia,COL,2011,99.8381953
+Comoros,COM,2011,100.0
+Cabo Verde,CPV,2011,100.0
+Costa Rica,CRI,2011,100.0
+Caribbean small states,CSS,2011,100.0
+Cuba,CUB,2011,100.0
+Cyprus,CYP,2011,100.0
+Czech Republic,CZE,2011,99.96851952
+Germany,DEU,2011,99.44802945
+Djibouti,DJI,2011,100.0
+Dominica,DMA,2011,100.0
+Denmark,DNK,2011,98.95868163
+Dominican Republic,DOM,2011,100.0
+Algeria,DZA,2011,100.0
+East Asia & Pacific (excluding high income),EAP,2011,99.72143248
+Early-demographic dividend,EAR,2011,99.82679307
+East Asia & Pacific,EAS,2011,98.48284115
+Europe & Central Asia (excluding high income),ECA,2011,98.39802782
+Europe & Central Asia,ECS,2011,94.353298
+Ecuador,ECU,2011,99.99709267
+"Egypt, Arab Rep.",EGY,2011,100.0
+Euro area,EMU,2011,92.65376376
+Eritrea,ERI,2011,100.0
+Spain,ESP,2011,78.727385
+Estonia,EST,2011,6.169849362
+Ethiopia,ETH,2011,100.0
+European Union,EUU,2011,92.37707795
+Fragile and conflict affected situations,FCS,2011,100.0
+Finland,FIN,2011,0.737042448
+Fiji,FJI,2011,100.0
+France,FRA,2011,99.69818014
+"Micronesia, Fed. Sts.",FSM,2011,100.0
+Gabon,GAB,2011,100.0
+United Kingdom,GBR,2011,90.3821513
+Georgia,GEO,2011,100.0
+Ghana,GHA,2011,100.0
+Guinea,GIN,2011,100.0
+"Gambia, The",GMB,2011,100.0
+Guinea-Bissau,GNB,2011,100.0
+Equatorial Guinea,GNQ,2011,100.0
+Greece,GRC,2011,100.0
+Grenada,GRD,2011,100.0
+Greenland,GRL,2011,100.0
+Guatemala,GTM,2011,100.0
+Guam,GUM,2011,100.0
+Guyana,GUY,2011,100.0
+High income,HIC,2011,76.77190209
+Honduras,HND,2011,100.0
+Heavily indebted poor countries (HIPC),HPC,2011,99.99943475
+Croatia,HRV,2011,100.0
+Haiti,HTI,2011,100.0
+Hungary,HUN,2011,100.0
+IBRD only,IBD,2011,99.35996303
+IDA & IBRD total,IBT,2011,99.51209291
+IDA total,IDA,2011,99.99973991
+IDA blend,IDB,2011,100.0
+Indonesia,IDN,2011,98.06412739
+IDA only,IDX,2011,99.99960892
+India,IND,2011,100.0
+Ireland,IRL,2011,56.87936973
+"Iran, Islamic Rep.",IRN,2011,100.0
+Iraq,IRQ,2011,100.0
+Iceland,ISL,2011,16.96763852
+Israel,ISR,2011,100.0
+Italy,ITA,2011,98.57762205
+Jamaica,JAM,2011,100.0
+Jordan,JOR,2011,100.0
+Japan,JPN,2011,92.56048747
+Kazakhstan,KAZ,2011,97.53209832
+Kenya,KEN,2011,100.0
+Kyrgyz Republic,KGZ,2011,100.0
+Cambodia,KHM,2011,100.0
+Kiribati,KIR,2011,100.0
+"Korea, Rep.",KOR,2011,100.0
+Kuwait,KWT,2011,100.0
+Latin America & Caribbean (excluding high income),LAC,2011,96.97079496
+Lao PDR,LAO,2011,100.0
+Lebanon,LBN,2011,100.0
+Liberia,LBR,2011,100.0
+Libya,LBY,2011,100.0
+St. Lucia,LCA,2011,100.0
+Latin America & Caribbean,LCN,2011,97.01878628
+Least developed countries: UN classification,LDC,2011,100.0
+Low income,LIC,2011,100.0
+Sri Lanka,LKA,2011,100.0
+Lower middle income,LMC,2011,99.83586245
+Low & middle income,LMY,2011,99.51352423
+Lesotho,LSO,2011,100.0
+Late-demographic dividend,LTE,2011,98.70360865
+Lithuania,LTU,2011,99.936274
+Luxembourg,LUX,2011,99.87655673
+Latvia,LVA,2011,99.26025289
+Morocco,MAR,2011,100.0
+Moldova,MDA,2011,100.0
+Madagascar,MDG,2011,100.0
+Maldives,MDV,2011,99.99999851
+Middle East & North Africa,MEA,2011,100.0
+Mexico,MEX,2011,99.94654393
+Marshall Islands,MHL,2011,100.0
+Middle income,MIC,2011,99.46498056
+North Macedonia,MKD,2011,100.0
+Mali,MLI,2011,100.0
+Malta,MLT,2011,100.0
+Myanmar,MMR,2011,100.0
+Middle East & North Africa (excluding high income),MNA,2011,100.0
+Montenegro,MNE,2011,100.0
+Mongolia,MNG,2011,98.35710531
+Northern Mariana Islands,MNP,2011,100.0
+Mozambique,MOZ,2011,100.0
+Mauritania,MRT,2011,100.0
+Mauritius,MUS,2011,100.0
+Malawi,MWI,2011,100.0
+Malaysia,MYS,2011,97.47653099
+North America,NAC,2011,43.92057678
+Namibia,NAM,2011,100.0
+Niger,NER,2011,100.0
+Nigeria,NGA,2011,100.0
+Nicaragua,NIC,2011,99.93853213
+Netherlands,NLD,2011,100.0
+Norway,NOR,2011,31.41142832
+Nepal,NPL,2011,100.0
+New Zealand,NZL,2011,9.776035735
+OECD members,OED,2011,79.53946458
+Oman,OMN,2011,100.0
+Other small states,OSS,2011,92.87222833
+Pakistan,PAK,2011,100.0
+Panama,PAN,2011,97.22883275
+Peru,PER,2011,100.0
+Philippines,PHL,2011,99.99524119
+Papua New Guinea,PNG,2011,100.0
+Poland,POL,2011,100.0
+Pre-demographic dividend,PRE,2011,100.0
+Puerto Rico,PRI,2011,71.55963303
+"Korea, Dem. People's Rep.",PRK,2011,100.0
+Portugal,PRT,2011,57.452384
+Paraguay,PRY,2011,100.0
+West Bank and Gaza,PSE,2011,100.0
+Pacific island small states,PSS,2011,100.0
+Post-demographic dividend,PST,2011,75.52114004
+Qatar,QAT,2011,100.0
+Romania,ROU,2011,100.0
+Russian Federation,RUS,2011,95.82223265
+Rwanda,RWA,2011,100.0
+South Asia,SAS,2011,100.0
+Saudi Arabia,SAU,2011,100.0
+Sudan,SDN,2011,100.0
+Senegal,SEN,2011,100.0
+Singapore,SGP,2011,100.0
+Solomon Islands,SLB,2011,100.0
+Sierra Leone,SLE,2011,100.0
+El Salvador,SLV,2011,100.0
+Somalia,SOM,2011,100.0
+Serbia,SRB,2011,100.0
+Sub-Saharan Africa (excluding high income),SSA,2011,100.0
+South Sudan,SSD,2011,100.0
+Sub-Saharan Africa,SSF,2011,100.0
+Small states,SST,2011,94.69960326
+Sao Tome and Principe,STP,2011,100.0
+Suriname,SUR,2011,100.0
+Slovak Republic,SVK,2011,100.0
+Slovenia,SVN,2011,100.0
+Sweden,SWE,2011,5.884544297
+Eswatini,SWZ,2011,100.0
+Seychelles,SYC,2011,100.0
+Syrian Arab Republic,SYR,2011,100.0
+Chad,TCD,2011,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2011,99.71791099
+Europe & Central Asia (IDA & IBRD countries),TEC,2011,98.5519018
+Togo,TGO,2011,100.0
+Thailand,THA,2011,100.0
+Tajikistan,TJK,2011,100.0
+Turkmenistan,TKM,2011,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,97.11858316
+Timor-Leste,TLS,2011,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2011,100.0
+Tonga,TON,2011,100.0
+South Asia (IDA & IBRD),TSA,2011,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,100.0
+Trinidad and Tobago,TTO,2011,100.0
+Tunisia,TUN,2011,100.0
+Turkey,TUR,2011,100.0
+Tanzania,TZA,2011,100.0
+Uganda,UGA,2011,100.0
+Ukraine,UKR,2011,100.0
+Upper middle income,UMC,2011,99.00596527
+Uruguay,URY,2011,93.26190735
+United States,USA,2011,46.68619853
+Uzbekistan,UZB,2011,100.0
+St. Vincent and the Grenadines,VCT,2011,100.0
+"Venezuela, RB",VEN,2011,100.0
+Virgin Islands (U.S.),VIR,2011,100.0
+Vietnam,VNM,2011,100.0
+Vanuatu,VUT,2011,100.0
+World,WLD,2011,95.77382122
+Samoa,WSM,2011,100.0
+"Yemen, Rep.",YEM,2011,100.0
+South Africa,ZAF,2011,100.0
+Zambia,ZMB,2011,100.0
+Zimbabwe,ZWE,2011,100.0
+Africa Eastern and Southern,AFE,2012,100.0
+Afghanistan,AFG,2012,100.0
+Africa Western and Central,AFW,2012,100.0
+Angola,AGO,2012,100.0
+Albania,ALB,2012,100.0
+Andorra,AND,2012,99.95599732
+Arab World,ARB,2012,100.0
+United Arab Emirates,ARE,2012,100.0
+Argentina,ARG,2012,99.21768856
+Armenia,ARM,2012,100.0
+American Samoa,ASM,2012,100.0
+Antigua and Barbuda,ATG,2012,100.0
+Australia,AUS,2012,30.65454271
+Austria,AUT,2012,97.41014309
+Azerbaijan,AZE,2012,100.0
+Burundi,BDI,2012,100.0
+Belgium,BEL,2012,98.42810981
+Benin,BEN,2012,100.0
+Burkina Faso,BFA,2012,100.0
+Bangladesh,BGD,2012,100.0
+Bulgaria,BGR,2012,99.96493776
+Bahrain,BHR,2012,100.0
+"Bahamas, The",BHS,2012,100.0
+Bosnia and Herzegovina,BIH,2012,100.0
+Belarus,BLR,2012,100.0
+Belize,BLZ,2012,100.0
+Bermuda,BMU,2012,100.0
+Bolivia,BOL,2012,100.0
+Brazil,BRA,2012,86.82923025
+Barbados,BRB,2012,100.0
+Brunei Darussalam,BRN,2012,1.768517699
+Bhutan,BTN,2012,100.0
+Botswana,BWA,2012,100.0
+Central African Republic,CAF,2012,100.0
+Canada,CAN,2012,8.338183945
+Central Europe and the Baltics,CEB,2012,98.60853583
+Switzerland,CHE,2012,91.82091436
+Chile,CHL,2012,99.29948107
+China,CHN,2012,99.99999299
+Cote d'Ivoire,CIV,2012,100.0
+Cameroon,CMR,2012,100.0
+"Congo, Dem. Rep.",COD,2012,100.0
+"Congo, Rep.",COG,2012,100.0
+Colombia,COL,2012,99.85618013
+Comoros,COM,2012,100.0
+Cabo Verde,CPV,2012,100.0
+Costa Rica,CRI,2012,100.0
+Caribbean small states,CSS,2012,100.0
+Cuba,CUB,2012,100.0
+Cyprus,CYP,2012,100.0
+Czech Republic,CZE,2012,99.94347175
+Germany,DEU,2012,98.29506796
+Djibouti,DJI,2012,100.0
+Dominica,DMA,2012,100.0
+Denmark,DNK,2012,85.47423363
+Dominican Republic,DOM,2012,100.0
+Algeria,DZA,2012,100.0
+East Asia & Pacific (excluding high income),EAP,2012,99.90999577
+Early-demographic dividend,EAR,2012,99.94164063
+East Asia & Pacific,EAS,2012,98.38546193
+Europe & Central Asia (excluding high income),ECA,2012,98.14659254
+Europe & Central Asia,ECS,2012,92.26964604
+Ecuador,ECU,2012,99.9987849
+"Egypt, Arab Rep.",EGY,2012,100.0
+Euro area,EMU,2012,89.29121231
+Eritrea,ERI,2012,100.0
+Spain,ESP,2012,68.4927049
+Estonia,EST,2012,1.178708266
+Ethiopia,ETH,2012,100.0
+European Union,EUU,2012,89.56028872
+Fragile and conflict affected situations,FCS,2012,100.0
+Finland,FIN,2012,0.0
+Fiji,FJI,2012,100.0
+France,FRA,2012,98.61152778
+"Micronesia, Fed. Sts.",FSM,2012,100.0
+Gabon,GAB,2012,100.0
+United Kingdom,GBR,2012,84.78734267
+Georgia,GEO,2012,100.0
+Ghana,GHA,2012,100.0
+Guinea,GIN,2012,100.0
+"Gambia, The",GMB,2012,100.0
+Guinea-Bissau,GNB,2012,100.0
+Equatorial Guinea,GNQ,2012,100.0
+Greece,GRC,2012,100.0
+Grenada,GRD,2012,100.0
+Greenland,GRL,2012,100.0
+Guatemala,GTM,2012,100.0
+Guam,GUM,2012,100.0
+Guyana,GUY,2012,100.0
+High income,HIC,2012,69.3329816
+Honduras,HND,2012,100.0
+Heavily indebted poor countries (HIPC),HPC,2012,99.99944701
+Croatia,HRV,2012,100.0
+Haiti,HTI,2012,100.0
+Hungary,HUN,2012,100.0
+IBRD only,IBD,2012,99.16972545
+IDA & IBRD total,IBT,2012,99.36874106
+IDA total,IDA,2012,99.99911893
+IDA blend,IDB,2012,100.0
+Indonesia,IDN,2012,99.51360267
+IDA only,IDX,2012,99.99867451
+India,IND,2012,100.0
+Ireland,IRL,2012,29.96477012
+"Iran, Islamic Rep.",IRN,2012,100.0
+Iraq,IRQ,2012,100.0
+Iceland,ISL,2012,13.19362565
+Israel,ISR,2012,100.0
+Italy,ITA,2012,97.84864873
+Jamaica,JAM,2012,100.0
+Jordan,JOR,2012,100.0
+Japan,JPN,2012,89.13152401
+Kazakhstan,KAZ,2012,96.22187137
+Kenya,KEN,2012,100.0
+Kyrgyz Republic,KGZ,2012,99.84093894
+Cambodia,KHM,2012,100.0
+Kiribati,KIR,2012,100.0
+"Korea, Rep.",KOR,2012,100.0
+Kuwait,KWT,2012,100.0
+Latin America & Caribbean (excluding high income),LAC,2012,95.08810279
+Lao PDR,LAO,2012,100.0
+Lebanon,LBN,2012,100.0
+Liberia,LBR,2012,100.0
+Libya,LBY,2012,100.0
+St. Lucia,LCA,2012,100.0
+Latin America & Caribbean,LCN,2012,94.97614817
+Least developed countries: UN classification,LDC,2012,100.0
+Low income,LIC,2012,100.0
+Sri Lanka,LKA,2012,100.0
+Lower middle income,LMC,2012,99.95693041
+Low & middle income,LMY,2012,99.38768407
+Lesotho,LSO,2012,100.0
+Late-demographic dividend,LTE,2012,98.05461133
+Lithuania,LTU,2012,99.93550171
+Luxembourg,LUX,2012,90.9053329
+Latvia,LVA,2012,97.97096003
+Morocco,MAR,2012,100.0
+Moldova,MDA,2012,100.0
+Madagascar,MDG,2012,100.0
+Maldives,MDV,2012,99.99999854
+Middle East & North Africa,MEA,2012,100.0
+Mexico,MEX,2012,99.93348652
+Marshall Islands,MHL,2012,100.0
+Middle income,MIC,2012,99.32574691
+North Macedonia,MKD,2012,100.0
+Mali,MLI,2012,100.0
+Malta,MLT,2012,100.0
+Myanmar,MMR,2012,100.0
+Middle East & North Africa (excluding high income),MNA,2012,100.0
+Montenegro,MNE,2012,100.0
+Mongolia,MNG,2012,98.074227
+Northern Mariana Islands,MNP,2012,100.0
+Mozambique,MOZ,2012,100.0
+Mauritania,MRT,2012,100.0
+Mauritius,MUS,2012,100.0
+Malawi,MWI,2012,100.0
+Malaysia,MYS,2012,98.16901013
+North America,NAC,2012,26.6481766
+Namibia,NAM,2012,100.0
+Niger,NER,2012,100.0
+Nigeria,NGA,2012,100.0
+Nicaragua,NIC,2012,99.93897528
+Netherlands,NLD,2012,100.0
+Norway,NOR,2012,2.894365392
+Nepal,NPL,2012,100.0
+New Zealand,NZL,2012,4.472606438
+OECD members,OED,2012,73.11393267
+Oman,OMN,2012,100.0
+Other small states,OSS,2012,92.72869054
+Pakistan,PAK,2012,100.0
+Panama,PAN,2012,96.61297445
+Peru,PER,2012,100.0
+Philippines,PHL,2012,99.99693349
+Papua New Guinea,PNG,2012,100.0
+Poland,POL,2012,100.0
+Pre-demographic dividend,PRE,2012,100.0
+Puerto Rico,PRI,2012,45.87155963
+"Korea, Dem. People's Rep.",PRK,2012,100.0
+Portugal,PRT,2012,30.88129227
+Paraguay,PRY,2012,100.0
+West Bank and Gaza,PSE,2012,100.0
+Pacific island small states,PSS,2012,100.0
+Post-demographic dividend,PST,2012,67.78113523
+Qatar,QAT,2012,100.0
+Romania,ROU,2012,99.58100827
+Russian Federation,RUS,2012,95.32326071
+Rwanda,RWA,2012,100.0
+South Asia,SAS,2012,100.0
+Saudi Arabia,SAU,2012,100.0
+Sudan,SDN,2012,100.0
+Senegal,SEN,2012,100.0
+Singapore,SGP,2012,100.0
+Solomon Islands,SLB,2012,100.0
+Sierra Leone,SLE,2012,100.0
+El Salvador,SLV,2012,100.0
+Somalia,SOM,2012,100.0
+Serbia,SRB,2012,100.0
+Sub-Saharan Africa (excluding high income),SSA,2012,100.0
+South Sudan,SSD,2012,100.0
+Sub-Saharan Africa,SSF,2012,100.0
+Small states,SST,2012,94.57460629
+Sao Tome and Principe,STP,2012,100.0
+Suriname,SUR,2012,100.0
+Slovak Republic,SVK,2012,100.0
+Slovenia,SVN,2012,99.83625221
+Sweden,SWE,2012,3.595308585
+Eswatini,SWZ,2012,100.0
+Seychelles,SYC,2012,100.0
+Syrian Arab Republic,SYR,2012,100.0
+Chad,TCD,2012,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2012,99.90886189
+Europe & Central Asia (IDA & IBRD countries),TEC,2012,98.32367088
+Togo,TGO,2012,100.0
+Thailand,THA,2012,100.0
+Tajikistan,TJK,2012,100.0
+Turkmenistan,TKM,2012,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,95.17739304
+Timor-Leste,TLS,2012,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2012,100.0
+Tonga,TON,2012,100.0
+South Asia (IDA & IBRD),TSA,2012,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,100.0
+Trinidad and Tobago,TTO,2012,100.0
+Tunisia,TUN,2012,100.0
+Turkey,TUR,2012,100.0
+Tanzania,TZA,2012,100.0
+Uganda,UGA,2012,100.0
+Ukraine,UKR,2012,100.0
+Upper middle income,UMC,2012,98.53927315
+Uruguay,URY,2012,60.50843033
+United States,USA,2012,28.65808101
+Uzbekistan,UZB,2012,100.0
+St. Vincent and the Grenadines,VCT,2012,100.0
+"Venezuela, RB",VEN,2012,100.0
+Virgin Islands (U.S.),VIR,2012,100.0
+Vietnam,VNM,2012,100.0
+Vanuatu,VUT,2012,100.0
+World,WLD,2012,94.47639315
+Samoa,WSM,2012,100.0
+"Yemen, Rep.",YEM,2012,100.0
+South Africa,ZAF,2012,100.0
+Zambia,ZMB,2012,100.0
+Zimbabwe,ZWE,2012,100.0
+Africa Eastern and Southern,AFE,2013,100.0
+Afghanistan,AFG,2013,100.0
+Africa Western and Central,AFW,2013,100.0
+Angola,AGO,2013,100.0
+Albania,ALB,2013,100.0
+Andorra,AND,2013,97.68595932
+Arab World,ARB,2013,100.0
+United Arab Emirates,ARE,2013,100.0
+Argentina,ARG,2013,99.026464
+Armenia,ARM,2013,100.0
+American Samoa,ASM,2013,100.0
+Antigua and Barbuda,ATG,2013,100.0
+Australia,AUS,2013,28.27405946
+Austria,AUT,2013,95.76835515
+Azerbaijan,AZE,2013,100.0
+Burundi,BDI,2013,100.0
+Belgium,BEL,2013,96.80229286
+Benin,BEN,2013,100.0
+Burkina Faso,BFA,2013,100.0
+Bangladesh,BGD,2013,100.0
+Bulgaria,BGR,2013,99.96527947
+Bahrain,BHR,2013,100.0
+"Bahamas, The",BHS,2013,100.0
+Bosnia and Herzegovina,BIH,2013,100.0
+Belarus,BLR,2013,100.0
+Belize,BLZ,2013,100.0
+Bermuda,BMU,2013,100.0
+Bolivia,BOL,2013,100.0
+Brazil,BRA,2013,85.33471375
+Barbados,BRB,2013,100.0
+Brunei Darussalam,BRN,2013,0.0
+Bhutan,BTN,2013,100.0
+Botswana,BWA,2013,100.0
+Central African Republic,CAF,2013,100.0
+Canada,CAN,2013,6.630326768
+Central Europe and the Baltics,CEB,2013,98.53582675
+Switzerland,CHE,2013,86.91049745
+Chile,CHL,2013,99.30199962
+China,CHN,2013,99.99999054
+Cote d'Ivoire,CIV,2013,100.0
+Cameroon,CMR,2013,100.0
+"Congo, Dem. Rep.",COD,2013,100.0
+"Congo, Rep.",COG,2013,100.0
+Colombia,COL,2013,99.35286059
+Comoros,COM,2013,100.0
+Cabo Verde,CPV,2013,100.0
+Costa Rica,CRI,2013,100.0
+Caribbean small states,CSS,2013,100.0
+Cuba,CUB,2013,100.0
+Cyprus,CYP,2013,100.0
+Czech Republic,CZE,2013,99.92720102
+Germany,DEU,2013,97.84632154
+Djibouti,DJI,2013,100.0
+Dominica,DMA,2013,100.0
+Denmark,DNK,2013,78.75029356
+Dominican Republic,DOM,2013,100.0
+Algeria,DZA,2013,100.0
+East Asia & Pacific (excluding high income),EAP,2013,99.1718098
+Early-demographic dividend,EAR,2013,99.48539228
+East Asia & Pacific,EAS,2013,97.72834855
+Europe & Central Asia (excluding high income),ECA,2013,97.45258314
+Europe & Central Asia,ECS,2013,91.07389117
+Ecuador,ECU,2013,99.97453985
+"Egypt, Arab Rep.",EGY,2013,100.0
+Euro area,EMU,2013,87.6573948
+Eritrea,ERI,2013,100.0
+Spain,ESP,2013,60.6831518
+Estonia,EST,2013,0.263896
+Ethiopia,ETH,2013,100.0
+European Union,EUU,2013,88.19764695
+Fragile and conflict affected situations,FCS,2013,99.99999674
+Finland,FIN,2013,0.0
+Fiji,FJI,2013,100.0
+France,FRA,2013,97.4091023
+"Micronesia, Fed. Sts.",FSM,2013,100.0
+Gabon,GAB,2013,100.0
+United Kingdom,GBR,2013,82.41659414
+Georgia,GEO,2013,100.0
+Ghana,GHA,2013,100.0
+Guinea,GIN,2013,100.0
+"Gambia, The",GMB,2013,100.0
+Guinea-Bissau,GNB,2013,100.0
+Equatorial Guinea,GNQ,2013,100.0
+Greece,GRC,2013,100.0
+Grenada,GRD,2013,100.0
+Greenland,GRL,2013,100.0
+Guatemala,GTM,2013,100.0
+Guam,GUM,2013,100.0
+Guyana,GUY,2013,100.0
+High income,HIC,2013,66.40099518
+Honduras,HND,2013,100.0
+Heavily indebted poor countries (HIPC),HPC,2013,99.99945923
+Croatia,HRV,2013,100.0
+Haiti,HTI,2013,100.0
+Hungary,HUN,2013,100.0
+IBRD only,IBD,2013,98.70496549
+IDA & IBRD total,IBT,2013,99.01826506
+IDA total,IDA,2013,99.99889188
+IDA blend,IDB,2013,100.0
+Indonesia,IDN,2013,94.21097786
+IDA only,IDX,2013,99.99833205
+India,IND,2013,100.0
+Ireland,IRL,2013,27.36131406
+"Iran, Islamic Rep.",IRN,2013,100.0
+Iraq,IRQ,2013,100.0
+Iceland,ISL,2013,12.84403823
+Israel,ISR,2013,100.0
+Italy,ITA,2013,97.26338617
+Jamaica,JAM,2013,100.0
+Jordan,JOR,2013,100.0
+Japan,JPN,2013,89.80213203
+Kazakhstan,KAZ,2013,95.65702147
+Kenya,KEN,2013,100.0
+Kyrgyz Republic,KGZ,2013,99.78157274
+Cambodia,KHM,2013,100.0
+Kiribati,KIR,2013,99.99999992
+"Korea, Rep.",KOR,2013,100.0
+Kuwait,KWT,2013,100.0
+Latin America & Caribbean (excluding high income),LAC,2013,94.4704983
+Lao PDR,LAO,2013,100.0
+Lebanon,LBN,2013,100.0
+Liberia,LBR,2013,100.0
+Libya,LBY,2013,100.0
+St. Lucia,LCA,2013,100.0
+Latin America & Caribbean,LCN,2013,94.31491052
+Least developed countries: UN classification,LDC,2013,100.0
+Low income,LIC,2013,100.0
+Sri Lanka,LKA,2013,100.0
+Lower middle income,LMC,2013,99.50413769
+Low & middle income,LMY,2013,99.03675191
+Lesotho,LSO,2013,100.0
+Late-demographic dividend,LTE,2013,97.69115543
+Lithuania,LTU,2013,99.93471758
+Luxembourg,LUX,2013,89.43147575
+Latvia,LVA,2013,96.58677022
+Morocco,MAR,2013,100.0
+Moldova,MDA,2013,100.0
+Madagascar,MDG,2013,100.0
+Maldives,MDV,2013,99.99999848
+Middle East & North Africa,MEA,2013,100.0
+Mexico,MEX,2013,99.91486566
+Marshall Islands,MHL,2013,99.99999885
+Middle income,MIC,2013,98.93801257
+North Macedonia,MKD,2013,100.0
+Mali,MLI,2013,100.0
+Malta,MLT,2013,100.0
+Myanmar,MMR,2013,100.0
+Middle East & North Africa (excluding high income),MNA,2013,100.0
+Montenegro,MNE,2013,100.0
+Mongolia,MNG,2013,97.70801597
+Northern Mariana Islands,MNP,2013,100.0
+Mozambique,MOZ,2013,100.0
+Mauritania,MRT,2013,100.0
+Mauritius,MUS,2013,100.0
+Malawi,MWI,2013,100.0
+Malaysia,MYS,2013,94.02458549
+North America,NAC,2013,19.43571588
+Namibia,NAM,2013,100.0
+Niger,NER,2013,100.0
+Nigeria,NGA,2013,100.0
+Nicaragua,NIC,2013,99.93943253
+Netherlands,NLD,2013,99.87044972
+Norway,NOR,2013,2.236189866
+Nepal,NPL,2013,100.0
+New Zealand,NZL,2013,0.352390197
+OECD members,OED,2013,70.56253655
+Oman,OMN,2013,100.0
+Other small states,OSS,2013,92.79191121
+Pakistan,PAK,2013,100.0
+Panama,PAN,2013,93.47575967
+Peru,PER,2013,99.99976584
+Philippines,PHL,2013,99.71480136
+Papua New Guinea,PNG,2013,100.0
+Poland,POL,2013,99.99621648
+Pre-demographic dividend,PRE,2013,100.0
+Puerto Rico,PRI,2013,32.11009174
+"Korea, Dem. People's Rep.",PRK,2013,100.0
+Portugal,PRT,2013,30.89886297
+Paraguay,PRY,2013,100.0
+West Bank and Gaza,PSE,2013,100.0
+Pacific island small states,PSS,2013,99.99999997
+Post-demographic dividend,PST,2013,64.6434838
+Qatar,QAT,2013,100.0
+Romania,ROU,2013,99.40746472
+Russian Federation,RUS,2013,93.45096234
+Rwanda,RWA,2013,100.0
+South Asia,SAS,2013,100.0
+Saudi Arabia,SAU,2013,100.0
+Sudan,SDN,2013,100.0
+Senegal,SEN,2013,100.0
+Singapore,SGP,2013,100.0
+Solomon Islands,SLB,2013,100.0
+Sierra Leone,SLE,2013,100.0
+El Salvador,SLV,2013,100.0
+Somalia,SOM,2013,100.0
+Serbia,SRB,2013,100.0
+Sub-Saharan Africa (excluding high income),SSA,2013,100.0
+South Sudan,SSD,2013,100.0
+Sub-Saharan Africa,SSF,2013,100.0
+Small states,SST,2013,94.60497583
+Sao Tome and Principe,STP,2013,100.0
+Suriname,SUR,2013,100.0
+Slovak Republic,SVK,2013,100.0
+Slovenia,SVN,2013,99.83610299
+Sweden,SWE,2013,3.475081808
+Eswatini,SWZ,2013,100.0
+Seychelles,SYC,2013,100.0
+Syrian Arab Republic,SYR,2013,100.0
+Chad,TCD,2013,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2013,99.16141042
+Europe & Central Asia (IDA & IBRD countries),TEC,2013,97.69410581
+Togo,TGO,2013,100.0
+Thailand,THA,2013,100.0
+Tajikistan,TJK,2013,100.0
+Turkmenistan,TKM,2013,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,94.57616906
+Timor-Leste,TLS,2013,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2013,100.0
+Tonga,TON,2013,100.0
+South Asia (IDA & IBRD),TSA,2013,100.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2013,100.0
+Trinidad and Tobago,TTO,2013,100.0
+Tunisia,TUN,2013,100.0
+Turkey,TUR,2013,100.0
+Tanzania,TZA,2013,100.0
+Uganda,UGA,2013,100.0
+Ukraine,UKR,2013,100.0
+Upper middle income,UMC,2013,98.22790654
+Uruguay,URY,2013,55.38994434
+United States,USA,2013,20.84055734
+Uzbekistan,UZB,2013,100.0
+St. Vincent and the Grenadines,VCT,2013,100.0
+"Venezuela, RB",VEN,2013,99.99991345
+Virgin Islands (U.S.),VIR,2013,100.0
+Vietnam,VNM,2013,100.0
+Vanuatu,VUT,2013,100.0
+World,WLD,2013,93.73800297
+Samoa,WSM,2013,100.0
+"Yemen, Rep.",YEM,2013,100.0
+South Africa,ZAF,2013,100.0
+Zambia,ZMB,2013,100.0
+Zimbabwe,ZWE,2013,100.0
+Africa Eastern and Southern,AFE,2014,100.0
+Afghanistan,AFG,2014,100.0
+Africa Western and Central,AFW,2014,100.0
+Angola,AGO,2014,100.0
+Albania,ALB,2014,100.0
+Andorra,AND,2014,16.59898025
+Arab World,ARB,2014,100.0
+United Arab Emirates,ARE,2014,100.0
+Argentina,ARG,2014,98.31406401
+Armenia,ARM,2014,100.0
+American Samoa,ASM,2014,100.0
+Antigua and Barbuda,ATG,2014,100.0
+Australia,AUS,2014,27.10551384
+Austria,AUT,2014,93.78567197
+Azerbaijan,AZE,2014,100.0
+Burundi,BDI,2014,100.0
+Belgium,BEL,2014,94.48915243
+Benin,BEN,2014,100.0
+Burkina Faso,BFA,2014,100.0
+Bangladesh,BGD,2014,100.0
+Bulgaria,BGR,2014,99.9657025
+Bahrain,BHR,2014,100.0
+"Bahamas, The",BHS,2014,100.0
+Bosnia and Herzegovina,BIH,2014,100.0
+Belarus,BLR,2014,100.0
+Belize,BLZ,2014,100.0
+Bermuda,BMU,2014,100.0
+Bolivia,BOL,2014,100.0
+Brazil,BRA,2014,77.11647309
+Barbados,BRB,2014,100.0
+Brunei Darussalam,BRN,2014,0.0
+Bhutan,BTN,2014,100.0
+Botswana,BWA,2014,100.0
+Central African Republic,CAF,2014,100.0
+Canada,CAN,2014,2.023391521
+Central Europe and the Baltics,CEB,2014,98.36080183
+Switzerland,CHE,2014,78.49918639
+Chile,CHL,2014,99.15045175
+China,CHN,2014,99.99995845
+Cote d'Ivoire,CIV,2014,100.0
+Cameroon,CMR,2014,100.0
+"Congo, Dem. Rep.",COD,2014,100.0
+"Congo, Rep.",COG,2014,100.0
+Colombia,COL,2014,97.48104423
+Comoros,COM,2014,100.0
+Cabo Verde,CPV,2014,100.0
+Costa Rica,CRI,2014,100.0
+Caribbean small states,CSS,2014,100.0
+Cuba,CUB,2014,100.0
+Cyprus,CYP,2014,100.0
+Czech Republic,CZE,2014,99.91786085
+Germany,DEU,2014,95.72529588
+Djibouti,DJI,2014,100.0
+Dominica,DMA,2014,100.0
+Denmark,DNK,2014,82.83430732
+Dominican Republic,DOM,2014,99.97857173
+Algeria,DZA,2014,100.0
+East Asia & Pacific (excluding high income),EAP,2014,99.13815311
+Early-demographic dividend,EAR,2014,99.45123634
+East Asia & Pacific,EAS,2014,97.56988315
+Europe & Central Asia (excluding high income),ECA,2014,97.17386695
+Europe & Central Asia,ECS,2014,88.30280692
+Ecuador,ECU,2014,99.63520089
+"Egypt, Arab Rep.",EGY,2014,100.0
+Euro area,EMU,2014,82.77033971
+Eritrea,ERI,2014,100.0
+Spain,ESP,2014,47.71914768
+Estonia,EST,2014,0.258944001
+Ethiopia,ETH,2014,100.0
+European Union,EUU,2014,84.4590044
+Fragile and conflict affected situations,FCS,2014,99.99991648
+Finland,FIN,2014,0.0
+Fiji,FJI,2014,99.99426434
+France,FRA,2014,87.84524972
+"Micronesia, Fed. Sts.",FSM,2014,100.0
+Gabon,GAB,2014,100.0
+United Kingdom,GBR,2014,72.0666772
+Georgia,GEO,2014,100.0
+Ghana,GHA,2014,100.0
+Guinea,GIN,2014,100.0
+"Gambia, The",GMB,2014,100.0
+Guinea-Bissau,GNB,2014,100.0
+Equatorial Guinea,GNQ,2014,100.0
+Greece,GRC,2014,100.0
+Grenada,GRD,2014,100.0
+Greenland,GRL,2014,98.76045629
+Guatemala,GTM,2014,100.0
+Guam,GUM,2014,91.66666667
+Guyana,GUY,2014,100.0
+High income,HIC,2014,61.33796727
+Honduras,HND,2014,100.0
+Heavily indebted poor countries (HIPC),HPC,2014,99.99937622
+Croatia,HRV,2014,100.0
+Haiti,HTI,2014,100.0
+Hungary,HUN,2014,100.0
+IBRD only,IBD,2014,98.2555454
+IDA & IBRD total,IBT,2014,98.67280771
+IDA total,IDA,2014,99.96299851
+IDA blend,IDB,2014,99.99999008
+Indonesia,IDN,2014,94.49722032
+IDA only,IDX,2014,99.94428293
+India,IND,2014,100.0
+Ireland,IRL,2014,3.611993262
+"Iran, Islamic Rep.",IRN,2014,100.0
+Iraq,IRQ,2014,100.0
+Iceland,ISL,2014,12.1246396
+Israel,ISR,2014,100.0
+Italy,ITA,2014,96.58307004
+Jamaica,JAM,2014,100.0
+Jordan,JOR,2014,100.0
+Japan,JPN,2014,87.81962942
+Kazakhstan,KAZ,2014,91.60699878
+Kenya,KEN,2014,100.0
+Kyrgyz Republic,KGZ,2014,98.07187745
+Cambodia,KHM,2014,100.0
+Kiribati,KIR,2014,99.99999958
+"Korea, Rep.",KOR,2014,100.0
+Kuwait,KWT,2014,100.0
+Latin America & Caribbean (excluding high income),LAC,2014,91.22297615
+Lao PDR,LAO,2014,100.0
+Lebanon,LBN,2014,100.0
+Liberia,LBR,2014,100.0
+Libya,LBY,2014,100.0
+St. Lucia,LCA,2014,100.0
+Latin America & Caribbean,LCN,2014,91.1233236
+Least developed countries: UN classification,LDC,2014,100.0
+Low income,LIC,2014,100.0
+Sri Lanka,LKA,2014,100.0
+Lower middle income,LMC,2014,99.50185993
+Low & middle income,LMY,2014,98.70355035
+Lesotho,LSO,2014,100.0
+Late-demographic dividend,LTE,2014,96.70988891
+Lithuania,LTU,2014,99.93391988
+Luxembourg,LUX,2014,78.01659635
+Latvia,LVA,2014,96.62907823
+Morocco,MAR,2014,100.0
+Moldova,MDA,2014,100.0
+Madagascar,MDG,2014,100.0
+Maldives,MDV,2014,8.4e-08
+Middle East & North Africa,MEA,2014,100.0
+Mexico,MEX,2014,99.7621771
+Marshall Islands,MHL,2014,99.99999883
+Middle income,MIC,2014,98.56885495
+North Macedonia,MKD,2014,100.0
+Mali,MLI,2014,100.0
+Malta,MLT,2014,100.0
+Myanmar,MMR,2014,100.0
+Middle East & North Africa (excluding high income),MNA,2014,100.0
+Montenegro,MNE,2014,100.0
+Mongolia,MNG,2014,96.83417056
+Northern Mariana Islands,MNP,2014,30.76923077
+Mozambique,MOZ,2014,100.0
+Mauritania,MRT,2014,100.0
+Mauritius,MUS,2014,100.0
+Malawi,MWI,2014,100.0
+Malaysia,MYS,2014,92.00610059
+North America,NAC,2014,10.775422
+Namibia,NAM,2014,100.0
+Niger,NER,2014,100.0
+Nigeria,NGA,2014,100.0
+Nicaragua,NIC,2014,99.92908546
+Netherlands,NLD,2014,99.83441405
+Norway,NOR,2014,2.245509395
+Nepal,NPL,2014,100.0
+New Zealand,NZL,2014,0.350996258
+OECD members,OED,2014,66.14533376
+Oman,OMN,2014,100.0
+Other small states,OSS,2014,91.37487157
+Pakistan,PAK,2014,100.0
+Panama,PAN,2014,90.52608058
+Peru,PER,2014,99.99952668
+Philippines,PHL,2014,99.01975306
+Papua New Guinea,PNG,2014,100.0
+Poland,POL,2014,99.98156642
+Pre-demographic dividend,PRE,2014,100.0
+Puerto Rico,PRI,2014,15.59633028
+"Korea, Dem. People's Rep.",PRK,2014,100.0
+Portugal,PRT,2014,25.18319789
+Paraguay,PRY,2014,100.0
+West Bank and Gaza,PSE,2014,100.0
+Pacific island small states,PSS,2014,99.99782474
+Post-demographic dividend,PST,2014,59.37557376
+Qatar,QAT,2014,100.0
+Romania,ROU,2014,98.52413489
+Russian Federation,RUS,2014,93.32059119
+Rwanda,RWA,2014,100.0
+South Asia,SAS,2014,99.97481999
+Saudi Arabia,SAU,2014,100.0
+Sudan,SDN,2014,100.0
+Senegal,SEN,2014,100.0
+Singapore,SGP,2014,100.0
+Solomon Islands,SLB,2014,100.0
+Sierra Leone,SLE,2014,100.0
+El Salvador,SLV,2014,100.0
+Somalia,SOM,2014,100.0
+Serbia,SRB,2014,100.0
+Sub-Saharan Africa (excluding high income),SSA,2014,100.0
+South Sudan,SSD,2014,100.0
+Sub-Saharan Africa,SSF,2014,100.0
+Small states,SST,2014,93.52476601
+Sao Tome and Principe,STP,2014,100.0
+Suriname,SUR,2014,100.0
+Slovak Republic,SVK,2014,100.0
+Slovenia,SVN,2014,99.79339245
+Sweden,SWE,2014,3.676452145
+Eswatini,SWZ,2014,100.0
+Seychelles,SYC,2014,100.0
+Syrian Arab Republic,SYR,2014,100.0
+Chad,TCD,2014,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2014,99.12736378
+Europe & Central Asia (IDA & IBRD countries),TEC,2014,97.43884955
+Togo,TGO,2014,100.0
+Thailand,THA,2014,100.0
+Tajikistan,TJK,2014,100.0
+Turkmenistan,TKM,2014,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,91.39875806
+Timor-Leste,TLS,2014,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2014,100.0
+Tonga,TON,2014,100.0
+South Asia (IDA & IBRD),TSA,2014,99.97481999
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,100.0
+Trinidad and Tobago,TTO,2014,100.0
+Tunisia,TUN,2014,100.0
+Turkey,TUR,2014,100.0
+Tanzania,TZA,2014,100.0
+Uganda,UGA,2014,100.0
+Ukraine,UKR,2014,100.0
+Upper middle income,UMC,2014,97.39072423
+Uruguay,URY,2014,28.73578061
+United States,USA,2014,11.73129721
+Uzbekistan,UZB,2014,100.0
+St. Vincent and the Grenadines,VCT,2014,100.0
+"Venezuela, RB",VEN,2014,99.99774982
+Virgin Islands (U.S.),VIR,2014,50.0
+Vietnam,VNM,2014,100.0
+Vanuatu,VUT,2014,100.0
+World,WLD,2014,92.67383555
+Samoa,WSM,2014,100.0
+"Yemen, Rep.",YEM,2014,100.0
+South Africa,ZAF,2014,100.0
+Zambia,ZMB,2014,100.0
+Zimbabwe,ZWE,2014,100.0
+Africa Eastern and Southern,AFE,2015,100.0
+Afghanistan,AFG,2015,100.0
+Africa Western and Central,AFW,2015,100.0
+Angola,AGO,2015,100.0
+Albania,ALB,2015,100.0
+Andorra,AND,2015,90.84806274
+Arab World,ARB,2015,100.0
+United Arab Emirates,ARE,2015,100.0
+Argentina,ARG,2015,98.02192869
+Armenia,ARM,2015,100.0
+American Samoa,ASM,2015,100.0
+Antigua and Barbuda,ATG,2015,100.0
+Australia,AUS,2015,26.04666675
+Austria,AUT,2015,91.47446535
+Azerbaijan,AZE,2015,100.0
+Burundi,BDI,2015,100.0
+Belgium,BEL,2015,95.10434538
+Benin,BEN,2015,100.0
+Burkina Faso,BFA,2015,100.0
+Bangladesh,BGD,2015,100.0
+Bulgaria,BGR,2015,99.96623179
+Bahrain,BHR,2015,100.0
+"Bahamas, The",BHS,2015,100.0
+Bosnia and Herzegovina,BIH,2015,100.0
+Belarus,BLR,2015,100.0
+Belize,BLZ,2015,100.0
+Bermuda,BMU,2015,100.0
+Bolivia,BOL,2015,99.9997323
+Brazil,BRA,2015,74.92775153
+Barbados,BRB,2015,100.0
+Brunei Darussalam,BRN,2015,0.0
+Bhutan,BTN,2015,100.0
+Botswana,BWA,2015,100.0
+Central African Republic,CAF,2015,100.0
+Canada,CAN,2015,0.725554042
+Central Europe and the Baltics,CEB,2015,98.42037199
+Switzerland,CHE,2015,72.31110734
+Chile,CHL,2015,98.57629893
+China,CHN,2015,99.99995516
+Cote d'Ivoire,CIV,2015,100.0
+Cameroon,CMR,2015,100.0
+"Congo, Dem. Rep.",COD,2015,100.0
+"Congo, Rep.",COG,2015,100.0
+Colombia,COL,2015,96.338151
+Comoros,COM,2015,100.0
+Cabo Verde,CPV,2015,100.0
+Costa Rica,CRI,2015,99.97998602
+Caribbean small states,CSS,2015,99.99997952
+Cuba,CUB,2015,100.0
+Cyprus,CYP,2015,100.0
+Czech Republic,CZE,2015,99.82828388
+Germany,DEU,2015,95.95259594
+Djibouti,DJI,2015,100.0
+Dominica,DMA,2015,100.0
+Denmark,DNK,2015,75.18744118
+Dominican Republic,DOM,2015,99.97859822
+Algeria,DZA,2015,100.0
+East Asia & Pacific (excluding high income),EAP,2015,99.38569523
+Early-demographic dividend,EAR,2015,99.58934895
+East Asia & Pacific,EAS,2015,97.82578833
+Europe & Central Asia (excluding high income),ECA,2015,96.75573171
+Europe & Central Asia,ECS,2015,88.60801453
+Ecuador,ECU,2015,99.38916952
+"Egypt, Arab Rep.",EGY,2015,100.0
+Euro area,EMU,2015,84.39553269
+Eritrea,ERI,2015,100.0
+Spain,ESP,2015,55.15272487
+Estonia,EST,2015,0.0
+Ethiopia,ETH,2015,100.0
+European Union,EUU,2015,85.60740369
+Fragile and conflict affected situations,FCS,2015,99.99982153
+Finland,FIN,2015,0.0
+Fiji,FJI,2015,99.97864842
+France,FRA,2015,90.41211847
+"Micronesia, Fed. Sts.",FSM,2015,100.0
+Gabon,GAB,2015,100.0
+United Kingdom,GBR,2015,71.9634942
+Georgia,GEO,2015,100.0
+Ghana,GHA,2015,100.0
+Guinea,GIN,2015,100.0
+"Gambia, The",GMB,2015,100.0
+Guinea-Bissau,GNB,2015,100.0
+Equatorial Guinea,GNQ,2015,100.0
+Greece,GRC,2015,100.0
+Grenada,GRD,2015,100.0
+Greenland,GRL,2015,98.75354563
+Guatemala,GTM,2015,100.0
+Guam,GUM,2015,100.0
+Guyana,GUY,2015,99.99980863
+High income,HIC,2015,60.80598124
+Honduras,HND,2015,99.99887667
+Heavily indebted poor countries (HIPC),HPC,2015,99.9993707
+Croatia,HRV,2015,100.0
+Haiti,HTI,2015,100.0
+Hungary,HUN,2015,100.0
+IBRD only,IBD,2015,98.2102708
+IDA & IBRD total,IBT,2015,98.64353673
+IDA total,IDA,2015,99.96639163
+IDA blend,IDB,2015,99.99996384
+Indonesia,IDN,2015,96.1423725
+IDA only,IDX,2015,99.9493865
+India,IND,2015,100.0
+Ireland,IRL,2015,2.718190834
+"Iran, Islamic Rep.",IRN,2015,100.0
+Iraq,IRQ,2015,100.0
+Iceland,ISL,2015,11.98495478
+Israel,ISR,2015,100.0
+Italy,ITA,2015,96.75457394
+Jamaica,JAM,2015,100.0
+Jordan,JOR,2015,100.0
+Japan,JPN,2015,88.66865042
+Kazakhstan,KAZ,2015,92.6415526
+Kenya,KEN,2015,100.0
+Kyrgyz Republic,KGZ,2015,99.10894838
+Cambodia,KHM,2015,100.0
+Kiribati,KIR,2015,99.99999957
+"Korea, Rep.",KOR,2015,100.0
+Kuwait,KWT,2015,100.0
+Latin America & Caribbean (excluding high income),LAC,2015,90.2898667
+Lao PDR,LAO,2015,100.0
+Lebanon,LBN,2015,100.0
+Liberia,LBR,2015,100.0
+Libya,LBY,2015,100.0
+St. Lucia,LCA,2015,100.0
+Latin America & Caribbean,LCN,2015,90.2523534
+Least developed countries: UN classification,LDC,2015,100.0
+Low income,LIC,2015,100.0
+Sri Lanka,LKA,2015,100.0
+Lower middle income,LMC,2015,99.65635174
+Low & middle income,LMY,2015,98.6766753
+Lesotho,LSO,2015,100.0
+Late-demographic dividend,LTE,2015,96.41701547
+Lithuania,LTU,2015,99.5312153
+Luxembourg,LUX,2015,79.97926683
+Latvia,LVA,2015,92.27308655
+Morocco,MAR,2015,100.0
+Moldova,MDA,2015,100.0
+Madagascar,MDG,2015,100.0
+Maldives,MDV,2015,6.87e-08
+Middle East & North Africa,MEA,2015,100.0
+Mexico,MEX,2015,99.71526554
+Marshall Islands,MHL,2015,99.9999988
+Middle income,MIC,2015,98.53726714
+North Macedonia,MKD,2015,100.0
+Mali,MLI,2015,100.0
+Malta,MLT,2015,100.0
+Myanmar,MMR,2015,100.0
+Middle East & North Africa (excluding high income),MNA,2015,100.0
+Montenegro,MNE,2015,100.0
+Mongolia,MNG,2015,97.95178478
+Northern Mariana Islands,MNP,2015,34.61538462
+Mozambique,MOZ,2015,100.0
+Mauritania,MRT,2015,100.0
+Mauritius,MUS,2015,100.0
+Malawi,MWI,2015,100.0
+Malaysia,MYS,2015,93.50817804
+North America,NAC,2015,7.706948001
+Namibia,NAM,2015,100.0
+Niger,NER,2015,100.0
+Nigeria,NGA,2015,100.0
+Nicaragua,NIC,2015,99.92951799
+Netherlands,NLD,2015,99.81168269
+Norway,NOR,2015,2.024656744
+Nepal,NPL,2015,100.0
+New Zealand,NZL,2015,0.349574374
+OECD members,OED,2015,65.65331423
+Oman,OMN,2015,100.0
+Other small states,OSS,2015,91.43576477
+Pakistan,PAK,2015,100.0
+Panama,PAN,2015,87.28942893
+Peru,PER,2015,99.97338889
+Philippines,PHL,2015,99.43309287
+Papua New Guinea,PNG,2015,100.0
+Poland,POL,2015,99.99621497
+Pre-demographic dividend,PRE,2015,100.0
+Puerto Rico,PRI,2015,14.67889908
+"Korea, Dem. People's Rep.",PRK,2015,100.0
+Portugal,PRT,2015,27.45849405
+Paraguay,PRY,2015,100.0
+West Bank and Gaza,PSE,2015,100.0
+Pacific island small states,PSS,2015,99.99198649
+Post-demographic dividend,PST,2015,58.7631872
+Qatar,QAT,2015,100.0
+Romania,ROU,2015,99.37909475
+Russian Federation,RUS,2015,91.8274019
+Rwanda,RWA,2015,100.0
+South Asia,SAS,2015,99.97399625
+Saudi Arabia,SAU,2015,100.0
+Sudan,SDN,2015,100.0
+Senegal,SEN,2015,100.0
+Singapore,SGP,2015,100.0
+Solomon Islands,SLB,2015,100.0
+Sierra Leone,SLE,2015,100.0
+El Salvador,SLV,2015,100.0
+Somalia,SOM,2015,100.0
+Serbia,SRB,2015,100.0
+Sub-Saharan Africa (excluding high income),SSA,2015,100.0
+South Sudan,SSD,2015,100.0
+Sub-Saharan Africa,SSF,2015,100.0
+Small states,SST,2015,93.55072707
+Sao Tome and Principe,STP,2015,100.0
+Suriname,SUR,2015,100.0
+Slovak Republic,SVK,2015,100.0
+Slovenia,SVN,2015,99.79371471
+Sweden,SWE,2015,3.555146241
+Eswatini,SWZ,2015,100.0
+Seychelles,SYC,2015,100.0
+Syrian Arab Republic,SYR,2015,100.0
+Chad,TCD,2015,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2015,99.37802557
+Europe & Central Asia (IDA & IBRD countries),TEC,2015,97.05925979
+Togo,TGO,2015,100.0
+Thailand,THA,2015,100.0
+Tajikistan,TJK,2015,100.0
+Turkmenistan,TKM,2015,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,90.49978975
+Timor-Leste,TLS,2015,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2015,100.0
+Tonga,TON,2015,100.0
+South Asia (IDA & IBRD),TSA,2015,99.97399625
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,100.0
+Trinidad and Tobago,TTO,2015,100.0
+Tunisia,TUN,2015,100.0
+Turkey,TUR,2015,100.0
+Tanzania,TZA,2015,100.0
+Uganda,UGA,2015,100.0
+Ukraine,UKR,2015,100.0
+Upper middle income,UMC,2015,97.11432419
+Uruguay,URY,2015,26.44415702
+United States,USA,2015,8.465306507
+Uzbekistan,UZB,2015,100.0
+St. Vincent and the Grenadines,VCT,2015,100.0
+"Venezuela, RB",VEN,2015,99.99508316
+Virgin Islands (U.S.),VIR,2015,50.0
+Vietnam,VNM,2015,100.0
+Vanuatu,VUT,2015,100.0
+World,WLD,2015,92.60178045
+Samoa,WSM,2015,100.0
+"Yemen, Rep.",YEM,2015,100.0
+South Africa,ZAF,2015,100.0
+Zambia,ZMB,2015,100.0
+Zimbabwe,ZWE,2015,100.0
+Africa Eastern and Southern,AFE,2016,100.0
+Afghanistan,AFG,2016,100.0
+Africa Western and Central,AFW,2016,100.0
+Angola,AGO,2016,100.0
+Albania,ALB,2016,100.0
+Andorra,AND,2016,17.41955772
+Arab World,ARB,2016,100.0
+United Arab Emirates,ARE,2016,100.0
+Argentina,ARG,2016,94.13945992
+Armenia,ARM,2016,100.0
+American Samoa,ASM,2016,100.0
+Antigua and Barbuda,ATG,2016,100.0
+Australia,AUS,2016,24.90420852
+Austria,AUT,2016,85.01593469
+Azerbaijan,AZE,2016,100.0
+Burundi,BDI,2016,100.0
+Belgium,BEL,2016,91.78911483
+Benin,BEN,2016,100.0
+Burkina Faso,BFA,2016,100.0
+Bangladesh,BGD,2016,100.0
+Bulgaria,BGR,2016,99.89349344
+Bahrain,BHR,2016,100.0
+"Bahamas, The",BHS,2016,99.99999999
+Bosnia and Herzegovina,BIH,2016,99.95544692
+Belarus,BLR,2016,100.0
+Belize,BLZ,2016,100.0
+Bermuda,BMU,2016,100.0
+Bolivia,BOL,2016,99.99748599
+Brazil,BRA,2016,67.95255918
+Barbados,BRB,2016,100.0
+Brunei Darussalam,BRN,2016,0.0
+Bhutan,BTN,2016,100.0
+Botswana,BWA,2016,100.0
+Central African Republic,CAF,2016,100.0
+Canada,CAN,2016,0.0
+Central Europe and the Baltics,CEB,2016,97.96652398
+Switzerland,CHE,2016,49.33945364
+Chile,CHL,2016,97.59441874
+China,CHN,2016,99.99829865
+Cote d'Ivoire,CIV,2016,100.0
+Cameroon,CMR,2016,100.0
+"Congo, Dem. Rep.",COD,2016,100.0
+"Congo, Rep.",COG,2016,100.0
+Colombia,COL,2016,92.74339524
+Comoros,COM,2016,100.0
+Cabo Verde,CPV,2016,100.0
+Costa Rica,CRI,2016,99.71706666
+Caribbean small states,CSS,2016,99.99888157
+Cuba,CUB,2016,100.0
+Cyprus,CYP,2016,100.0
+Czech Republic,CZE,2016,99.67485548
+Germany,DEU,2016,89.15466272
+Djibouti,DJI,2016,100.0
+Dominica,DMA,2016,100.0
+Denmark,DNK,2016,57.09176238
+Dominican Republic,DOM,2016,99.91388391
+Algeria,DZA,2016,100.0
+East Asia & Pacific (excluding high income),EAP,2016,99.1426633
+Early-demographic dividend,EAR,2016,99.38425969
+East Asia & Pacific,EAS,2016,96.85641643
+Europe & Central Asia (excluding high income),ECA,2016,96.38862591
+Europe & Central Asia,ECS,2016,85.06806912
+Ecuador,ECU,2016,98.65234837
+"Egypt, Arab Rep.",EGY,2016,100.0
+Euro area,EMU,2016,77.25703159
+Eritrea,ERI,2016,100.0
+Spain,ESP,2016,40.724385
+Estonia,EST,2016,0.0
+Ethiopia,ETH,2016,100.0
+European Union,EUU,2016,79.81177656
+Fragile and conflict affected situations,FCS,2016,99.9976001
+Finland,FIN,2016,0.0
+Fiji,FJI,2016,93.69405468
+France,FRA,2016,78.27749787
+"Micronesia, Fed. Sts.",FSM,2016,99.99999998
+Gabon,GAB,2016,100.0
+United Kingdom,GBR,2016,67.10067313
+Georgia,GEO,2016,100.0
+Ghana,GHA,2016,100.0
+Guinea,GIN,2016,100.0
+"Gambia, The",GMB,2016,100.0
+Guinea-Bissau,GNB,2016,100.0
+Equatorial Guinea,GNQ,2016,100.0
+Greece,GRC,2016,100.0
+Grenada,GRD,2016,100.0
+Greenland,GRL,2016,80.10090371
+Guatemala,GTM,2016,100.0
+Guam,GUM,2016,83.33333333
+Guyana,GUY,2016,99.98953471
+High income,HIC,2016,55.23885645
+Honduras,HND,2016,99.98207531
+Heavily indebted poor countries (HIPC),HPC,2016,99.99890027
+Croatia,HRV,2016,99.78069913
+Haiti,HTI,2016,100.0
+Hungary,HUN,2016,100.0
+IBRD only,IBD,2016,97.53300041
+IDA & IBRD total,IBT,2016,98.13648786
+IDA total,IDA,2016,99.95534776
+IDA blend,IDB,2016,99.98944605
+Indonesia,IDN,2016,95.69352975
+IDA only,IDX,2016,99.93806239
+India,IND,2016,100.0
+Ireland,IRL,2016,0.273735769
+"Iran, Islamic Rep.",IRN,2016,100.0
+Iraq,IRQ,2016,100.0
+Iceland,ISL,2016,11.10046178
+Israel,ISR,2016,100.0
+Italy,ITA,2016,94.54848442
+Jamaica,JAM,2016,100.0
+Jordan,JOR,2016,100.0
+Japan,JPN,2016,75.41211147
+Kazakhstan,KAZ,2016,87.15238088
+Kenya,KEN,2016,100.0
+Kyrgyz Republic,KGZ,2016,97.40665321
+Cambodia,KHM,2016,100.0
+Kiribati,KIR,2016,99.9999995
+"Korea, Rep.",KOR,2016,100.0
+Kuwait,KWT,2016,100.0
+Latin America & Caribbean (excluding high income),LAC,2016,87.03592113
+Lao PDR,LAO,2016,100.0
+Lebanon,LBN,2016,100.0
+Liberia,LBR,2016,100.0
+Libya,LBY,2016,100.0
+St. Lucia,LCA,2016,100.0
+Latin America & Caribbean,LCN,2016,87.18648235
+Least developed countries: UN classification,LDC,2016,100.0
+Low income,LIC,2016,100.0
+Sri Lanka,LKA,2016,69.06296284
+Lower middle income,LMC,2016,99.32083633
+Low & middle income,LMY,2016,98.17077756
+Lesotho,LSO,2016,100.0
+Late-demographic dividend,LTE,2016,95.26209896
+Lithuania,LTU,2016,97.07495748
+Luxembourg,LUX,2016,68.73273003
+Latvia,LVA,2016,89.41149817
+Morocco,MAR,2016,100.0
+Moldova,MDA,2016,100.0
+Madagascar,MDG,2016,100.0
+Maldives,MDV,2016,0.0
+Middle East & North Africa,MEA,2016,100.0
+Mexico,MEX,2016,99.656644
+Marshall Islands,MHL,2016,99.99999634
+Middle income,MIC,2016,97.97531611
+North Macedonia,MKD,2016,100.0
+Mali,MLI,2016,100.0
+Malta,MLT,2016,100.0
+Myanmar,MMR,2016,100.0
+Middle East & North Africa (excluding high income),MNA,2016,100.0
+Montenegro,MNE,2016,100.0
+Mongolia,MNG,2016,96.83175233
+Northern Mariana Islands,MNP,2016,26.92307692
+Mozambique,MOZ,2016,100.0
+Mauritania,MRT,2016,100.0
+Mauritius,MUS,2016,100.0
+Malawi,MWI,2016,100.0
+Malaysia,MYS,2016,90.41989266
+North America,NAC,2016,3.016645903
+Namibia,NAM,2016,100.0
+Niger,NER,2016,100.0
+Nigeria,NGA,2016,100.0
+Nicaragua,NIC,2016,99.90322898
+Netherlands,NLD,2016,99.59579833
+Norway,NOR,2016,2.034288278
+Nepal,NPL,2016,100.0
+New Zealand,NZL,2016,0.0
+OECD members,OED,2016,60.673341
+Oman,OMN,2016,100.0
+Other small states,OSS,2016,91.49664269
+Pakistan,PAK,2016,100.0
+Panama,PAN,2016,72.13426654
+Peru,PER,2016,99.96870207
+Philippines,PHL,2016,96.81597569
+Papua New Guinea,PNG,2016,99.99548932
+Poland,POL,2016,99.96609131
+Pre-demographic dividend,PRE,2016,100.0
+Puerto Rico,PRI,2016,3.669724771
+"Korea, Dem. People's Rep.",PRK,2016,100.0
+Portugal,PRT,2016,14.71847244
+Paraguay,PRY,2016,98.93517738
+West Bank and Gaza,PSE,2016,100.0
+Pacific island small states,PSS,2016,97.64698576
+Post-demographic dividend,PST,2016,52.76313468
+Qatar,QAT,2016,100.0
+Romania,ROU,2016,97.90706909
+Russian Federation,RUS,2016,91.7079918
+Rwanda,RWA,2016,100.0
+South Asia,SAS,2016,99.60280403
+Saudi Arabia,SAU,2016,100.0
+Sudan,SDN,2016,100.0
+Senegal,SEN,2016,100.0
+Singapore,SGP,2016,100.0
+Solomon Islands,SLB,2016,100.0
+Sierra Leone,SLE,2016,100.0
+El Salvador,SLV,2016,100.0
+Somalia,SOM,2016,100.0
+Serbia,SRB,2016,100.0
+Sub-Saharan Africa (excluding high income),SSA,2016,100.0
+South Sudan,SSD,2016,100.0
+Sub-Saharan Africa,SSF,2016,100.0
+Small states,SST,2016,93.43652023
+Sao Tome and Principe,STP,2016,100.0
+Suriname,SUR,2016,100.0
+Slovak Republic,SVK,2016,100.0
+Slovenia,SVN,2016,99.47412541
+Sweden,SWE,2016,3.595702677
+Eswatini,SWZ,2016,100.0
+Seychelles,SYC,2016,100.0
+Syrian Arab Republic,SYR,2016,100.0
+Chad,TCD,2016,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2016,99.13198756
+Europe & Central Asia (IDA & IBRD countries),TEC,2016,96.71981292
+Togo,TGO,2016,100.0
+Thailand,THA,2016,100.0
+Tajikistan,TJK,2016,100.0
+Turkmenistan,TKM,2016,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,87.40827694
+Timor-Leste,TLS,2016,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2016,100.0
+Tonga,TON,2016,99.80641697
+South Asia (IDA & IBRD),TSA,2016,99.60280403
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,100.0
+Trinidad and Tobago,TTO,2016,100.0
+Tunisia,TUN,2016,100.0
+Turkey,TUR,2016,100.0
+Tanzania,TZA,2016,100.0
+Uganda,UGA,2016,100.0
+Ukraine,UKR,2016,100.0
+Upper middle income,UMC,2016,96.25252557
+Uruguay,URY,2016,22.39524307
+United States,USA,2016,3.334435592
+Uzbekistan,UZB,2016,100.0
+St. Vincent and the Grenadines,VCT,2016,100.0
+"Venezuela, RB",VEN,2016,99.93307859
+Virgin Islands (U.S.),VIR,2016,40.0
+Vietnam,VNM,2016,100.0
+Vanuatu,VUT,2016,99.99999999
+World,WLD,2016,91.3252964
+Samoa,WSM,2016,100.0
+"Yemen, Rep.",YEM,2016,100.0
+South Africa,ZAF,2016,100.0
+Zambia,ZMB,2016,100.0
+Zimbabwe,ZWE,2016,100.0
+Africa Eastern and Southern,AFE,2017,100.0
+Afghanistan,AFG,2017,100.0
+Africa Western and Central,AFW,2017,100.0
+Angola,AGO,2017,100.0
+Albania,ALB,2017,100.0
+Andorra,AND,2017,17.82445949
+Arab World,ARB,2017,100.0
+United Arab Emirates,ARE,2017,100.0
+Argentina,ARG,2017,93.85282467
+Armenia,ARM,2017,100.0
+American Samoa,ASM,2017,100.0
+Antigua and Barbuda,ATG,2017,100.0
+Australia,AUS,2017,24.89358377
+Austria,AUT,2017,85.05153767
+Azerbaijan,AZE,2017,100.0
+Burundi,BDI,2017,100.0
+Belgium,BEL,2017,91.94854035
+Benin,BEN,2017,100.0
+Burkina Faso,BFA,2017,100.0
+Bangladesh,BGD,2017,100.0
+Bulgaria,BGR,2017,99.89467432
+Bahrain,BHR,2017,100.0
+"Bahamas, The",BHS,2017,99.99999999
+Bosnia and Herzegovina,BIH,2017,99.95523503
+Belarus,BLR,2017,99.93135197
+Belize,BLZ,2017,100.0
+Bermuda,BMU,2017,100.0
+Bolivia,BOL,2017,99.99913202
+Brazil,BRA,2017,68.13503006
+Barbados,BRB,2017,100.0
+Brunei Darussalam,BRN,2017,0.0
+Bhutan,BTN,2017,100.0
+Botswana,BWA,2017,100.0
+Central African Republic,CAF,2017,100.0
+Canada,CAN,2017,0.0
+Central Europe and the Baltics,CEB,2017,97.94979993
+Switzerland,CHE,2017,49.30013623
+Chile,CHL,2017,97.66301771
+China,CHN,2017,99.99829446
+Cote d'Ivoire,CIV,2017,100.0
+Cameroon,CMR,2017,100.0
+"Congo, Dem. Rep.",COD,2017,100.0
+"Congo, Rep.",COG,2017,100.0
+Colombia,COL,2017,92.10462898
+Comoros,COM,2017,100.0
+Cabo Verde,CPV,2017,100.0
+Costa Rica,CRI,2017,99.68879337
+Caribbean small states,CSS,2017,99.99873809
+Cuba,CUB,2017,100.0
+Cyprus,CYP,2017,100.0
+Czech Republic,CZE,2017,99.67721262
+Germany,DEU,2017,89.17435643
+Djibouti,DJI,2017,100.0
+Dominica,DMA,2017,100.0
+Denmark,DNK,2017,56.91445611
+Dominican Republic,DOM,2017,99.91344262
+Algeria,DZA,2017,100.0
+East Asia & Pacific (excluding high income),EAP,2017,99.09715236
+Early-demographic dividend,EAR,2017,99.35308882
+East Asia & Pacific,EAS,2017,96.88993816
+Europe & Central Asia (excluding high income),ECA,2017,96.37884382
+Europe & Central Asia,ECS,2017,85.05510594
+Ecuador,ECU,2017,98.31562394
+"Egypt, Arab Rep.",EGY,2017,100.0
+Euro area,EMU,2017,77.36945454
+Eritrea,ERI,2017,100.0
+Spain,ESP,2017,41.11554943
+Estonia,EST,2017,0.0
+Ethiopia,ETH,2017,100.0
+European Union,EUU,2017,79.86332174
+Fragile and conflict affected situations,FCS,2017,99.99764319
+Finland,FIN,2017,0.0
+Fiji,FJI,2017,82.80318235
+France,FRA,2017,78.21356392
+"Micronesia, Fed. Sts.",FSM,2017,99.99999998
+Gabon,GAB,2017,100.0
+United Kingdom,GBR,2017,66.53324903
+Georgia,GEO,2017,100.0
+Ghana,GHA,2017,100.0
+Guinea,GIN,2017,100.0
+"Gambia, The",GMB,2017,100.0
+Guinea-Bissau,GNB,2017,100.0
+Equatorial Guinea,GNQ,2017,100.0
+Greece,GRC,2017,100.0
+Grenada,GRD,2017,100.0
+Greenland,GRL,2017,80.01601067
+Guatemala,GTM,2017,100.0
+Guam,GUM,2017,83.33333333
+Guyana,GUY,2017,99.98817732
+High income,HIC,2017,55.33712663
+Honduras,HND,2017,99.98352171
+Heavily indebted poor countries (HIPC),HPC,2017,99.99895202
+Croatia,HRV,2017,99.77960527
+Haiti,HTI,2017,100.0
+Hungary,HUN,2017,100.0
+IBRD only,IBD,2017,97.40832993
+IDA & IBRD total,IBT,2017,98.04752447
+IDA total,IDA,2017,99.94889222
+IDA blend,IDB,2017,99.97181765
+Indonesia,IDN,2017,95.56714726
+IDA only,IDX,2017,99.93726552
+India,IND,2017,100.0
+Ireland,IRL,2017,0.274091679
+"Iran, Islamic Rep.",IRN,2017,100.0
+Iraq,IRQ,2017,100.0
+Iceland,ISL,2017,10.28521579
+Israel,ISR,2017,100.0
+Italy,ITA,2017,94.777214
+Jamaica,JAM,2017,100.0
+Jordan,JOR,2017,100.0
+Japan,JPN,2017,76.76150823
+Kazakhstan,KAZ,2017,87.41423053
+Kenya,KEN,2017,100.0
+Kyrgyz Republic,KGZ,2017,97.43255692
+Cambodia,KHM,2017,100.0
+Kiribati,KIR,2017,99.9999995
+"Korea, Rep.",KOR,2017,100.0
+Kuwait,KWT,2017,100.0
+Latin America & Caribbean (excluding high income),LAC,2017,87.04314413
+Lao PDR,LAO,2017,100.0
+Lebanon,LBN,2017,100.0
+Liberia,LBR,2017,100.0
+Libya,LBY,2017,100.0
+St. Lucia,LCA,2017,100.0
+Latin America & Caribbean,LCN,2017,87.1984959
+Least developed countries: UN classification,LDC,2017,99.99994684
+Low income,LIC,2017,100.0
+Sri Lanka,LKA,2017,45.53841726
+Lower middle income,LMC,2017,99.13951566
+Low & middle income,LMY,2017,98.08079364
+Lesotho,LSO,2017,100.0
+Late-demographic dividend,LTE,2017,95.03656923
+Lithuania,LTU,2017,95.99985931
+Luxembourg,LUX,2017,68.77562274
+Latvia,LVA,2017,89.0140462
+Morocco,MAR,2017,100.0
+Moldova,MDA,2017,100.0
+Madagascar,MDG,2017,100.0
+Maldives,MDV,2017,0.0
+Middle East & North Africa,MEA,2017,100.0
+Mexico,MEX,2017,99.65612655
+Marshall Islands,MHL,2017,99.99999626
+Middle income,MIC,2017,97.8727381
+North Macedonia,MKD,2017,100.0
+Mali,MLI,2017,100.0
+Malta,MLT,2017,100.0
+Myanmar,MMR,2017,100.0
+Middle East & North Africa (excluding high income),MNA,2017,100.0
+Montenegro,MNE,2017,100.0
+Mongolia,MNG,2017,97.01398059
+Northern Mariana Islands,MNP,2017,26.92307692
+Mozambique,MOZ,2017,100.0
+Mauritania,MRT,2017,100.0
+Mauritius,MUS,2017,100.0
+Malawi,MWI,2017,100.0
+Malaysia,MYS,2017,90.53734381
+North America,NAC,2017,3.022480988
+Namibia,NAM,2017,100.0
+Niger,NER,2017,100.0
+Nigeria,NGA,2017,100.0
+Nicaragua,NIC,2017,99.90269513
+Netherlands,NLD,2017,99.59814148
+Norway,NOR,2017,2.0438378
+Nepal,NPL,2017,100.0
+New Zealand,NZL,2017,0.0
+OECD members,OED,2017,60.77160766
+Oman,OMN,2017,100.0
+Other small states,OSS,2017,91.54467993
+Pakistan,PAK,2017,100.0
+Panama,PAN,2017,71.63674766
+Peru,PER,2017,99.96292629
+Philippines,PHL,2017,96.37065877
+Papua New Guinea,PNG,2017,99.99516574
+Poland,POL,2017,99.96611573
+Pre-demographic dividend,PRE,2017,100.0
+Puerto Rico,PRI,2017,3.669724771
+"Korea, Dem. People's Rep.",PRK,2017,100.0
+Portugal,PRT,2017,16.00835663
+Paraguay,PRY,2017,99.05830825
+West Bank and Gaza,PSE,2017,100.0
+Pacific island small states,PSS,2017,93.62984611
+Post-demographic dividend,PST,2017,52.79815676
+Qatar,QAT,2017,100.0
+Romania,ROU,2017,98.01746488
+Russian Federation,RUS,2017,91.609329
+Rwanda,RWA,2017,100.0
+South Asia,SAS,2017,99.32091839
+Saudi Arabia,SAU,2017,100.0
+Sudan,SDN,2017,100.0
+Senegal,SEN,2017,100.0
+Singapore,SGP,2017,100.0
+Solomon Islands,SLB,2017,99.91756319
+Sierra Leone,SLE,2017,100.0
+El Salvador,SLV,2017,100.0
+Somalia,SOM,2017,100.0
+Serbia,SRB,2017,100.0
+Sub-Saharan Africa (excluding high income),SSA,2017,100.0
+South Sudan,SSD,2017,100.0
+Sub-Saharan Africa,SSF,2017,100.0
+Small states,SST,2017,93.21386629
+Sao Tome and Principe,STP,2017,100.0
+Suriname,SUR,2017,100.0
+Slovak Republic,SVK,2017,100.0
+Slovenia,SVN,2017,99.49102528
+Sweden,SWE,2017,3.636487382
+Eswatini,SWZ,2017,100.0
+Seychelles,SYC,2017,100.0
+Syrian Arab Republic,SYR,2017,100.0
+Chad,TCD,2017,100.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2017,99.08594176
+Europe & Central Asia (IDA & IBRD countries),TEC,2017,96.70895712
+Togo,TGO,2017,100.0
+Thailand,THA,2017,100.0
+Tajikistan,TJK,2017,100.0
+Turkmenistan,TKM,2017,100.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,87.40720848
+Timor-Leste,TLS,2017,100.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2017,100.0
+Tonga,TON,2017,99.81259193
+South Asia (IDA & IBRD),TSA,2017,99.32091839
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,100.0
+Trinidad and Tobago,TTO,2017,100.0
+Tunisia,TUN,2017,100.0
+Turkey,TUR,2017,100.0
+Tanzania,TZA,2017,100.0
+Uganda,UGA,2017,100.0
+Ukraine,UKR,2017,100.0
+Upper middle income,UMC,2017,96.23981633
+Uruguay,URY,2017,22.38574466
+United States,USA,2017,3.34317037
+Uzbekistan,UZB,2017,100.0
+St. Vincent and the Grenadines,VCT,2017,100.0
+"Venezuela, RB",VEN,2017,99.93366243
+Virgin Islands (U.S.),VIR,2017,40.0
+Vietnam,VNM,2017,100.0
+Vanuatu,VUT,2017,99.99999999
+World,WLD,2017,91.30904604
+Samoa,WSM,2017,100.0
+"Yemen, Rep.",YEM,2017,100.0
+South Africa,ZAF,2017,100.0
+Zambia,ZMB,2017,100.0
+Zimbabwe,ZWE,2017,100.0
