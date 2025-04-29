@@ -16,7 +16,7 @@ The main objectives of this project are:
 
 ---
 
-## 🗃️ Project Structure
+## Project Structure
 
 ```
 life-expectancy-prediction/
