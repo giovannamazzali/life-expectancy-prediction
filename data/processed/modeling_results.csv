@@ -1,791 +1,913 @@
-YEAR,LIFE_EXPECTANCY,CO2_EMISSIONS,GDP_PER_CAPITA,BMI_MALE,BMI_FEMALE,TOTAL_POPULATION,RURAL_POPULATION,DRUG_USE_DISORDERS_y,ALCOHOL_USE_DISORDERS_y,TOBACCO,U5_DEATHS,URBAN_POPULATION,OBESITY_PERCENTAGE,PREDICT,valor,MSE,R2,valor_type,Method,Location
-2012,74.209,451760.0,12370.2232548476,25.94513057,26.51745477,199287292.0,15.077,827.2779811280819,9125.60470525811,186344.38187543268,51455.0,169240747.0,20.1,74.19858548427464,,,,,,Brazil
-2012,74.209,451760.0,12370.2232548476,25.94513057,26.51745477,199287292.0,15.077,827.2779811280819,9125.60470525811,186344.38187543268,51455.0,169240747.0,20.1,74.19858548427464,,,,,,Brazil
-2012,74.209,451760.0,12370.2232548476,25.94513057,26.51745477,199287292.0,15.077,827.2779811280819,9125.60470525811,186344.38187543268,51455.0,169240747.0,20.1,74.19858548427464,,,,,,Brazil
-2013,74.483,482860.0,12300.3867121004,26.075243,26.64692278,201035904.0,14.791,920.2528115336472,9102.272149053975,186514.49149461527,49634.0,171300683.0,20.6,74.48073193746677,,,,,,Brazil
-2013,74.483,482860.0,12300.3867121004,26.075243,26.64692278,201035904.0,14.791,920.2528115336472,9102.272149053975,186514.49149461527,49634.0,171300683.0,20.6,74.48073193746677,,,,,,Brazil
-2013,74.483,482860.0,12300.3867121004,26.075243,26.64692278,201035904.0,14.791,920.2528115336472,9102.272149053975,186514.49149461527,49634.0,171300683.0,20.6,74.48073193746677,,,,,,Brazil
-2014,74.745,506780.0,12112.8349554875,26.20689236,26.77741486,202763744.0,14.508,998.3139927985,9010.040964138834,185706.92664564445,48020.0,173346780.0,21.1,74.75824121953565,,,,,,Brazil
-2014,74.745,506780.0,12112.8349554875,26.20689236,26.77741486,202763744.0,14.508,998.3139927985,9010.040964138834,185706.92664564445,48020.0,173346780.0,21.1,74.75824121953565,,,,,,Brazil
-2014,74.745,506780.0,12112.8349554875,26.20689236,26.77741486,202763744.0,14.508,998.3139927985,9010.040964138834,185706.92664564445,48020.0,173346780.0,21.1,74.75824121953565,,,,,,Brazil
-2015,74.994,479970.0,8813.98980647828,26.33917967,26.90829736,204471759.0,14.23,1042.3624534782157,8958.203569023983,187030.36537381497,46500.0,175375428.0,21.6,75.04599870347056,,,,,,Brazil
-2015,74.994,479970.0,8813.98980647828,26.33917967,26.90829736,204471759.0,14.23,1042.3624534782157,8958.203569023983,187030.36537381497,46500.0,175375428.0,21.6,75.04599870347056,,,,,,Brazil
-2015,74.994,479970.0,8813.98980647828,26.33917967,26.90829736,204471759.0,14.23,1042.3624534782157,8958.203569023983,187030.36537381497,46500.0,175375428.0,21.6,75.04599870347056,,,,,,Brazil
-2016,75.23,441910.0,8710.06328995352,26.47157714,27.03856248,206163056.0,13.958,1097.2523810198163,9002.445269592468,190986.89572824497,48286.0,177386817.0,22.1,75.40413359874856,,,,,,Brazil
-2016,75.23,441910.0,8710.06328995352,26.47157714,27.03856248,206163056.0,13.958,1097.2523810198163,9002.445269592468,190986.89572824497,48286.0,177386817.0,22.1,75.40413359874856,,,,,,Brazil
-2016,75.23,441910.0,8710.06328995352,26.47157714,27.03856248,206163056.0,13.958,1097.2523810198163,9002.445269592468,190986.89572824497,48286.0,177386817.0,22.1,75.40413359874856,,,,,,Brazil
-2012,,,,,,,,,,,,,,,74.19125868514013,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2012,,,,,,,,,,,,,,,74.19125868514013,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2012,,,,,,,,,,,,,,,74.19125868514013,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2013,,,,,,,,,,,,,,,74.49743563289911,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2013,,,,,,,,,,,,,,,74.49743563289911,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2013,,,,,,,,,,,,,,,74.49743563289911,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2014,,,,,,,,,,,,,,,74.78790643422347,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2014,,,,,,,,,,,,,,,74.78790643422347,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2014,,,,,,,,,,,,,,,74.78790643422347,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2015,,,,,,,,,,,,,,,74.99964603046664,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2015,,,,,,,,,,,,,,,74.99964603046664,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2015,,,,,,,,,,,,,,,74.99964603046664,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2016,,,,,,,,,,,,,,,75.19500048586852,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2016,,,,,,,,,,,,,,,75.19500048586852,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-2016,,,,,,,,,,,,,,,75.19500048586852,0.0007241894994796123,0.994449351943785,predicted,Ridge Regression,Brazil
-1990,,,,,,,,,,,,,,,66.343,,,real,Ridge Regression,Brazil
-1991,,,,,,,,,,,,,,,66.742,,,real,Ridge Regression,Brazil
-1992,,,,,,,,,,,,,,,67.141,,,real,Ridge Regression,Brazil
-1993,,,,,,,,,,,,,,,67.539,,,real,Ridge Regression,Brazil
-1994,,,,,,,,,,,,,,,67.932,,,real,Ridge Regression,Brazil
-1995,,,,,,,,,,,,,,,68.318,,,real,Ridge Regression,Brazil
-1996,,,,,,,,,,,,,,,68.695,,,real,Ridge Regression,Brazil
-1997,,,,,,,,,,,,,,,69.061,,,real,Ridge Regression,Brazil
-1998,,,,,,,,,,,,,,,69.419,,,real,Ridge Regression,Brazil
-1999,,,,,,,,,,,,,,,69.769,,,real,Ridge Regression,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Ridge Regression,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Ridge Regression,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Ridge Regression,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Ridge Regression,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Ridge Regression,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Ridge Regression,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Ridge Regression,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Ridge Regression,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Ridge Regression,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Ridge Regression,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Ridge Regression,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Ridge Regression,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Ridge Regression,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Ridge Regression,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Ridge Regression,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Ridge Regression,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Ridge Regression,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Ridge Regression,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Ridge Regression,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Ridge Regression,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Ridge Regression,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Ridge Regression,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Ridge Regression,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Ridge Regression,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Ridge Regression,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Ridge Regression,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Ridge Regression,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Ridge Regression,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Ridge Regression,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Ridge Regression,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Ridge Regression,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Ridge Regression,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Ridge Regression,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Ridge Regression,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Ridge Regression,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Ridge Regression,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Ridge Regression,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Ridge Regression,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Ridge Regression,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Ridge Regression,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Ridge Regression,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Ridge Regression,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Ridge Regression,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Ridge Regression,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Ridge Regression,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Ridge Regression,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Ridge Regression,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Ridge Regression,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Ridge Regression,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Ridge Regression,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Ridge Regression,Brazil
-2012,,,,,,,,,,,,,,,74.1925828822725,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2012,,,,,,,,,,,,,,,74.1925828822725,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2012,,,,,,,,,,,,,,,74.1925828822725,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2013,,,,,,,,,,,,,,,74.50051235060025,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2013,,,,,,,,,,,,,,,74.50051235060025,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2013,,,,,,,,,,,,,,,74.50051235060025,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2014,,,,,,,,,,,,,,,74.79144096731181,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2014,,,,,,,,,,,,,,,74.79144096731181,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2014,,,,,,,,,,,,,,,74.79144096731181,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2015,,,,,,,,,,,,,,,74.9953680905152,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2015,,,,,,,,,,,,,,,74.9953680905152,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2015,,,,,,,,,,,,,,,74.9953680905152,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2016,,,,,,,,,,,,,,,75.17795458540719,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2016,,,,,,,,,,,,,,,75.17795458540719,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-2016,,,,,,,,,,,,,,,75.17795458540719,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
-1990,,,,,,,,,,,,,,,66.343,,,real,Lasso Regression,Brazil
-1991,,,,,,,,,,,,,,,66.742,,,real,Lasso Regression,Brazil
-1992,,,,,,,,,,,,,,,67.141,,,real,Lasso Regression,Brazil
-1993,,,,,,,,,,,,,,,67.539,,,real,Lasso Regression,Brazil
-1994,,,,,,,,,,,,,,,67.932,,,real,Lasso Regression,Brazil
-1995,,,,,,,,,,,,,,,68.318,,,real,Lasso Regression,Brazil
-1996,,,,,,,,,,,,,,,68.695,,,real,Lasso Regression,Brazil
-1997,,,,,,,,,,,,,,,69.061,,,real,Lasso Regression,Brazil
-1998,,,,,,,,,,,,,,,69.419,,,real,Lasso Regression,Brazil
-1999,,,,,,,,,,,,,,,69.769,,,real,Lasso Regression,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Lasso Regression,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Lasso Regression,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Lasso Regression,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Lasso Regression,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Lasso Regression,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Lasso Regression,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Lasso Regression,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Lasso Regression,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Lasso Regression,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Lasso Regression,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Lasso Regression,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Lasso Regression,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Lasso Regression,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Lasso Regression,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Lasso Regression,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Lasso Regression,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Lasso Regression,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Lasso Regression,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Lasso Regression,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Lasso Regression,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Lasso Regression,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Lasso Regression,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Lasso Regression,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Lasso Regression,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Lasso Regression,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Lasso Regression,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Lasso Regression,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Lasso Regression,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Lasso Regression,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Lasso Regression,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Lasso Regression,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Lasso Regression,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Lasso Regression,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Lasso Regression,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Lasso Regression,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Lasso Regression,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Lasso Regression,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Lasso Regression,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Lasso Regression,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Lasso Regression,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Lasso Regression,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Lasso Regression,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Lasso Regression,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Lasso Regression,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Lasso Regression,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Lasso Regression,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Lasso Regression,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Lasso Regression,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Lasso Regression,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Lasso Regression,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Lasso Regression,Brazil
-2012,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2012,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2012,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2013,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2013,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2013,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2014,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2014,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2014,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2015,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2015,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2015,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2016,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2016,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-2016,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
-1990,,,,,,,,,,,,,,,66.343,,,real,Decision Tree,Brazil
-1991,,,,,,,,,,,,,,,66.742,,,real,Decision Tree,Brazil
-1992,,,,,,,,,,,,,,,67.141,,,real,Decision Tree,Brazil
-1993,,,,,,,,,,,,,,,67.539,,,real,Decision Tree,Brazil
-1994,,,,,,,,,,,,,,,67.932,,,real,Decision Tree,Brazil
-1995,,,,,,,,,,,,,,,68.318,,,real,Decision Tree,Brazil
-1996,,,,,,,,,,,,,,,68.695,,,real,Decision Tree,Brazil
-1997,,,,,,,,,,,,,,,69.061,,,real,Decision Tree,Brazil
-1998,,,,,,,,,,,,,,,69.419,,,real,Decision Tree,Brazil
-1999,,,,,,,,,,,,,,,69.769,,,real,Decision Tree,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Decision Tree,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Decision Tree,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Decision Tree,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Decision Tree,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Decision Tree,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Decision Tree,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Decision Tree,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Decision Tree,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Decision Tree,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Decision Tree,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Decision Tree,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Decision Tree,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Decision Tree,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Decision Tree,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Decision Tree,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Decision Tree,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Decision Tree,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Decision Tree,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Decision Tree,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Decision Tree,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Decision Tree,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Decision Tree,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Decision Tree,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Decision Tree,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Decision Tree,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Decision Tree,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Decision Tree,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Decision Tree,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Decision Tree,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Decision Tree,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Decision Tree,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Decision Tree,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Decision Tree,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Decision Tree,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Decision Tree,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Decision Tree,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Decision Tree,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Decision Tree,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Decision Tree,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Decision Tree,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Decision Tree,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Decision Tree,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Decision Tree,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Decision Tree,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Decision Tree,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Decision Tree,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Decision Tree,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Decision Tree,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Decision Tree,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Decision Tree,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Decision Tree,Brazil
-2012,,,,,,,,,,,,,,,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2012,,,,,,,,,,,,,,,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2012,,,,,,,,,,,,,,,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2013,,,,,,,,,,,,,,,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2013,,,,,,,,,,,,,,,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2013,,,,,,,,,,,,,,,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2014,,,,,,,,,,,,,,,73.82251000000007,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2014,,,,,,,,,,,,,,,73.82251000000007,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2014,,,,,,,,,,,,,,,73.82251000000007,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2015,,,,,,,,,,,,,,,73.80373000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2015,,,,,,,,,,,,,,,73.80373000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2015,,,,,,,,,,,,,,,73.80373000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2016,,,,,,,,,,,,,,,73.83172000000008,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2016,,,,,,,,,,,,,,,73.83172000000008,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-2016,,,,,,,,,,,,,,,73.83172000000008,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
-1990,,,,,,,,,,,,,,,66.343,,,real,Random Forest,Brazil
-1991,,,,,,,,,,,,,,,66.742,,,real,Random Forest,Brazil
-1992,,,,,,,,,,,,,,,67.141,,,real,Random Forest,Brazil
-1993,,,,,,,,,,,,,,,67.539,,,real,Random Forest,Brazil
-1994,,,,,,,,,,,,,,,67.932,,,real,Random Forest,Brazil
-1995,,,,,,,,,,,,,,,68.318,,,real,Random Forest,Brazil
-1996,,,,,,,,,,,,,,,68.695,,,real,Random Forest,Brazil
-1997,,,,,,,,,,,,,,,69.061,,,real,Random Forest,Brazil
-1998,,,,,,,,,,,,,,,69.419,,,real,Random Forest,Brazil
-1999,,,,,,,,,,,,,,,69.769,,,real,Random Forest,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Random Forest,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Random Forest,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Random Forest,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Random Forest,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Random Forest,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Random Forest,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Random Forest,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Random Forest,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Random Forest,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Random Forest,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Random Forest,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Random Forest,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Random Forest,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Random Forest,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Random Forest,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Random Forest,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Random Forest,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Random Forest,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Random Forest,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Random Forest,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Random Forest,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Random Forest,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Random Forest,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Random Forest,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Random Forest,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Random Forest,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Random Forest,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Random Forest,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Random Forest,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Random Forest,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Random Forest,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Random Forest,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Random Forest,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Random Forest,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Random Forest,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Random Forest,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Random Forest,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Random Forest,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Random Forest,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Random Forest,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Random Forest,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Random Forest,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Random Forest,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Random Forest,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Random Forest,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Random Forest,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Random Forest,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Random Forest,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Random Forest,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Random Forest,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Random Forest,Brazil
-2012,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2012,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2012,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2013,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2013,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2013,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2014,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2014,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2014,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2015,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2015,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2015,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2016,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2016,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-2016,,,,,,,,,,,,,,,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
-1990,,,,,,,,,,,,,,,66.343,,,real,Gradient Boosting,Brazil
-1991,,,,,,,,,,,,,,,66.742,,,real,Gradient Boosting,Brazil
-1992,,,,,,,,,,,,,,,67.141,,,real,Gradient Boosting,Brazil
-1993,,,,,,,,,,,,,,,67.539,,,real,Gradient Boosting,Brazil
-1994,,,,,,,,,,,,,,,67.932,,,real,Gradient Boosting,Brazil
-1995,,,,,,,,,,,,,,,68.318,,,real,Gradient Boosting,Brazil
-1996,,,,,,,,,,,,,,,68.695,,,real,Gradient Boosting,Brazil
-1997,,,,,,,,,,,,,,,69.061,,,real,Gradient Boosting,Brazil
-1998,,,,,,,,,,,,,,,69.419,,,real,Gradient Boosting,Brazil
-1999,,,,,,,,,,,,,,,69.769,,,real,Gradient Boosting,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Gradient Boosting,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Gradient Boosting,Brazil
-2000,,,,,,,,,,,,,,,70.116,,,real,Gradient Boosting,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Gradient Boosting,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Gradient Boosting,Brazil
-2001,,,,,,,,,,,,,,,70.462,,,real,Gradient Boosting,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Gradient Boosting,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Gradient Boosting,Brazil
-2002,,,,,,,,,,,,,,,70.813,,,real,Gradient Boosting,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Gradient Boosting,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Gradient Boosting,Brazil
-2003,,,,,,,,,,,,,,,71.17,,,real,Gradient Boosting,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Gradient Boosting,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Gradient Boosting,Brazil
-2004,,,,,,,,,,,,,,,71.531,,,real,Gradient Boosting,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Gradient Boosting,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Gradient Boosting,Brazil
-2005,,,,,,,,,,,,,,,71.896,,,real,Gradient Boosting,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Gradient Boosting,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Gradient Boosting,Brazil
-2006,,,,,,,,,,,,,,,72.26,,,real,Gradient Boosting,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Gradient Boosting,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Gradient Boosting,Brazil
-2007,,,,,,,,,,,,,,,72.618,,,real,Gradient Boosting,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Gradient Boosting,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Gradient Boosting,Brazil
-2008,,,,,,,,,,,,,,,72.966,,,real,Gradient Boosting,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Gradient Boosting,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Gradient Boosting,Brazil
-2009,,,,,,,,,,,,,,,73.3,,,real,Gradient Boosting,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Gradient Boosting,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Gradient Boosting,Brazil
-2010,,,,,,,,,,,,,,,73.619,,,real,Gradient Boosting,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Gradient Boosting,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Gradient Boosting,Brazil
-2011,,,,,,,,,,,,,,,73.921,,,real,Gradient Boosting,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Gradient Boosting,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Gradient Boosting,Brazil
-2012,,,,,,,,,,,,,,,74.209,,,real,Gradient Boosting,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Gradient Boosting,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Gradient Boosting,Brazil
-2013,,,,,,,,,,,,,,,74.483,,,real,Gradient Boosting,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Gradient Boosting,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Gradient Boosting,Brazil
-2014,,,,,,,,,,,,,,,74.745,,,real,Gradient Boosting,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Gradient Boosting,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Gradient Boosting,Brazil
-2015,,,,,,,,,,,,,,,74.994,,,real,Gradient Boosting,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Gradient Boosting,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Gradient Boosting,Brazil
-2016,,,,,,,,,,,,,,,75.23,,,real,Gradient Boosting,Brazil
-2012,60.06,426710.0,8222.19727925886,24.96003966,29.26831291,52832659.0,36.728,161.6312452146939,548.8966740788206,43757.95192687177,48720.0,33428280.0,26.1,60.00194708852541,,,,,,South Africa
-2012,60.06,426710.0,8222.19727925886,24.96003966,29.26831291,52832659.0,36.728,161.6312452146939,548.8966740788206,43757.95192687177,48720.0,33428280.0,26.1,60.00194708852541,,,,,,South Africa
-2012,60.06,426710.0,8222.19727925886,24.96003966,29.26831291,52832659.0,36.728,161.6312452146939,548.8966740788206,43757.95192687177,48720.0,33428280.0,26.1,60.00194708852541,,,,,,South Africa
-2013,61.099,436870.0,7467.07918510394,24.99641402,29.35058229,53687125.0,36.207,151.47349857409665,564.9070278267468,42856.085260056905,46914.0,34248628.0,26.7,61.431460048188455,,,,,,South Africa
-2013,61.099,436870.0,7467.07918510394,24.99641402,29.35058229,53687125.0,36.207,151.47349857409665,564.9070278267468,42856.085260056905,46914.0,34248628.0,26.7,61.431460048188455,,,,,,South Africa
-2013,61.099,436870.0,7467.07918510394,24.99641402,29.35058229,53687125.0,36.207,151.47349857409665,564.9070278267468,42856.085260056905,46914.0,34248628.0,26.7,61.431460048188455,,,,,,South Africa
-2014,61.968,447980.0,6988.80873854682,25.0327793,29.43208803,54544184.0,35.688,145.06379966368948,591.8910822516393,43172.61791021072,45686.0,35078456.0,27.2,63.24214111690526,,,,,,South Africa
-2014,61.968,447980.0,6988.80873854682,25.0327793,29.43208803,54544184.0,35.688,145.06379966368948,591.8910822516393,43172.61791021072,45686.0,35078456.0,27.2,63.24214111690526,,,,,,South Africa
-2014,61.968,447980.0,6988.80873854682,25.0327793,29.43208803,54544184.0,35.688,145.06379966368948,591.8910822516393,43172.61791021072,45686.0,35078456.0,27.2,63.24214111690526,,,,,,South Africa
-2015,62.649,424880.0,6259.83968110571,25.06915981,29.51261355,55386369.0,35.172,137.0591132702721,605.1488980771658,43440.88385029448,44427.0,35905875.0,27.8,65.58953070584175,,,,,,South Africa
-2015,62.649,424880.0,6259.83968110571,25.06915981,29.51261355,55386369.0,35.172,137.0591132702721,605.1488980771658,43440.88385029448,44427.0,35905875.0,27.8,65.58953070584175,,,,,,South Africa
-2015,62.649,424880.0,6259.83968110571,25.06915981,29.51261355,55386369.0,35.172,137.0591132702721,605.1488980771658,43440.88385029448,44427.0,35905875.0,27.8,65.58953070584175,,,,,,South Africa
-2016,63.153,425180.0,5756.96574098804,25.10522536,29.59192125,56207649.0,34.659,126.07862779907762,588.2672181777016,42670.32263814907,43238.0,36726640.0,28.3,68.18284325555396,,,,,,South Africa
-2016,63.153,425180.0,5756.96574098804,25.10522536,29.59192125,56207649.0,34.659,126.07862779907762,588.2672181777016,42670.32263814907,43238.0,36726640.0,28.3,68.18284325555396,,,,,,South Africa
-2016,63.153,425180.0,5756.96574098804,25.10522536,29.59192125,56207649.0,34.659,126.07862779907762,588.2672181777016,42670.32263814907,43238.0,36726640.0,28.3,68.18284325555396,,,,,,South Africa
-2012,,,,,,,,,,,,,,,60.654498616286084,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2012,,,,,,,,,,,,,,,60.654498616286084,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2012,,,,,,,,,,,,,,,60.654498616286084,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2013,,,,,,,,,,,,,,,61.82832845965548,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2013,,,,,,,,,,,,,,,61.82832845965548,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2013,,,,,,,,,,,,,,,61.82832845965548,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2014,,,,,,,,,,,,,,,62.55326689238146,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2014,,,,,,,,,,,,,,,62.55326689238146,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2014,,,,,,,,,,,,,,,62.55326689238146,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2015,,,,,,,,,,,,,,,62.41799147774287,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2015,,,,,,,,,,,,,,,62.41799147774287,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2015,,,,,,,,,,,,,,,62.41799147774287,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2016,,,,,,,,,,,,,,,62.16634797953854,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2016,,,,,,,,,,,,,,,62.16634797953854,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-2016,,,,,,,,,,,,,,,62.16634797953854,0.4509466177966895,0.6302277651719437,predicted,Ridge Regression,South Africa
-1990,,,,,,,,,,,,,,,63.307,,,real,Ridge Regression,South Africa
-1991,,,,,,,,,,,,,,,63.384,,,real,Ridge Regression,South Africa
-1992,,,,,,,,,,,,,,,63.247,,,real,Ridge Regression,South Africa
-1993,,,,,,,,,,,,,,,62.894,,,real,Ridge Regression,South Africa
-1994,,,,,,,,,,,,,,,62.331,,,real,Ridge Regression,South Africa
-1995,,,,,,,,,,,,,,,61.561,,,real,Ridge Regression,South Africa
-1996,,,,,,,,,,,,,,,60.595,,,real,Ridge Regression,South Africa
-1997,,,,,,,,,,,,,,,59.489,,,real,Ridge Regression,South Africa
-1998,,,,,,,,,,,,,,,58.315,,,real,Ridge Regression,South Africa
-1999,,,,,,,,,,,,,,,57.144,,,real,Ridge Regression,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Ridge Regression,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Ridge Regression,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Ridge Regression,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Ridge Regression,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Ridge Regression,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Ridge Regression,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Ridge Regression,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Ridge Regression,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Ridge Regression,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Ridge Regression,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Ridge Regression,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Ridge Regression,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Ridge Regression,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Ridge Regression,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Ridge Regression,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Ridge Regression,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Ridge Regression,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Ridge Regression,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Ridge Regression,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Ridge Regression,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Ridge Regression,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Ridge Regression,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Ridge Regression,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Ridge Regression,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Ridge Regression,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Ridge Regression,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Ridge Regression,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Ridge Regression,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Ridge Regression,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Ridge Regression,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Ridge Regression,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Ridge Regression,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Ridge Regression,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Ridge Regression,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Ridge Regression,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Ridge Regression,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Ridge Regression,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Ridge Regression,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Ridge Regression,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Ridge Regression,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Ridge Regression,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Ridge Regression,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Ridge Regression,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Ridge Regression,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Ridge Regression,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Ridge Regression,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Ridge Regression,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Ridge Regression,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Ridge Regression,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Ridge Regression,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Ridge Regression,South Africa
-2012,,,,,,,,,,,,,,,60.64410967566308,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2012,,,,,,,,,,,,,,,60.64410967566308,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2012,,,,,,,,,,,,,,,60.64410967566308,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2013,,,,,,,,,,,,,,,61.786887810493035,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2013,,,,,,,,,,,,,,,61.786887810493035,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2013,,,,,,,,,,,,,,,61.786887810493035,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2014,,,,,,,,,,,,,,,62.49228526046079,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2014,,,,,,,,,,,,,,,62.49228526046079,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2014,,,,,,,,,,,,,,,62.49228526046079,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2015,,,,,,,,,,,,,,,62.38565205392384,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2015,,,,,,,,,,,,,,,62.38565205392384,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2015,,,,,,,,,,,,,,,62.38565205392384,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2016,,,,,,,,,,,,,,,62.18655354466798,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2016,,,,,,,,,,,,,,,62.18655354466798,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-2016,,,,,,,,,,,,,,,62.18655354466798,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
-1990,,,,,,,,,,,,,,,63.307,,,real,Lasso Regression,South Africa
-1991,,,,,,,,,,,,,,,63.384,,,real,Lasso Regression,South Africa
-1992,,,,,,,,,,,,,,,63.247,,,real,Lasso Regression,South Africa
-1993,,,,,,,,,,,,,,,62.894,,,real,Lasso Regression,South Africa
-1994,,,,,,,,,,,,,,,62.331,,,real,Lasso Regression,South Africa
-1995,,,,,,,,,,,,,,,61.561,,,real,Lasso Regression,South Africa
-1996,,,,,,,,,,,,,,,60.595,,,real,Lasso Regression,South Africa
-1997,,,,,,,,,,,,,,,59.489,,,real,Lasso Regression,South Africa
-1998,,,,,,,,,,,,,,,58.315,,,real,Lasso Regression,South Africa
-1999,,,,,,,,,,,,,,,57.144,,,real,Lasso Regression,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Lasso Regression,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Lasso Regression,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Lasso Regression,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Lasso Regression,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Lasso Regression,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Lasso Regression,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Lasso Regression,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Lasso Regression,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Lasso Regression,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Lasso Regression,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Lasso Regression,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Lasso Regression,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Lasso Regression,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Lasso Regression,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Lasso Regression,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Lasso Regression,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Lasso Regression,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Lasso Regression,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Lasso Regression,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Lasso Regression,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Lasso Regression,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Lasso Regression,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Lasso Regression,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Lasso Regression,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Lasso Regression,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Lasso Regression,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Lasso Regression,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Lasso Regression,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Lasso Regression,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Lasso Regression,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Lasso Regression,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Lasso Regression,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Lasso Regression,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Lasso Regression,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Lasso Regression,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Lasso Regression,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Lasso Regression,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Lasso Regression,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Lasso Regression,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Lasso Regression,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Lasso Regression,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Lasso Regression,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Lasso Regression,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Lasso Regression,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Lasso Regression,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Lasso Regression,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Lasso Regression,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Lasso Regression,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Lasso Regression,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Lasso Regression,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Lasso Regression,South Africa
-2012,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2012,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2012,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2013,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2013,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2013,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2014,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2014,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2014,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2015,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2015,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2015,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2016,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2016,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-2016,,,,,,,,,,,,,,,60.32099999999999,3.365164400000027,-1.759405019670956,predicted,Decision Tree,South Africa
-1990,,,,,,,,,,,,,,,63.307,,,real,Decision Tree,South Africa
-1991,,,,,,,,,,,,,,,63.384,,,real,Decision Tree,South Africa
-1992,,,,,,,,,,,,,,,63.247,,,real,Decision Tree,South Africa
-1993,,,,,,,,,,,,,,,62.894,,,real,Decision Tree,South Africa
-1994,,,,,,,,,,,,,,,62.331,,,real,Decision Tree,South Africa
-1995,,,,,,,,,,,,,,,61.561,,,real,Decision Tree,South Africa
-1996,,,,,,,,,,,,,,,60.595,,,real,Decision Tree,South Africa
-1997,,,,,,,,,,,,,,,59.489,,,real,Decision Tree,South Africa
-1998,,,,,,,,,,,,,,,58.315,,,real,Decision Tree,South Africa
-1999,,,,,,,,,,,,,,,57.144,,,real,Decision Tree,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Decision Tree,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Decision Tree,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Decision Tree,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Decision Tree,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Decision Tree,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Decision Tree,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Decision Tree,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Decision Tree,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Decision Tree,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Decision Tree,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Decision Tree,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Decision Tree,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Decision Tree,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Decision Tree,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Decision Tree,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Decision Tree,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Decision Tree,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Decision Tree,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Decision Tree,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Decision Tree,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Decision Tree,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Decision Tree,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Decision Tree,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Decision Tree,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Decision Tree,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Decision Tree,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Decision Tree,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Decision Tree,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Decision Tree,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Decision Tree,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Decision Tree,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Decision Tree,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Decision Tree,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Decision Tree,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Decision Tree,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Decision Tree,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Decision Tree,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Decision Tree,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Decision Tree,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Decision Tree,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Decision Tree,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Decision Tree,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Decision Tree,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Decision Tree,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Decision Tree,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Decision Tree,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Decision Tree,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Decision Tree,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Decision Tree,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Decision Tree,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Decision Tree,South Africa
-2012,,,,,,,,,,,,,,,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2012,,,,,,,,,,,,,,,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2012,,,,,,,,,,,,,,,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2013,,,,,,,,,,,,,,,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2013,,,,,,,,,,,,,,,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2013,,,,,,,,,,,,,,,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2014,,,,,,,,,,,,,,,58.66190000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2014,,,,,,,,,,,,,,,58.66190000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2014,,,,,,,,,,,,,,,58.66190000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2015,,,,,,,,,,,,,,,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2015,,,,,,,,,,,,,,,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2015,,,,,,,,,,,,,,,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2016,,,,,,,,,,,,,,,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2016,,,,,,,,,,,,,,,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-2016,,,,,,,,,,,,,,,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
-1990,,,,,,,,,,,,,,,63.307,,,real,Random Forest,South Africa
-1991,,,,,,,,,,,,,,,63.384,,,real,Random Forest,South Africa
-1992,,,,,,,,,,,,,,,63.247,,,real,Random Forest,South Africa
-1993,,,,,,,,,,,,,,,62.894,,,real,Random Forest,South Africa
-1994,,,,,,,,,,,,,,,62.331,,,real,Random Forest,South Africa
-1995,,,,,,,,,,,,,,,61.561,,,real,Random Forest,South Africa
-1996,,,,,,,,,,,,,,,60.595,,,real,Random Forest,South Africa
-1997,,,,,,,,,,,,,,,59.489,,,real,Random Forest,South Africa
-1998,,,,,,,,,,,,,,,58.315,,,real,Random Forest,South Africa
-1999,,,,,,,,,,,,,,,57.144,,,real,Random Forest,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Random Forest,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Random Forest,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Random Forest,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Random Forest,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Random Forest,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Random Forest,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Random Forest,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Random Forest,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Random Forest,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Random Forest,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Random Forest,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Random Forest,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Random Forest,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Random Forest,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Random Forest,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Random Forest,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Random Forest,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Random Forest,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Random Forest,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Random Forest,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Random Forest,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Random Forest,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Random Forest,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Random Forest,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Random Forest,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Random Forest,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Random Forest,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Random Forest,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Random Forest,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Random Forest,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Random Forest,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Random Forest,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Random Forest,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Random Forest,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Random Forest,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Random Forest,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Random Forest,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Random Forest,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Random Forest,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Random Forest,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Random Forest,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Random Forest,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Random Forest,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Random Forest,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Random Forest,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Random Forest,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Random Forest,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Random Forest,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Random Forest,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Random Forest,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Random Forest,South Africa
-2012,,,,,,,,,,,,,,,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2012,,,,,,,,,,,,,,,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2012,,,,,,,,,,,,,,,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2013,,,,,,,,,,,,,,,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2013,,,,,,,,,,,,,,,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2013,,,,,,,,,,,,,,,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2014,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2014,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2014,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2015,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2015,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2015,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2016,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2016,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-2016,,,,,,,,,,,,,,,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
-1990,,,,,,,,,,,,,,,63.307,,,real,Gradient Boosting,South Africa
-1991,,,,,,,,,,,,,,,63.384,,,real,Gradient Boosting,South Africa
-1992,,,,,,,,,,,,,,,63.247,,,real,Gradient Boosting,South Africa
-1993,,,,,,,,,,,,,,,62.894,,,real,Gradient Boosting,South Africa
-1994,,,,,,,,,,,,,,,62.331,,,real,Gradient Boosting,South Africa
-1995,,,,,,,,,,,,,,,61.561,,,real,Gradient Boosting,South Africa
-1996,,,,,,,,,,,,,,,60.595,,,real,Gradient Boosting,South Africa
-1997,,,,,,,,,,,,,,,59.489,,,real,Gradient Boosting,South Africa
-1998,,,,,,,,,,,,,,,58.315,,,real,Gradient Boosting,South Africa
-1999,,,,,,,,,,,,,,,57.144,,,real,Gradient Boosting,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Gradient Boosting,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Gradient Boosting,South Africa
-2000,,,,,,,,,,,,,,,56.048,,,real,Gradient Boosting,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Gradient Boosting,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Gradient Boosting,South Africa
-2001,,,,,,,,,,,,,,,55.089,,,real,Gradient Boosting,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Gradient Boosting,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Gradient Boosting,South Africa
-2002,,,,,,,,,,,,,,,54.31,,,real,Gradient Boosting,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Gradient Boosting,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Gradient Boosting,South Africa
-2003,,,,,,,,,,,,,,,53.749,,,real,Gradient Boosting,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Gradient Boosting,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Gradient Boosting,South Africa
-2004,,,,,,,,,,,,,,,53.444,,,real,Gradient Boosting,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Gradient Boosting,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Gradient Boosting,South Africa
-2005,,,,,,,,,,,,,,,53.447,,,real,Gradient Boosting,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Gradient Boosting,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Gradient Boosting,South Africa
-2006,,,,,,,,,,,,,,,53.795,,,real,Gradient Boosting,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Gradient Boosting,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Gradient Boosting,South Africa
-2007,,,,,,,,,,,,,,,54.452,,,real,Gradient Boosting,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Gradient Boosting,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Gradient Boosting,South Africa
-2008,,,,,,,,,,,,,,,55.36,,,real,Gradient Boosting,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Gradient Boosting,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Gradient Boosting,South Africa
-2009,,,,,,,,,,,,,,,56.46,,,real,Gradient Boosting,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Gradient Boosting,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Gradient Boosting,South Africa
-2010,,,,,,,,,,,,,,,57.669,,,real,Gradient Boosting,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Gradient Boosting,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Gradient Boosting,South Africa
-2011,,,,,,,,,,,,,,,58.895,,,real,Gradient Boosting,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Gradient Boosting,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Gradient Boosting,South Africa
-2012,,,,,,,,,,,,,,,60.06,,,real,Gradient Boosting,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Gradient Boosting,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Gradient Boosting,South Africa
-2013,,,,,,,,,,,,,,,61.099,,,real,Gradient Boosting,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Gradient Boosting,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Gradient Boosting,South Africa
-2014,,,,,,,,,,,,,,,61.968,,,real,Gradient Boosting,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Gradient Boosting,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Gradient Boosting,South Africa
-2015,,,,,,,,,,,,,,,62.649,,,real,Gradient Boosting,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Gradient Boosting,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Gradient Boosting,South Africa
-2016,,,,,,,,,,,,,,,63.153,,,real,Gradient Boosting,South Africa
+year,valor,SE,2,valor_type,ethod,Location
+2012,74.19858548427464,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2012,74.19858548427464,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2012,74.19858548427464,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2013,74.48073193746677,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2013,74.48073193746677,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2013,74.48073193746677,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2014,74.75824121953565,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2014,74.75824121953565,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2014,74.75824121953565,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2015,75.04599870347056,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2015,75.04599870347056,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2015,75.04599870347056,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2016,75.40413359874856,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2016,75.40413359874856,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+2016,75.40413359874856,0.006663062303196226,0.9489300606426195,predicted,Linear Regression,Brazil
+1990,66.343,,,real,Linear Regression,Brazil
+1991,66.742,,,real,Linear Regression,Brazil
+1992,67.141,,,real,Linear Regression,Brazil
+1993,67.539,,,real,Linear Regression,Brazil
+1994,67.932,,,real,Linear Regression,Brazil
+1995,68.318,,,real,Linear Regression,Brazil
+1996,68.695,,,real,Linear Regression,Brazil
+1997,69.061,,,real,Linear Regression,Brazil
+1998,69.419,,,real,Linear Regression,Brazil
+1999,69.769,,,real,Linear Regression,Brazil
+2000,70.116,,,real,Linear Regression,Brazil
+2000,70.116,,,real,Linear Regression,Brazil
+2000,70.116,,,real,Linear Regression,Brazil
+2001,70.462,,,real,Linear Regression,Brazil
+2001,70.462,,,real,Linear Regression,Brazil
+2001,70.462,,,real,Linear Regression,Brazil
+2002,70.813,,,real,Linear Regression,Brazil
+2002,70.813,,,real,Linear Regression,Brazil
+2002,70.813,,,real,Linear Regression,Brazil
+2003,71.17,,,real,Linear Regression,Brazil
+2003,71.17,,,real,Linear Regression,Brazil
+2003,71.17,,,real,Linear Regression,Brazil
+2004,71.531,,,real,Linear Regression,Brazil
+2004,71.531,,,real,Linear Regression,Brazil
+2004,71.531,,,real,Linear Regression,Brazil
+2005,71.896,,,real,Linear Regression,Brazil
+2005,71.896,,,real,Linear Regression,Brazil
+2005,71.896,,,real,Linear Regression,Brazil
+2006,72.26,,,real,Linear Regression,Brazil
+2006,72.26,,,real,Linear Regression,Brazil
+2006,72.26,,,real,Linear Regression,Brazil
+2007,72.618,,,real,Linear Regression,Brazil
+2007,72.618,,,real,Linear Regression,Brazil
+2007,72.618,,,real,Linear Regression,Brazil
+2008,72.966,,,real,Linear Regression,Brazil
+2008,72.966,,,real,Linear Regression,Brazil
+2008,72.966,,,real,Linear Regression,Brazil
+2009,73.3,,,real,Linear Regression,Brazil
+2009,73.3,,,real,Linear Regression,Brazil
+2009,73.3,,,real,Linear Regression,Brazil
+2010,73.619,,,real,Linear Regression,Brazil
+2010,73.619,,,real,Linear Regression,Brazil
+2010,73.619,,,real,Linear Regression,Brazil
+2011,73.921,,,real,Linear Regression,Brazil
+2011,73.921,,,real,Linear Regression,Brazil
+2011,73.921,,,real,Linear Regression,Brazil
+2012,74.209,,,real,Linear Regression,Brazil
+2012,74.209,,,real,Linear Regression,Brazil
+2012,74.209,,,real,Linear Regression,Brazil
+2013,74.483,,,real,Linear Regression,Brazil
+2013,74.483,,,real,Linear Regression,Brazil
+2013,74.483,,,real,Linear Regression,Brazil
+2014,74.745,,,real,Linear Regression,Brazil
+2014,74.745,,,real,Linear Regression,Brazil
+2014,74.745,,,real,Linear Regression,Brazil
+2015,74.994,,,real,Linear Regression,Brazil
+2015,74.994,,,real,Linear Regression,Brazil
+2015,74.994,,,real,Linear Regression,Brazil
+2016,75.23,,,real,Linear Regression,Brazil
+2016,75.23,,,real,Linear Regression,Brazil
+2016,75.23,,,real,Linear Regression,Brazil
+2012,74.19125868514013,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2012,74.19125868514013,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2012,74.19125868514013,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2013,74.49743563289911,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2013,74.49743563289911,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2013,74.49743563289911,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2014,74.78790643422347,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2014,74.78790643422347,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2014,74.78790643422347,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2015,74.99964603046664,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2015,74.99964603046664,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2015,74.99964603046664,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2016,75.19500048586852,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2016,75.19500048586852,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+2016,75.19500048586852,0.0007241894994796123,0.9943113882721485,predicted,Ridge Regression,Brazil
+1990,66.343,,,real,Ridge Regression,Brazil
+1991,66.742,,,real,Ridge Regression,Brazil
+1992,67.141,,,real,Ridge Regression,Brazil
+1993,67.539,,,real,Ridge Regression,Brazil
+1994,67.932,,,real,Ridge Regression,Brazil
+1995,68.318,,,real,Ridge Regression,Brazil
+1996,68.695,,,real,Ridge Regression,Brazil
+1997,69.061,,,real,Ridge Regression,Brazil
+1998,69.419,,,real,Ridge Regression,Brazil
+1999,69.769,,,real,Ridge Regression,Brazil
+2000,70.116,,,real,Ridge Regression,Brazil
+2000,70.116,,,real,Ridge Regression,Brazil
+2000,70.116,,,real,Ridge Regression,Brazil
+2001,70.462,,,real,Ridge Regression,Brazil
+2001,70.462,,,real,Ridge Regression,Brazil
+2001,70.462,,,real,Ridge Regression,Brazil
+2002,70.813,,,real,Ridge Regression,Brazil
+2002,70.813,,,real,Ridge Regression,Brazil
+2002,70.813,,,real,Ridge Regression,Brazil
+2003,71.17,,,real,Ridge Regression,Brazil
+2003,71.17,,,real,Ridge Regression,Brazil
+2003,71.17,,,real,Ridge Regression,Brazil
+2004,71.531,,,real,Ridge Regression,Brazil
+2004,71.531,,,real,Ridge Regression,Brazil
+2004,71.531,,,real,Ridge Regression,Brazil
+2005,71.896,,,real,Ridge Regression,Brazil
+2005,71.896,,,real,Ridge Regression,Brazil
+2005,71.896,,,real,Ridge Regression,Brazil
+2006,72.26,,,real,Ridge Regression,Brazil
+2006,72.26,,,real,Ridge Regression,Brazil
+2006,72.26,,,real,Ridge Regression,Brazil
+2007,72.618,,,real,Ridge Regression,Brazil
+2007,72.618,,,real,Ridge Regression,Brazil
+2007,72.618,,,real,Ridge Regression,Brazil
+2008,72.966,,,real,Ridge Regression,Brazil
+2008,72.966,,,real,Ridge Regression,Brazil
+2008,72.966,,,real,Ridge Regression,Brazil
+2009,73.3,,,real,Ridge Regression,Brazil
+2009,73.3,,,real,Ridge Regression,Brazil
+2009,73.3,,,real,Ridge Regression,Brazil
+2010,73.619,,,real,Ridge Regression,Brazil
+2010,73.619,,,real,Ridge Regression,Brazil
+2010,73.619,,,real,Ridge Regression,Brazil
+2011,73.921,,,real,Ridge Regression,Brazil
+2011,73.921,,,real,Ridge Regression,Brazil
+2011,73.921,,,real,Ridge Regression,Brazil
+2012,74.209,,,real,Ridge Regression,Brazil
+2012,74.209,,,real,Ridge Regression,Brazil
+2012,74.209,,,real,Ridge Regression,Brazil
+2013,74.483,,,real,Ridge Regression,Brazil
+2013,74.483,,,real,Ridge Regression,Brazil
+2013,74.483,,,real,Ridge Regression,Brazil
+2014,74.745,,,real,Ridge Regression,Brazil
+2014,74.745,,,real,Ridge Regression,Brazil
+2014,74.745,,,real,Ridge Regression,Brazil
+2015,74.994,,,real,Ridge Regression,Brazil
+2015,74.994,,,real,Ridge Regression,Brazil
+2015,74.994,,,real,Ridge Regression,Brazil
+2016,75.23,,,real,Ridge Regression,Brazil
+2016,75.23,,,real,Ridge Regression,Brazil
+2016,75.23,,,real,Ridge Regression,Brazil
+2012,74.1925828822725,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2012,74.1925828822725,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2012,74.1925828822725,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2013,74.50051235060025,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2013,74.50051235060025,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2013,74.50051235060025,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2014,74.79144096731181,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2014,74.79144096731181,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2014,74.79144096731181,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2015,74.9953680905152,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2015,74.9953680905152,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2015,74.9953680905152,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2016,75.17795458540719,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2016,75.17795458540719,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+2016,75.17795458540719,0.0010887128949352723,0.9916554132331509,predicted,Lasso Regression,Brazil
+1990,66.343,,,real,Lasso Regression,Brazil
+1991,66.742,,,real,Lasso Regression,Brazil
+1992,67.141,,,real,Lasso Regression,Brazil
+1993,67.539,,,real,Lasso Regression,Brazil
+1994,67.932,,,real,Lasso Regression,Brazil
+1995,68.318,,,real,Lasso Regression,Brazil
+1996,68.695,,,real,Lasso Regression,Brazil
+1997,69.061,,,real,Lasso Regression,Brazil
+1998,69.419,,,real,Lasso Regression,Brazil
+1999,69.769,,,real,Lasso Regression,Brazil
+2000,70.116,,,real,Lasso Regression,Brazil
+2000,70.116,,,real,Lasso Regression,Brazil
+2000,70.116,,,real,Lasso Regression,Brazil
+2001,70.462,,,real,Lasso Regression,Brazil
+2001,70.462,,,real,Lasso Regression,Brazil
+2001,70.462,,,real,Lasso Regression,Brazil
+2002,70.813,,,real,Lasso Regression,Brazil
+2002,70.813,,,real,Lasso Regression,Brazil
+2002,70.813,,,real,Lasso Regression,Brazil
+2003,71.17,,,real,Lasso Regression,Brazil
+2003,71.17,,,real,Lasso Regression,Brazil
+2003,71.17,,,real,Lasso Regression,Brazil
+2004,71.531,,,real,Lasso Regression,Brazil
+2004,71.531,,,real,Lasso Regression,Brazil
+2004,71.531,,,real,Lasso Regression,Brazil
+2005,71.896,,,real,Lasso Regression,Brazil
+2005,71.896,,,real,Lasso Regression,Brazil
+2005,71.896,,,real,Lasso Regression,Brazil
+2006,72.26,,,real,Lasso Regression,Brazil
+2006,72.26,,,real,Lasso Regression,Brazil
+2006,72.26,,,real,Lasso Regression,Brazil
+2007,72.618,,,real,Lasso Regression,Brazil
+2007,72.618,,,real,Lasso Regression,Brazil
+2007,72.618,,,real,Lasso Regression,Brazil
+2008,72.966,,,real,Lasso Regression,Brazil
+2008,72.966,,,real,Lasso Regression,Brazil
+2008,72.966,,,real,Lasso Regression,Brazil
+2009,73.3,,,real,Lasso Regression,Brazil
+2009,73.3,,,real,Lasso Regression,Brazil
+2009,73.3,,,real,Lasso Regression,Brazil
+2010,73.619,,,real,Lasso Regression,Brazil
+2010,73.619,,,real,Lasso Regression,Brazil
+2010,73.619,,,real,Lasso Regression,Brazil
+2011,73.921,,,real,Lasso Regression,Brazil
+2011,73.921,,,real,Lasso Regression,Brazil
+2011,73.921,,,real,Lasso Regression,Brazil
+2012,74.209,,,real,Lasso Regression,Brazil
+2012,74.209,,,real,Lasso Regression,Brazil
+2012,74.209,,,real,Lasso Regression,Brazil
+2013,74.483,,,real,Lasso Regression,Brazil
+2013,74.483,,,real,Lasso Regression,Brazil
+2013,74.483,,,real,Lasso Regression,Brazil
+2014,74.745,,,real,Lasso Regression,Brazil
+2014,74.745,,,real,Lasso Regression,Brazil
+2014,74.745,,,real,Lasso Regression,Brazil
+2015,74.994,,,real,Lasso Regression,Brazil
+2015,74.994,,,real,Lasso Regression,Brazil
+2015,74.994,,,real,Lasso Regression,Brazil
+2016,75.23,,,real,Lasso Regression,Brazil
+2016,75.23,,,real,Lasso Regression,Brazil
+2016,75.23,,,real,Lasso Regression,Brazil
+2012,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2012,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2012,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2013,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2013,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2013,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2014,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2014,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2014,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2015,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2015,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2015,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2016,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2016,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+2016,73.921,0.7885147999999941,-5.0436779945881245,predicted,Decision Tree,Brazil
+1990,66.343,,,real,Decision Tree,Brazil
+1991,66.742,,,real,Decision Tree,Brazil
+1992,67.141,,,real,Decision Tree,Brazil
+1993,67.539,,,real,Decision Tree,Brazil
+1994,67.932,,,real,Decision Tree,Brazil
+1995,68.318,,,real,Decision Tree,Brazil
+1996,68.695,,,real,Decision Tree,Brazil
+1997,69.061,,,real,Decision Tree,Brazil
+1998,69.419,,,real,Decision Tree,Brazil
+1999,69.769,,,real,Decision Tree,Brazil
+2000,70.116,,,real,Decision Tree,Brazil
+2000,70.116,,,real,Decision Tree,Brazil
+2000,70.116,,,real,Decision Tree,Brazil
+2001,70.462,,,real,Decision Tree,Brazil
+2001,70.462,,,real,Decision Tree,Brazil
+2001,70.462,,,real,Decision Tree,Brazil
+2002,70.813,,,real,Decision Tree,Brazil
+2002,70.813,,,real,Decision Tree,Brazil
+2002,70.813,,,real,Decision Tree,Brazil
+2003,71.17,,,real,Decision Tree,Brazil
+2003,71.17,,,real,Decision Tree,Brazil
+2003,71.17,,,real,Decision Tree,Brazil
+2004,71.531,,,real,Decision Tree,Brazil
+2004,71.531,,,real,Decision Tree,Brazil
+2004,71.531,,,real,Decision Tree,Brazil
+2005,71.896,,,real,Decision Tree,Brazil
+2005,71.896,,,real,Decision Tree,Brazil
+2005,71.896,,,real,Decision Tree,Brazil
+2006,72.26,,,real,Decision Tree,Brazil
+2006,72.26,,,real,Decision Tree,Brazil
+2006,72.26,,,real,Decision Tree,Brazil
+2007,72.618,,,real,Decision Tree,Brazil
+2007,72.618,,,real,Decision Tree,Brazil
+2007,72.618,,,real,Decision Tree,Brazil
+2008,72.966,,,real,Decision Tree,Brazil
+2008,72.966,,,real,Decision Tree,Brazil
+2008,72.966,,,real,Decision Tree,Brazil
+2009,73.3,,,real,Decision Tree,Brazil
+2009,73.3,,,real,Decision Tree,Brazil
+2009,73.3,,,real,Decision Tree,Brazil
+2010,73.619,,,real,Decision Tree,Brazil
+2010,73.619,,,real,Decision Tree,Brazil
+2010,73.619,,,real,Decision Tree,Brazil
+2011,73.921,,,real,Decision Tree,Brazil
+2011,73.921,,,real,Decision Tree,Brazil
+2011,73.921,,,real,Decision Tree,Brazil
+2012,74.209,,,real,Decision Tree,Brazil
+2012,74.209,,,real,Decision Tree,Brazil
+2012,74.209,,,real,Decision Tree,Brazil
+2013,74.483,,,real,Decision Tree,Brazil
+2013,74.483,,,real,Decision Tree,Brazil
+2013,74.483,,,real,Decision Tree,Brazil
+2014,74.745,,,real,Decision Tree,Brazil
+2014,74.745,,,real,Decision Tree,Brazil
+2014,74.745,,,real,Decision Tree,Brazil
+2015,74.994,,,real,Decision Tree,Brazil
+2015,74.994,,,real,Decision Tree,Brazil
+2015,74.994,,,real,Decision Tree,Brazil
+2016,75.23,,,real,Decision Tree,Brazil
+2016,75.23,,,real,Decision Tree,Brazil
+2016,75.23,,,real,Decision Tree,Brazil
+2012,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2012,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2012,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2013,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2013,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2013,73.83812000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2014,73.82251000000007,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2014,73.82251000000007,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2014,73.82251000000007,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2015,73.80373000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2015,73.80373000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2015,73.80373000000006,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2016,73.83172000000008,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2016,73.83172000000008,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+2016,73.83172000000008,0.9552679240398867,-6.321779795960439,predicted,Random Forest,Brazil
+1990,66.343,,,real,Random Forest,Brazil
+1991,66.742,,,real,Random Forest,Brazil
+1992,67.141,,,real,Random Forest,Brazil
+1993,67.539,,,real,Random Forest,Brazil
+1994,67.932,,,real,Random Forest,Brazil
+1995,68.318,,,real,Random Forest,Brazil
+1996,68.695,,,real,Random Forest,Brazil
+1997,69.061,,,real,Random Forest,Brazil
+1998,69.419,,,real,Random Forest,Brazil
+1999,69.769,,,real,Random Forest,Brazil
+2000,70.116,,,real,Random Forest,Brazil
+2000,70.116,,,real,Random Forest,Brazil
+2000,70.116,,,real,Random Forest,Brazil
+2001,70.462,,,real,Random Forest,Brazil
+2001,70.462,,,real,Random Forest,Brazil
+2001,70.462,,,real,Random Forest,Brazil
+2002,70.813,,,real,Random Forest,Brazil
+2002,70.813,,,real,Random Forest,Brazil
+2002,70.813,,,real,Random Forest,Brazil
+2003,71.17,,,real,Random Forest,Brazil
+2003,71.17,,,real,Random Forest,Brazil
+2003,71.17,,,real,Random Forest,Brazil
+2004,71.531,,,real,Random Forest,Brazil
+2004,71.531,,,real,Random Forest,Brazil
+2004,71.531,,,real,Random Forest,Brazil
+2005,71.896,,,real,Random Forest,Brazil
+2005,71.896,,,real,Random Forest,Brazil
+2005,71.896,,,real,Random Forest,Brazil
+2006,72.26,,,real,Random Forest,Brazil
+2006,72.26,,,real,Random Forest,Brazil
+2006,72.26,,,real,Random Forest,Brazil
+2007,72.618,,,real,Random Forest,Brazil
+2007,72.618,,,real,Random Forest,Brazil
+2007,72.618,,,real,Random Forest,Brazil
+2008,72.966,,,real,Random Forest,Brazil
+2008,72.966,,,real,Random Forest,Brazil
+2008,72.966,,,real,Random Forest,Brazil
+2009,73.3,,,real,Random Forest,Brazil
+2009,73.3,,,real,Random Forest,Brazil
+2009,73.3,,,real,Random Forest,Brazil
+2010,73.619,,,real,Random Forest,Brazil
+2010,73.619,,,real,Random Forest,Brazil
+2010,73.619,,,real,Random Forest,Brazil
+2011,73.921,,,real,Random Forest,Brazil
+2011,73.921,,,real,Random Forest,Brazil
+2011,73.921,,,real,Random Forest,Brazil
+2012,74.209,,,real,Random Forest,Brazil
+2012,74.209,,,real,Random Forest,Brazil
+2012,74.209,,,real,Random Forest,Brazil
+2013,74.483,,,real,Random Forest,Brazil
+2013,74.483,,,real,Random Forest,Brazil
+2013,74.483,,,real,Random Forest,Brazil
+2014,74.745,,,real,Random Forest,Brazil
+2014,74.745,,,real,Random Forest,Brazil
+2014,74.745,,,real,Random Forest,Brazil
+2015,74.994,,,real,Random Forest,Brazil
+2015,74.994,,,real,Random Forest,Brazil
+2015,74.994,,,real,Random Forest,Brazil
+2016,75.23,,,real,Random Forest,Brazil
+2016,75.23,,,real,Random Forest,Brazil
+2016,75.23,,,real,Random Forest,Brazil
+2012,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2012,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2012,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2013,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2013,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2013,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2014,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2014,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2014,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2015,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2015,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2015,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2016,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2016,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+2016,73.921,0.7885147999999941,-5.0436779945881245,predicted,Gradient Boosting,Brazil
+1990,66.343,,,real,Gradient Boosting,Brazil
+1991,66.742,,,real,Gradient Boosting,Brazil
+1992,67.141,,,real,Gradient Boosting,Brazil
+1993,67.539,,,real,Gradient Boosting,Brazil
+1994,67.932,,,real,Gradient Boosting,Brazil
+1995,68.318,,,real,Gradient Boosting,Brazil
+1996,68.695,,,real,Gradient Boosting,Brazil
+1997,69.061,,,real,Gradient Boosting,Brazil
+1998,69.419,,,real,Gradient Boosting,Brazil
+1999,69.769,,,real,Gradient Boosting,Brazil
+2000,70.116,,,real,Gradient Boosting,Brazil
+2000,70.116,,,real,Gradient Boosting,Brazil
+2000,70.116,,,real,Gradient Boosting,Brazil
+2001,70.462,,,real,Gradient Boosting,Brazil
+2001,70.462,,,real,Gradient Boosting,Brazil
+2001,70.462,,,real,Gradient Boosting,Brazil
+2002,70.813,,,real,Gradient Boosting,Brazil
+2002,70.813,,,real,Gradient Boosting,Brazil
+2002,70.813,,,real,Gradient Boosting,Brazil
+2003,71.17,,,real,Gradient Boosting,Brazil
+2003,71.17,,,real,Gradient Boosting,Brazil
+2003,71.17,,,real,Gradient Boosting,Brazil
+2004,71.531,,,real,Gradient Boosting,Brazil
+2004,71.531,,,real,Gradient Boosting,Brazil
+2004,71.531,,,real,Gradient Boosting,Brazil
+2005,71.896,,,real,Gradient Boosting,Brazil
+2005,71.896,,,real,Gradient Boosting,Brazil
+2005,71.896,,,real,Gradient Boosting,Brazil
+2006,72.26,,,real,Gradient Boosting,Brazil
+2006,72.26,,,real,Gradient Boosting,Brazil
+2006,72.26,,,real,Gradient Boosting,Brazil
+2007,72.618,,,real,Gradient Boosting,Brazil
+2007,72.618,,,real,Gradient Boosting,Brazil
+2007,72.618,,,real,Gradient Boosting,Brazil
+2008,72.966,,,real,Gradient Boosting,Brazil
+2008,72.966,,,real,Gradient Boosting,Brazil
+2008,72.966,,,real,Gradient Boosting,Brazil
+2009,73.3,,,real,Gradient Boosting,Brazil
+2009,73.3,,,real,Gradient Boosting,Brazil
+2009,73.3,,,real,Gradient Boosting,Brazil
+2010,73.619,,,real,Gradient Boosting,Brazil
+2010,73.619,,,real,Gradient Boosting,Brazil
+2010,73.619,,,real,Gradient Boosting,Brazil
+2011,73.921,,,real,Gradient Boosting,Brazil
+2011,73.921,,,real,Gradient Boosting,Brazil
+2011,73.921,,,real,Gradient Boosting,Brazil
+2012,74.209,,,real,Gradient Boosting,Brazil
+2012,74.209,,,real,Gradient Boosting,Brazil
+2012,74.209,,,real,Gradient Boosting,Brazil
+2013,74.483,,,real,Gradient Boosting,Brazil
+2013,74.483,,,real,Gradient Boosting,Brazil
+2013,74.483,,,real,Gradient Boosting,Brazil
+2014,74.745,,,real,Gradient Boosting,Brazil
+2014,74.745,,,real,Gradient Boosting,Brazil
+2014,74.745,,,real,Gradient Boosting,Brazil
+2015,74.994,,,real,Gradient Boosting,Brazil
+2015,74.994,,,real,Gradient Boosting,Brazil
+2015,74.994,,,real,Gradient Boosting,Brazil
+2016,75.23,,,real,Gradient Boosting,Brazil
+2016,75.23,,,real,Gradient Boosting,Brazil
+2016,75.23,,,real,Gradient Boosting,Brazil
+2012,60.00194708852541,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2012,60.00194708852541,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2012,60.00194708852541,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2013,61.431460048188455,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2013,61.431460048188455,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2013,61.431460048188455,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2014,63.24214111690526,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2014,63.24214111690526,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2014,63.24214111690526,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2015,65.58953070584175,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2015,65.58953070584175,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2015,65.58953070584175,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2016,68.18284325555396,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2016,68.18284325555396,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+2016,68.18284325555396,7.1366758834801205,-4.852011050824008,predicted,Linear Regression,South Africa
+1990,63.307,,,real,Linear Regression,South Africa
+1991,63.384,,,real,Linear Regression,South Africa
+1992,63.247,,,real,Linear Regression,South Africa
+1993,62.894,,,real,Linear Regression,South Africa
+1994,62.331,,,real,Linear Regression,South Africa
+1995,61.561,,,real,Linear Regression,South Africa
+1996,60.595,,,real,Linear Regression,South Africa
+1997,59.489,,,real,Linear Regression,South Africa
+1998,58.315,,,real,Linear Regression,South Africa
+1999,57.144,,,real,Linear Regression,South Africa
+2000,56.048,,,real,Linear Regression,South Africa
+2000,56.048,,,real,Linear Regression,South Africa
+2000,56.048,,,real,Linear Regression,South Africa
+2001,55.089,,,real,Linear Regression,South Africa
+2001,55.089,,,real,Linear Regression,South Africa
+2001,55.089,,,real,Linear Regression,South Africa
+2002,54.31,,,real,Linear Regression,South Africa
+2002,54.31,,,real,Linear Regression,South Africa
+2002,54.31,,,real,Linear Regression,South Africa
+2003,53.749,,,real,Linear Regression,South Africa
+2003,53.749,,,real,Linear Regression,South Africa
+2003,53.749,,,real,Linear Regression,South Africa
+2004,53.444,,,real,Linear Regression,South Africa
+2004,53.444,,,real,Linear Regression,South Africa
+2004,53.444,,,real,Linear Regression,South Africa
+2005,53.447,,,real,Linear Regression,South Africa
+2005,53.447,,,real,Linear Regression,South Africa
+2005,53.447,,,real,Linear Regression,South Africa
+2006,53.795,,,real,Linear Regression,South Africa
+2006,53.795,,,real,Linear Regression,South Africa
+2006,53.795,,,real,Linear Regression,South Africa
+2007,54.452,,,real,Linear Regression,South Africa
+2007,54.452,,,real,Linear Regression,South Africa
+2007,54.452,,,real,Linear Regression,South Africa
+2008,55.36,,,real,Linear Regression,South Africa
+2008,55.36,,,real,Linear Regression,South Africa
+2008,55.36,,,real,Linear Regression,South Africa
+2009,56.46,,,real,Linear Regression,South Africa
+2009,56.46,,,real,Linear Regression,South Africa
+2009,56.46,,,real,Linear Regression,South Africa
+2010,57.669,,,real,Linear Regression,South Africa
+2010,57.669,,,real,Linear Regression,South Africa
+2010,57.669,,,real,Linear Regression,South Africa
+2011,58.895,,,real,Linear Regression,South Africa
+2011,58.895,,,real,Linear Regression,South Africa
+2011,58.895,,,real,Linear Regression,South Africa
+2012,60.06,,,real,Linear Regression,South Africa
+2012,60.06,,,real,Linear Regression,South Africa
+2012,60.06,,,real,Linear Regression,South Africa
+2013,61.099,,,real,Linear Regression,South Africa
+2013,61.099,,,real,Linear Regression,South Africa
+2013,61.099,,,real,Linear Regression,South Africa
+2014,61.968,,,real,Linear Regression,South Africa
+2014,61.968,,,real,Linear Regression,South Africa
+2014,61.968,,,real,Linear Regression,South Africa
+2015,62.649,,,real,Linear Regression,South Africa
+2015,62.649,,,real,Linear Regression,South Africa
+2015,62.649,,,real,Linear Regression,South Africa
+2016,63.153,,,real,Linear Regression,South Africa
+2016,63.153,,,real,Linear Regression,South Africa
+2016,63.153,,,real,Linear Regression,South Africa
+2012,60.654498616286084,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2012,60.654498616286084,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2012,60.654498616286084,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2013,61.82832845965548,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2013,61.82832845965548,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2013,61.82832845965548,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2014,62.55326689238146,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2014,62.55326689238146,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2014,62.55326689238146,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2015,62.41799147774287,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2015,62.41799147774287,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2015,62.41799147774287,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2016,62.16634797953854,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2016,62.16634797953854,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+2016,62.16634797953854,0.4509466177966895,0.027932728189774658,predicted,Ridge Regression,South Africa
+1990,63.307,,,real,Ridge Regression,South Africa
+1991,63.384,,,real,Ridge Regression,South Africa
+1992,63.247,,,real,Ridge Regression,South Africa
+1993,62.894,,,real,Ridge Regression,South Africa
+1994,62.331,,,real,Ridge Regression,South Africa
+1995,61.561,,,real,Ridge Regression,South Africa
+1996,60.595,,,real,Ridge Regression,South Africa
+1997,59.489,,,real,Ridge Regression,South Africa
+1998,58.315,,,real,Ridge Regression,South Africa
+1999,57.144,,,real,Ridge Regression,South Africa
+2000,56.048,,,real,Ridge Regression,South Africa
+2000,56.048,,,real,Ridge Regression,South Africa
+2000,56.048,,,real,Ridge Regression,South Africa
+2001,55.089,,,real,Ridge Regression,South Africa
+2001,55.089,,,real,Ridge Regression,South Africa
+2001,55.089,,,real,Ridge Regression,South Africa
+2002,54.31,,,real,Ridge Regression,South Africa
+2002,54.31,,,real,Ridge Regression,South Africa
+2002,54.31,,,real,Ridge Regression,South Africa
+2003,53.749,,,real,Ridge Regression,South Africa
+2003,53.749,,,real,Ridge Regression,South Africa
+2003,53.749,,,real,Ridge Regression,South Africa
+2004,53.444,,,real,Ridge Regression,South Africa
+2004,53.444,,,real,Ridge Regression,South Africa
+2004,53.444,,,real,Ridge Regression,South Africa
+2005,53.447,,,real,Ridge Regression,South Africa
+2005,53.447,,,real,Ridge Regression,South Africa
+2005,53.447,,,real,Ridge Regression,South Africa
+2006,53.795,,,real,Ridge Regression,South Africa
+2006,53.795,,,real,Ridge Regression,South Africa
+2006,53.795,,,real,Ridge Regression,South Africa
+2007,54.452,,,real,Ridge Regression,South Africa
+2007,54.452,,,real,Ridge Regression,South Africa
+2007,54.452,,,real,Ridge Regression,South Africa
+2008,55.36,,,real,Ridge Regression,South Africa
+2008,55.36,,,real,Ridge Regression,South Africa
+2008,55.36,,,real,Ridge Regression,South Africa
+2009,56.46,,,real,Ridge Regression,South Africa
+2009,56.46,,,real,Ridge Regression,South Africa
+2009,56.46,,,real,Ridge Regression,South Africa
+2010,57.669,,,real,Ridge Regression,South Africa
+2010,57.669,,,real,Ridge Regression,South Africa
+2010,57.669,,,real,Ridge Regression,South Africa
+2011,58.895,,,real,Ridge Regression,South Africa
+2011,58.895,,,real,Ridge Regression,South Africa
+2011,58.895,,,real,Ridge Regression,South Africa
+2012,60.06,,,real,Ridge Regression,South Africa
+2012,60.06,,,real,Ridge Regression,South Africa
+2012,60.06,,,real,Ridge Regression,South Africa
+2013,61.099,,,real,Ridge Regression,South Africa
+2013,61.099,,,real,Ridge Regression,South Africa
+2013,61.099,,,real,Ridge Regression,South Africa
+2014,61.968,,,real,Ridge Regression,South Africa
+2014,61.968,,,real,Ridge Regression,South Africa
+2014,61.968,,,real,Ridge Regression,South Africa
+2015,62.649,,,real,Ridge Regression,South Africa
+2015,62.649,,,real,Ridge Regression,South Africa
+2015,62.649,,,real,Ridge Regression,South Africa
+2016,63.153,,,real,Ridge Regression,South Africa
+2016,63.153,,,real,Ridge Regression,South Africa
+2016,63.153,,,real,Ridge Regression,South Africa
+2012,60.64410967566308,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2012,60.64410967566308,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2012,60.64410967566308,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2013,61.786887810493035,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2013,61.786887810493035,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2013,61.786887810493035,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2014,62.49228526046079,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2014,62.49228526046079,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2014,62.49228526046079,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2015,62.38565205392384,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2015,62.38565205392384,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2015,62.38565205392384,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2016,62.18655354466798,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2016,62.18655354466798,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+2016,62.18655354466798,0.41852393581818453,0.6568140773897602,predicted,Lasso Regression,South Africa
+1990,63.307,,,real,Lasso Regression,South Africa
+1991,63.384,,,real,Lasso Regression,South Africa
+1992,63.247,,,real,Lasso Regression,South Africa
+1993,62.894,,,real,Lasso Regression,South Africa
+1994,62.331,,,real,Lasso Regression,South Africa
+1995,61.561,,,real,Lasso Regression,South Africa
+1996,60.595,,,real,Lasso Regression,South Africa
+1997,59.489,,,real,Lasso Regression,South Africa
+1998,58.315,,,real,Lasso Regression,South Africa
+1999,57.144,,,real,Lasso Regression,South Africa
+2000,56.048,,,real,Lasso Regression,South Africa
+2000,56.048,,,real,Lasso Regression,South Africa
+2000,56.048,,,real,Lasso Regression,South Africa
+2001,55.089,,,real,Lasso Regression,South Africa
+2001,55.089,,,real,Lasso Regression,South Africa
+2001,55.089,,,real,Lasso Regression,South Africa
+2002,54.31,,,real,Lasso Regression,South Africa
+2002,54.31,,,real,Lasso Regression,South Africa
+2002,54.31,,,real,Lasso Regression,South Africa
+2003,53.749,,,real,Lasso Regression,South Africa
+2003,53.749,,,real,Lasso Regression,South Africa
+2003,53.749,,,real,Lasso Regression,South Africa
+2004,53.444,,,real,Lasso Regression,South Africa
+2004,53.444,,,real,Lasso Regression,South Africa
+2004,53.444,,,real,Lasso Regression,South Africa
+2005,53.447,,,real,Lasso Regression,South Africa
+2005,53.447,,,real,Lasso Regression,South Africa
+2005,53.447,,,real,Lasso Regression,South Africa
+2006,53.795,,,real,Lasso Regression,South Africa
+2006,53.795,,,real,Lasso Regression,South Africa
+2006,53.795,,,real,Lasso Regression,South Africa
+2007,54.452,,,real,Lasso Regression,South Africa
+2007,54.452,,,real,Lasso Regression,South Africa
+2007,54.452,,,real,Lasso Regression,South Africa
+2008,55.36,,,real,Lasso Regression,South Africa
+2008,55.36,,,real,Lasso Regression,South Africa
+2008,55.36,,,real,Lasso Regression,South Africa
+2009,56.46,,,real,Lasso Regression,South Africa
+2009,56.46,,,real,Lasso Regression,South Africa
+2009,56.46,,,real,Lasso Regression,South Africa
+2010,57.669,,,real,Lasso Regression,South Africa
+2010,57.669,,,real,Lasso Regression,South Africa
+2010,57.669,,,real,Lasso Regression,South Africa
+2011,58.895,,,real,Lasso Regression,South Africa
+2011,58.895,,,real,Lasso Regression,South Africa
+2011,58.895,,,real,Lasso Regression,South Africa
+2012,60.06,,,real,Lasso Regression,South Africa
+2012,60.06,,,real,Lasso Regression,South Africa
+2012,60.06,,,real,Lasso Regression,South Africa
+2013,61.099,,,real,Lasso Regression,South Africa
+2013,61.099,,,real,Lasso Regression,South Africa
+2013,61.099,,,real,Lasso Regression,South Africa
+2014,61.968,,,real,Lasso Regression,South Africa
+2014,61.968,,,real,Lasso Regression,South Africa
+2014,61.968,,,real,Lasso Regression,South Africa
+2015,62.649,,,real,Lasso Regression,South Africa
+2015,62.649,,,real,Lasso Regression,South Africa
+2015,62.649,,,real,Lasso Regression,South Africa
+2016,63.153,,,real,Lasso Regression,South Africa
+2016,63.153,,,real,Lasso Regression,South Africa
+2016,63.153,,,real,Lasso Regression,South Africa
+2012,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2012,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2012,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2013,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2013,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2013,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2014,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2014,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2014,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2015,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2015,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2015,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2016,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2016,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+2016,60.321000000000005,3.365164399999985,-1.7594050196709219,predicted,Decision Tree,South Africa
+1990,63.307,,,real,Decision Tree,South Africa
+1991,63.384,,,real,Decision Tree,South Africa
+1992,63.247,,,real,Decision Tree,South Africa
+1993,62.894,,,real,Decision Tree,South Africa
+1994,62.331,,,real,Decision Tree,South Africa
+1995,61.561,,,real,Decision Tree,South Africa
+1996,60.595,,,real,Decision Tree,South Africa
+1997,59.489,,,real,Decision Tree,South Africa
+1998,58.315,,,real,Decision Tree,South Africa
+1999,57.144,,,real,Decision Tree,South Africa
+2000,56.048,,,real,Decision Tree,South Africa
+2000,56.048,,,real,Decision Tree,South Africa
+2000,56.048,,,real,Decision Tree,South Africa
+2001,55.089,,,real,Decision Tree,South Africa
+2001,55.089,,,real,Decision Tree,South Africa
+2001,55.089,,,real,Decision Tree,South Africa
+2002,54.31,,,real,Decision Tree,South Africa
+2002,54.31,,,real,Decision Tree,South Africa
+2002,54.31,,,real,Decision Tree,South Africa
+2003,53.749,,,real,Decision Tree,South Africa
+2003,53.749,,,real,Decision Tree,South Africa
+2003,53.749,,,real,Decision Tree,South Africa
+2004,53.444,,,real,Decision Tree,South Africa
+2004,53.444,,,real,Decision Tree,South Africa
+2004,53.444,,,real,Decision Tree,South Africa
+2005,53.447,,,real,Decision Tree,South Africa
+2005,53.447,,,real,Decision Tree,South Africa
+2005,53.447,,,real,Decision Tree,South Africa
+2006,53.795,,,real,Decision Tree,South Africa
+2006,53.795,,,real,Decision Tree,South Africa
+2006,53.795,,,real,Decision Tree,South Africa
+2007,54.452,,,real,Decision Tree,South Africa
+2007,54.452,,,real,Decision Tree,South Africa
+2007,54.452,,,real,Decision Tree,South Africa
+2008,55.36,,,real,Decision Tree,South Africa
+2008,55.36,,,real,Decision Tree,South Africa
+2008,55.36,,,real,Decision Tree,South Africa
+2009,56.46,,,real,Decision Tree,South Africa
+2009,56.46,,,real,Decision Tree,South Africa
+2009,56.46,,,real,Decision Tree,South Africa
+2010,57.669,,,real,Decision Tree,South Africa
+2010,57.669,,,real,Decision Tree,South Africa
+2010,57.669,,,real,Decision Tree,South Africa
+2011,58.895,,,real,Decision Tree,South Africa
+2011,58.895,,,real,Decision Tree,South Africa
+2011,58.895,,,real,Decision Tree,South Africa
+2012,60.06,,,real,Decision Tree,South Africa
+2012,60.06,,,real,Decision Tree,South Africa
+2012,60.06,,,real,Decision Tree,South Africa
+2013,61.099,,,real,Decision Tree,South Africa
+2013,61.099,,,real,Decision Tree,South Africa
+2013,61.099,,,real,Decision Tree,South Africa
+2014,61.968,,,real,Decision Tree,South Africa
+2014,61.968,,,real,Decision Tree,South Africa
+2014,61.968,,,real,Decision Tree,South Africa
+2015,62.649,,,real,Decision Tree,South Africa
+2015,62.649,,,real,Decision Tree,South Africa
+2015,62.649,,,real,Decision Tree,South Africa
+2016,63.153,,,real,Decision Tree,South Africa
+2016,63.153,,,real,Decision Tree,South Africa
+2016,63.153,,,real,Decision Tree,South Africa
+2012,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2012,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2012,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2013,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2013,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2013,58.65194000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2014,58.66190000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2014,58.66190000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2014,58.66190000000009,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2015,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2015,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2015,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2016,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2016,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+2016,58.68856000000008,10.903468464879474,-7.940747624042427,predicted,Random Forest,South Africa
+1990,63.307,,,real,Random Forest,South Africa
+1991,63.384,,,real,Random Forest,South Africa
+1992,63.247,,,real,Random Forest,South Africa
+1993,62.894,,,real,Random Forest,South Africa
+1994,62.331,,,real,Random Forest,South Africa
+1995,61.561,,,real,Random Forest,South Africa
+1996,60.595,,,real,Random Forest,South Africa
+1997,59.489,,,real,Random Forest,South Africa
+1998,58.315,,,real,Random Forest,South Africa
+1999,57.144,,,real,Random Forest,South Africa
+2000,56.048,,,real,Random Forest,South Africa
+2000,56.048,,,real,Random Forest,South Africa
+2000,56.048,,,real,Random Forest,South Africa
+2001,55.089,,,real,Random Forest,South Africa
+2001,55.089,,,real,Random Forest,South Africa
+2001,55.089,,,real,Random Forest,South Africa
+2002,54.31,,,real,Random Forest,South Africa
+2002,54.31,,,real,Random Forest,South Africa
+2002,54.31,,,real,Random Forest,South Africa
+2003,53.749,,,real,Random Forest,South Africa
+2003,53.749,,,real,Random Forest,South Africa
+2003,53.749,,,real,Random Forest,South Africa
+2004,53.444,,,real,Random Forest,South Africa
+2004,53.444,,,real,Random Forest,South Africa
+2004,53.444,,,real,Random Forest,South Africa
+2005,53.447,,,real,Random Forest,South Africa
+2005,53.447,,,real,Random Forest,South Africa
+2005,53.447,,,real,Random Forest,South Africa
+2006,53.795,,,real,Random Forest,South Africa
+2006,53.795,,,real,Random Forest,South Africa
+2006,53.795,,,real,Random Forest,South Africa
+2007,54.452,,,real,Random Forest,South Africa
+2007,54.452,,,real,Random Forest,South Africa
+2007,54.452,,,real,Random Forest,South Africa
+2008,55.36,,,real,Random Forest,South Africa
+2008,55.36,,,real,Random Forest,South Africa
+2008,55.36,,,real,Random Forest,South Africa
+2009,56.46,,,real,Random Forest,South Africa
+2009,56.46,,,real,Random Forest,South Africa
+2009,56.46,,,real,Random Forest,South Africa
+2010,57.669,,,real,Random Forest,South Africa
+2010,57.669,,,real,Random Forest,South Africa
+2010,57.669,,,real,Random Forest,South Africa
+2011,58.895,,,real,Random Forest,South Africa
+2011,58.895,,,real,Random Forest,South Africa
+2011,58.895,,,real,Random Forest,South Africa
+2012,60.06,,,real,Random Forest,South Africa
+2012,60.06,,,real,Random Forest,South Africa
+2012,60.06,,,real,Random Forest,South Africa
+2013,61.099,,,real,Random Forest,South Africa
+2013,61.099,,,real,Random Forest,South Africa
+2013,61.099,,,real,Random Forest,South Africa
+2014,61.968,,,real,Random Forest,South Africa
+2014,61.968,,,real,Random Forest,South Africa
+2014,61.968,,,real,Random Forest,South Africa
+2015,62.649,,,real,Random Forest,South Africa
+2015,62.649,,,real,Random Forest,South Africa
+2015,62.649,,,real,Random Forest,South Africa
+2016,63.153,,,real,Random Forest,South Africa
+2016,63.153,,,real,Random Forest,South Africa
+2016,63.153,,,real,Random Forest,South Africa
+2012,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2012,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2012,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2013,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2013,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2013,57.669000000019,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2014,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2014,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2014,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2015,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2015,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2015,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2016,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2016,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+2016,57.66900000001901,18.167567599843505,-13.89724461313664,predicted,Gradient Boosting,South Africa
+1990,63.307,,,real,Gradient Boosting,South Africa
+1991,63.384,,,real,Gradient Boosting,South Africa
+1992,63.247,,,real,Gradient Boosting,South Africa
+1993,62.894,,,real,Gradient Boosting,South Africa
+1994,62.331,,,real,Gradient Boosting,South Africa
+1995,61.561,,,real,Gradient Boosting,South Africa
+1996,60.595,,,real,Gradient Boosting,South Africa
+1997,59.489,,,real,Gradient Boosting,South Africa
+1998,58.315,,,real,Gradient Boosting,South Africa
+1999,57.144,,,real,Gradient Boosting,South Africa
+2000,56.048,,,real,Gradient Boosting,South Africa
+2000,56.048,,,real,Gradient Boosting,South Africa
+2000,56.048,,,real,Gradient Boosting,South Africa
+2001,55.089,,,real,Gradient Boosting,South Africa
+2001,55.089,,,real,Gradient Boosting,South Africa
+2001,55.089,,,real,Gradient Boosting,South Africa
+2002,54.31,,,real,Gradient Boosting,South Africa
+2002,54.31,,,real,Gradient Boosting,South Africa
+2002,54.31,,,real,Gradient Boosting,South Africa
+2003,53.749,,,real,Gradient Boosting,South Africa
+2003,53.749,,,real,Gradient Boosting,South Africa
+2003,53.749,,,real,Gradient Boosting,South Africa
+2004,53.444,,,real,Gradient Boosting,South Africa
+2004,53.444,,,real,Gradient Boosting,South Africa
+2004,53.444,,,real,Gradient Boosting,South Africa
+2005,53.447,,,real,Gradient Boosting,South Africa
+2005,53.447,,,real,Gradient Boosting,South Africa
+2005,53.447,,,real,Gradient Boosting,South Africa
+2006,53.795,,,real,Gradient Boosting,South Africa
+2006,53.795,,,real,Gradient Boosting,South Africa
+2006,53.795,,,real,Gradient Boosting,South Africa
+2007,54.452,,,real,Gradient Boosting,South Africa
+2007,54.452,,,real,Gradient Boosting,South Africa
+2007,54.452,,,real,Gradient Boosting,South Africa
+2008,55.36,,,real,Gradient Boosting,South Africa
+2008,55.36,,,real,Gradient Boosting,South Africa
+2008,55.36,,,real,Gradient Boosting,South Africa
+2009,56.46,,,real,Gradient Boosting,South Africa
+2009,56.46,,,real,Gradient Boosting,South Africa
+2009,56.46,,,real,Gradient Boosting,South Africa
+2010,57.669,,,real,Gradient Boosting,South Africa
+2010,57.669,,,real,Gradient Boosting,South Africa
+2010,57.669,,,real,Gradient Boosting,South Africa
+2011,58.895,,,real,Gradient Boosting,South Africa
+2011,58.895,,,real,Gradient Boosting,South Africa
+2011,58.895,,,real,Gradient Boosting,South Africa
+2012,60.06,,,real,Gradient Boosting,South Africa
+2012,60.06,,,real,Gradient Boosting,South Africa
+2012,60.06,,,real,Gradient Boosting,South Africa
+2013,61.099,,,real,Gradient Boosting,South Africa
+2013,61.099,,,real,Gradient Boosting,South Africa
+2013,61.099,,,real,Gradient Boosting,South Africa
+2014,61.968,,,real,Gradient Boosting,South Africa
+2014,61.968,,,real,Gradient Boosting,South Africa
+2014,61.968,,,real,Gradient Boosting,South Africa
+2015,62.649,,,real,Gradient Boosting,South Africa
+2015,62.649,,,real,Gradient Boosting,South Africa
+2015,62.649,,,real,Gradient Boosting,South Africa
+2016,63.153,,,real,Gradient Boosting,South Africa
+2016,63.153,,,real,Gradient Boosting,South Africa
+2016,63.153,,,real,Gradient Boosting,South Africa
